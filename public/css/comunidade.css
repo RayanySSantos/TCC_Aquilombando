@@ -1,0 +1,162 @@
+/* ======================= FUNDO EM LARGURA TOTAL ======================= */
+
+.bloco-fundo {
+    width: 100%;
+    padding: 70px 0;
+}
+
+.fundo-branco {
+    background-color: #ffffff;
+}
+
+.fundo-amarelo {
+    background-color: #a2cca3;
+}
+
+.fundo-vermelho {
+    background-color: #945747;
+}
+
+/* ======================= CONTAINER CENTRAL ======================= */
+
+.secao {
+    max-width: 1400px;
+    margin: auto;
+    padding: 20px;
+}
+
+/* ======================= TÍTULOS ======================= */
+
+.secao h2 {
+    font-size: 28px;
+    font-weight: 700;
+    color: #6A2E1F;
+    margin-bottom: 25px;
+    text-align: left;
+}
+
+/* ======================= LAYOUT PRINCIPAL ======================= */
+
+.linha-principal {
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+}
+
+.texto {
+    width: 70%;
+    font-size: 18px;
+    text-align: justify;
+    line-height: 1.7;
+}
+
+
+/* ======================= CARROSSEL PEQUENO ======================= */
+
+.carrossel-pequeno {
+    overflow: hidden;
+    margin: 50px auto;
+    width: 100%;              /* 🔥 deixa fluido */
+}
+
+.tres-imagens {
+    display: flex;
+    gap: 28px;
+    width: max-content;       /* 🔥 largura automática */
+    animation: rolar 20s linear infinite;
+}
+
+/* animação infinita real */
+@keyframes rolar {
+    from {
+        transform: translateX(0);
+    }
+    to {
+        transform: translateX(-50%);
+    }
+}
+
+.tres-imagens img {
+    width: 290px;
+    height: 390px;
+    object-fit: contain;
+    background-color: rgba(0,0,0,0.08);
+    box-shadow: 0 10px 25px rgba(0,0,0,0.18);
+    flex-shrink: 0;
+}
+
+/* pausa elegante */
+.carrossel-pequeno:hover .tres-imagens {
+    animation-play-state: paused;
+}
+
+
+/* ======================= CARROSSEL LATERAL - BOOTSTRAP ======================= */
+
+.carousel {
+    width: 100%;
+}
+
+.carousel-item img {
+    width: 100%;
+    height: auto; /* deixa a imagem crescer naturalmente */
+    max-height: 450px; /* você controla o limite aqui */
+    object-fit: contain !important; /* impede cortes */
+    background: #fff; /* evita fundo preto */
+    border-radius: 10px;
+}
+
+
+
+/* TAMANHOS INDIVIDUAIS (caso precise ajustar depois) */
+.carrossel-culinaria img { max-height: 100px !important; }
+.carrossel-historia img { max-height: 400px !important; }
+.carrossel-reisado img { max-height: 400px !important; }
+.carrossel-artesanato img { max-height: 420px !important; }
+.carrossel-agricultura img { max-height: 420px !important; }
+.carrossel-algodao img { max-height: 430px !important; }
+.carrossel-guardioes img { max-height: 400px !important; }
+
+
+/* ======================= HEADER DAS COMUNIDADES ======================= */
+
+.topo-interno {
+    background-color: #348735 !important;
+}
+
+/* TEXTO DO MENU NAS PÁGINAS INTERNAS */
+.topo-interno .menu-item span,
+.topo-interno .menu-item > a {
+    color: #FDF9F3; /* branco */
+}
+
+/* HOVER DO MENU NAS PÁGINAS INTERNAS */
+.topo-interno .menu-item:hover span,
+.topo-interno .menu-item:hover > a {
+    color: #3A0F0F; /* amarelo */
+}
+
+/* FUNDO DO SUBMENU */
+.topo-interno .submenu {
+    background: #ffffff;
+}
+
+/* TEXTO DO SUBMENU */
+.topo-interno .submenu a {
+    color: #3A0F0F;
+}
+
+/* HOVER DO SUBMENU */
+.topo-interno .submenu a:hover {
+    color: #348735;
+}
+
+
+.titulo-comunidade {
+    font-size: 34px;
+    color: #3A0F0F;
+    margin: 20px 0;
+    text-align: center;
+    font-weight: 700;
+}
+

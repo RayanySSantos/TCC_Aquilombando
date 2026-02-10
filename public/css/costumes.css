@@ -1,0 +1,99 @@
+/* ======================= PAGINAS DE COSTUMES E TRADICOES ======================= */
+
+/* Ajuste aqui a cor do header das paginas de costumes */
+body.costumes .topo {
+    background-color: #633939;
+    border-bottom: 1px solid rgba(58, 15, 15, 0.25);
+}
+
+body.costumes .menu-item span,
+body.costumes .menu-item > a {
+    color: #FFFFFF;
+}
+
+body.costumes .menu-item:hover span {
+    color: #F5AD3B;
+}
+
+body.costumes .submenu {
+    background: #ffffff;
+}
+
+body.costumes .submenu a {
+    color: #3A0F0F;
+}
+
+body.costumes .submenu a:hover {
+    color: #F5AD3B;
+}
+
+.costumes-hero {
+    padding: 60px 0;
+    background: #ffffff;
+}
+
+.costumes-hero-container {
+    max-width: 1400px;
+    margin: 0 auto;
+    padding: 0 20px;
+    display: grid;
+    grid-template-columns: 1.2fr 1fr;
+    gap: 40px;
+    align-items: center;
+}
+
+.costumes-hero-texto h1 {
+    font-size: 42px;
+    font-weight: 700;
+    line-height: 1.3;
+    color: #3A0F0F;
+    margin-bottom: 24px;
+    letter-spacing: 1px;
+}
+
+.costumes-hero-texto p {
+    font-size: 20px;
+    line-height: 1.7;
+    margin-bottom: 14px;
+    text-align: justify;
+}
+
+.costumes-hero-galeria {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 12px;
+}
+
+.costumes-foto {
+    position: relative;
+    overflow: hidden;
+    border-radius: 10px;
+    background: #ddd;
+}
+
+.costumes-foto img {
+    width: 100%;
+    height: 260px;
+    object-fit: cover;
+    transition: transform 0.3s ease;
+    cursor: zoom-in;
+    display: block;
+}
+
+.costumes-foto img:hover {
+    transform: scale(1.06);
+}
+
+@media (max-width: 900px) {
+    .costumes-hero-container {
+        grid-template-columns: 1fr;
+    }
+
+    .costumes-hero-texto h1 {
+        font-size: 32px;
+    }
+
+    .costumes-foto img {
+        height: 200px;
+    }
+}

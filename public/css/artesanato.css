@@ -1,0 +1,99 @@
+/* ======================= PAGINAS DE ARTESANATO ======================= */
+
+/* Ajuste aqui a cor do header das paginas de artesanato */
+body.artesanato .topo {
+    background-color: #2F6F4E;
+    border-bottom: 1px solid rgba(47, 111, 78, 0.25);
+}
+
+body.artesanato .menu-item span,
+body.artesanato .menu-item > a {
+    color: #FFFFFF;
+}
+
+body.artesanato .menu-item:hover span {
+    color: #1E3D2B;
+}
+
+body.artesanato .submenu {
+    background: #ffffff;
+}
+
+body.artesanato .submenu a {
+    color: #1E3D2B;
+}
+
+body.artesanato .submenu a:hover {
+    color: #2F6F4E;
+}
+
+.artesanato-hero {
+    padding: 60px 0;
+    background: #ffffff;
+}
+
+.artesanato-hero-container {
+    max-width: 1400px;
+    margin: 0 auto;
+    padding: 0 20px;
+    display: grid;
+    grid-template-columns: 1.2fr 1fr;
+    gap: 40px;
+    align-items: center;
+}
+
+.artesanato-hero-texto h1 {
+    font-size: 42px;
+    font-weight: 700;
+    line-height: 1.3;
+    color: #1E3D2B;
+    margin-bottom: 24px;
+    letter-spacing: 1px;
+}
+
+.artesanato-hero-texto p {
+    font-size: 20px;
+    line-height: 1.7;
+    margin-bottom: 14px;
+    text-align: justify;
+}
+
+.artesanato-hero-galeria {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 12px;
+}
+
+.artesanato-foto {
+    position: relative;
+    overflow: hidden;
+    border-radius: 10px;
+    background: #ddd;
+}
+
+.artesanato-foto img {
+    width: 100%;
+    height: 260px;
+    object-fit: cover;
+    transition: transform 0.3s ease;
+    cursor: zoom-in;
+    display: block;
+}
+
+.artesanato-foto img:hover {
+    transform: scale(1.06);
+}
+
+@media (max-width: 900px) {
+    .artesanato-hero-container {
+        grid-template-columns: 1fr;
+    }
+
+    .artesanato-hero-texto h1 {
+        font-size: 32px;
+    }
+
+    .artesanato-foto img {
+        height: 200px;
+    }
+}

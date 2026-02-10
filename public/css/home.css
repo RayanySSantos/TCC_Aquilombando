@@ -1,0 +1,1352 @@
+/* ===== PALETA =====
+   Amarelo: #F5AD3B
+   Vermelho: #A52E18
+   Verde:   #348735
+   Marrom:  #3A0F0F
+   Fundo creme: #FDF9F3
+*/
+
+/* Reseta básico */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+}
+
+body {
+    background-color: #ffffff;
+    color: #3A0F0F;
+}
+
+/* ===== TOPO / MENU ===== */
+
+.topo {
+    background-color: #F5AD3B;
+    border-bottom: 1px solid #F5AD3B33;
+}
+
+.topo-container {
+    max-width: 1400px;
+    margin: 0 auto;
+    padding: 12px 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logo-img {
+    height: 100px;
+    transform: scale(1.1);
+    transform-origin: left center;
+}
+
+/*=============================================================================*/
+/*                            COR DO MEU HEADER SOBRE                                              
+/*=============================================================================*/
+
+/* COR DO HEADER NO SOBRE NÓS */
+body.sobre .topo {
+    background-color: #875f33; /* amarelo */
+    /* ou #3A0F0F (marrom), se preferir */
+}
+
+/* COR DO TEXTO DO MENU NO SOBRE */
+body.sobre .menu-item span,
+body.sobre .menu-item > a {
+    color: #FFFFFF;
+}
+
+/* HOVER NO SOBRE */
+body.sobre .menu-item:hover span {
+    color: #3A0F0F;
+}
+
+/* SUBMENU NO SOBRE */
+body.sobre .submenu {
+    background: #ffffff;
+}
+
+
+/* =================================== MENU PRINCIPAL ========================= */
+
+.menu {
+    display: flex;
+    align-items: center;
+    gap: 70px;
+}
+
+.menu-item {
+    position: relative;
+    padding-bottom: 12px;
+}
+
+.menu-item span,
+.menu-item > a {
+    cursor: pointer;
+    color: #3A0F0F;
+    font-weight: 500;
+    font-size: 19px;
+}
+
+.menu-item:hover span {
+    color: #ffffff;
+}
+
+/* ===== SUBMENU ===== */
+
+.submenu {
+    display: none;
+    position: absolute;
+    top: 36px;
+    left: 0;
+    background: #FFFFFF ;
+    border-radius: 6px;
+    box-shadow: 0px 2px 8px rgba(0,0,0,0.15);
+    padding: 12px;
+    min-width: 180px;
+    z-index: 999;
+}
+
+.submenu a {
+    display: block;
+    text-decoration: none;
+    color: #3A0F0F;
+    padding: 6px 4px;
+}
+
+.submenu a:hover {
+    color: #A52E18;
+}
+
+.menu-item:hover .submenu {
+    display: block;
+}
+
+/* ================================== HERO =================================== */
+
+.hero {
+    padding: 60px 0;
+}
+
+.secao-capa {
+    min-height: 350px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    background-size: cover;
+    background-position: center top;
+    background-repeat: no-repeat;
+}
+
+.secao-capa-conteudo {
+    padding: 40px 20px;
+    color: #ffffff;
+}
+
+.secao-capa h1 {
+    font-size: 50px;
+    font-weight: 700;
+    letter-spacing: 2px;
+    margin-bottom: 6px;
+    text-shadow: 0 6px 18px rgba(0,0,0,0.35);
+}
+
+.secao-capa span {
+    display: inline-block;
+    font-size: 18px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    opacity: 0.9;
+}
+
+.secao-titulo {
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 1.3;
+    color: #3A0F0F;
+    margin-bottom: 24px;
+    letter-spacing: 1px;
+}
+
+.hero-container {
+    max-width: 1400px;
+    margin: 0 auto;
+    padding: 0 20px;
+    display: grid;
+    grid-template-columns: 1.2fr 1fr;
+    gap: 40px;
+    align-items: center;
+}
+
+.hero-titulo {
+    grid-column: 1 / -1;
+    text-align: center;
+    font-size: 42px;
+    font-weight: 700;
+    line-height: 1.3;
+    color: #3A0F0F;
+    margin-bottom: 24px;
+    letter-spacing: 1px;
+}
+
+.hero-texto p {
+    font-size: 20px;
+    line-height: 1.7;
+    margin-bottom: 14px;
+    text-align: justify;
+}
+
+.hero-galeria {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 12px;
+}
+
+.hero-galeria .foto {
+    position: relative;
+    overflow: hidden;
+    border-radius: 10px;
+    background: #ddd;
+}
+
+.hero-galeria .foto img {
+    width: 100%;
+    height: 230px;
+    object-fit: cover;
+    transition: transform 0.3s ease;
+    cursor: zoom-in;
+    pointer-events: auto;
+    z-index: 1;
+    display: block;
+}
+
+
+.hero-galeria .foto img:hover {
+    transform: scale(1.06);
+}
+
+
+/* ================= LIGHTBOX ================= */
+
+.lightbox {
+    position: fixed;
+    inset: 0;
+    background: rgba(0,0,0,0.85);
+    display: none;
+    align-items: center;
+    justify-content: center;
+    z-index: 9999;
+}
+
+.lightbox img {
+    max-width: 90%;
+    max-height: 90%;
+    border-radius: 10px;
+}
+
+.lightbox-fechar {
+    position: absolute;
+    top: 30px;
+    right: 40px;
+    font-size: 40px;
+    color: #fff;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+.hero-galeria img {
+    cursor: zoom-in;
+}
+
+/* ================= ANIMAÇÃO DO LIGHTBOX ================= */
+
+.lightbox {
+    animation: fadeIn 0.3s ease;
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+
+/* ================================== SEÇÃO DE COMUNIDADES ================================= */
+
+.comunidades-section {
+    background: #F9EEC7;
+    padding: 60px 0;
+    text-align: center;
+}
+
+.comunidades-titulo {
+    font-size: 32px;
+    color: #A52E18;
+    font-weight: 700;
+    margin-bottom: 40px;
+}
+
+.comunidades-grid {
+    max-width: 1400px;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 28px;
+    padding: 0 40px;
+}
+
+.card {
+    background: white;
+    border-radius: 12px;
+    overflow: hidden;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+    transition: transform .3s ease;
+}
+
+.card:hover {
+    transform: scale(1.04);
+}
+
+.card img {
+    width: 100%;
+    height: 210px;
+    object-fit: cover;
+}
+
+.card-info {
+    padding: 18px;
+    text-align: left;
+}
+
+.card-info h3 {
+    font-size: 20px;
+    color: #3A0F0F;
+    margin-bottom: 10px;
+}
+
+.card-info p {
+    font-size: 14px;
+    line-height: 1.6;
+    color: #3A0F0F;
+    margin-bottom: 14px;
+}
+
+.card-link {
+    text-decoration: none;
+    color: #A52E18;
+    font-weight: 600;
+}
+
+.card-link:hover {
+    text-decoration: underline;
+}
+
+/* ==================== SEÇÃO MAPA ==================== */
+
+.mapa-section {
+    background: #ffffff;
+    padding: 60px 0;
+    text-align: center;
+}
+
+.mapa-titulo {
+    font-size: 32px;
+    font-weight: 700;
+    color: #3A0F0F;
+    margin-bottom: 40px;
+}
+
+.mapa-container {
+    position: relative;
+    max-width: 1100px;
+    margin: 0 auto;
+}
+
+.mapa-img {
+    width: 100%;
+    user-select: none;
+    border-radius: 10px;
+}
+
+/* ================= HOTSPOTS INVISÍVEIS (VERSÃO FINAL) ================= */
+
+.cidade-hotspot {
+    position: absolute;
+    cursor: pointer;
+    background: transparent;   /* invisível */
+    border: none;
+    z-index: 20;               /* acima da imagem */
+}
+
+/* Caetité */
+.caetite {
+    top: 34%;
+    left: 39%;
+    width: 110px;
+    height: 80px;
+}
+
+/* Candiba */
+.candiba {
+    top: 60%;
+    left: 28%;
+    width: 66px;
+    height: 50px;
+}
+
+/* Pindaí */
+.pindai {
+    top: 66%;
+    left: 34%;
+    width: 83px;
+    height: 38px;
+}
+
+/* Palmas de Monte Alto */
+.palmas {
+    top: 43%;
+    left: 12%; 
+    width: 135px; /*tamanho*/
+    height: 90px; /*grossura*/
+}
+
+/* ==================== CARD QUE APARECE AO CLICAR ==================== */
+
+.card-comunidade {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: white;
+    border-radius: 12px;
+    padding: 20px;
+    width: 380px;
+    display: none;
+    z-index: 9999;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.25);
+    border-left: 6px solid #A52E18;
+}
+
+.card-comunidade h3 {
+    font-size: 22px;
+    margin-bottom: 12px;
+    color: #3A0F0F;
+}
+
+.card-comunidade .item {
+    padding: 8px 0;
+    font-size: 17px;
+    font-weight: 600;
+    cursor: pointer;
+}
+
+.card-comunidade .item:hover {
+    text-decoration: underline;
+}
+
+.verde    { color: #348735; }
+.vermelho { color: #A52E18; }
+.amarelo  { color: #F5AD3B; }
+.marrom   { color: #3A0F0F; }
+
+.fonte-mapa {
+    margin-top: 12px;
+    font-size: 20px;
+    color: #3A0F0F; /* marrom da paleta */
+    font-style: italic;
+    text-align: center;
+    opacity: 0.8;
+}
+
+/* BOTÃO X */
+.card-fechar {
+    position: absolute;
+    top: 10px;
+    right: 14px;
+    font-size: 24px;
+    font-weight: bold;
+    color: #8B0000;
+    cursor: pointer;
+}
+
+.card-fechar:hover {
+    color: #000;
+}
+
+/* ==================== LEGENDA DO MAPA ==================== */
+
+.mapa-container {
+    position: relative;
+    width: fit-content;
+    margin: 0 auto;
+}
+
+.mapa-legenda {
+    position: absolute;
+    top: 260%;
+    right: 20px;           /* fica ao lado SEM empurrar layout */
+    transform: translateY(-50%);
+    
+    background: #ffffff;
+    border-radius: 12px;
+    padding: 16px 18px;
+    width: 260px;
+    
+    box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+    z-index: 5;
+
+    pointer-events: auto;   /* legenda clicável */
+}
+
+
+.mapa-legenda h4 {
+    font-size: 18px;
+    margin-bottom: 12px;
+    color: #3A0F0F;
+}
+
+.legenda-item {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 8px;
+    font-size: 15px;
+    color: #3A0F0F;
+}
+
+.legenda-ponto {
+    width: 14px;
+    height: 14px;
+    border-radius: 50%;
+}
+
+.legenda-ponto.verde {
+    background-color: #348735;
+}
+.legenda-ponto.vermelho {
+    background-color: #8B0000;
+}
+.legenda-ponto.amarelo {
+    background-color: #F5AD3B;
+}
+.legenda-ponto.marrom {
+    background-color: #3A0F0F;
+}
+
+.legenda-info {
+    margin-top: 12px;
+    font-size: 14px;
+    color: #555;
+    font-style: italic;
+}
+
+/* Cores da legenda */
+.legenda-ponto.verde {
+    background-color: #348735;
+}
+
+.legenda-ponto.cinza {
+    background-color: #ccc;
+}
+
+.legenda-info {
+    margin-top: 12px;
+    font-size: 14px;
+    color: #555;
+    font-style: italic;
+}
+
+.cidade-hotspot {
+    cursor: pointer;
+}
+
+.cidade-hotspot:hover {
+    transform: scale(1.15);
+    transition: 0.2s;
+}
+
+/* ======================= RODAPÉ ======================= */
+
+.rodape {
+    background: #3A0F0F;
+    color: #FDF9F3;
+    padding: 40px 0 20px;
+    margin-top: 0px;
+}
+
+.rodape-container {
+    max-width: 1400px;
+    margin: 0 auto;
+    padding: 0 40px;
+    display: grid;
+    grid-template-columns: 1.4fr 1fr 1fr;
+    gap: 40px;
+}
+
+.rodape-logo {
+    width: 80px;
+    margin-bottom: 12px;
+}
+
+.rodape-descricao {
+    font-size: 14px;
+    line-height: 1.6;
+    opacity: 0.9;
+}
+
+.rodape-col h4 {
+    font-size: 18px;
+    margin-bottom: 10px;
+    color: #F5AD3B; /* amarelo da paleta */
+}
+
+.rodape-col ul {
+    list-style: none;
+    padding: 0;
+}
+
+.rodape-col ul li {
+    margin-bottom: 6px;
+}
+
+.rodape-col a {
+    color: #FDF9F3;
+    text-decoration: none;
+    font-size: 14px;
+}
+
+.rodape-col a:hover {
+    color: #F5AD3B;
+}
+
+.rodape-final {
+    text-align: center;
+    padding-top: 20px;
+    font-size: 13px;
+    opacity: 0.8;
+    border-top: 1px solid rgba(255,255,255,0.2);
+}
+
+/* ======================================================
+   HEADER DINÂMICO — CORES DIFERENTES POR TIPO DE PÁGINA
+   ====================================================== */
+
+/* COR DO HEADER NA HOME */
+body.home .topo {
+    background-color: #F5AD3B; /* Amarelo original */
+}
+
+/* COR DO HEADER NAS PÁGINAS INTERNAS */
+body.interno .topo {
+    background-color: #348735; /* Verde da paleta */
+}
+
+/* COR DOS TEXTOS DO MENU NAS PÁGINAS INTERNAS */
+body.interno .menu-item span,
+body.interno .menu-item > a {
+    color: #FDF9F3; /* Branco */
+}
+
+/* COR DO HOVER NAS PÁGINAS INTERNAS */
+body.interno .menu-item:hover span {
+    color: #F5AD3B; /* Amarelo */
+}
+
+/* COR DO FUNDO DO SUBMENU NAS PÁGINAS INTERNAS */
+body.interno .submenu {
+    background: #FDF9F3;
+}
+
+body.interno .submenu a {
+    color: #3A0F0F;
+}
+
+body.interno .submenu a:hover {
+    color: #348735;
+}
+
+/* ==========================================================================================
+                                           SOBRE NÓS
+   ========================================================================================== */
+
+   .titulo-pagina {
+    font-size: 36px;
+    color: #A52E18;
+    margin-bottom: 20px;
+}
+
+.sobre-intro p {
+    font-size: 18px;
+    line-height: 1.7;
+    margin-bottom: 14px;
+    text-align: justify;
+}
+
+.subtitulo {
+    font-size: 28px;
+    color: #A52E18;
+    margin-bottom: 30px;
+}
+
+/* ================= NOSSA EQUIPE ================= */
+
+.cards-equipe {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 32px;
+    margin-top: 40px;
+}
+
+.card-equipe {
+    background: #ffffff;
+    border-radius: 16px;
+    padding: 32px 24px;
+    text-align: center;
+
+    box-shadow: 0 8px 20px rgba(0,0,0,0.08);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+/* 🔥 ZOOM NO CARD */
+.card-equipe:hover {
+    transform: scale(1.05);
+    box-shadow: 0 14px 30px rgba(0,0,0,0.15);
+}
+
+/* AVATAR */
+.avatar {
+    width: 140px;
+    height: 140px;
+    margin: 0 auto 18px;
+    border-radius: 50%;
+    overflow: hidden;
+    background: #e0e0e0;
+}
+
+.avatar img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+}
+
+/* TEXTO */
+.card-equipe h3 {
+    font-size: 20px;
+    font-weight: 700;
+    color: #3A0F0F;
+    margin-bottom: 4px;
+}
+
+.card-equipe span {
+    display: block;
+    font-size: 14px;
+    font-weight: 600;
+    color: #A52E18;
+    margin-bottom: 12px;
+}
+
+.card-equipe p {
+    font-size: 15px;
+    line-height: 1.6;
+    color: #3A0F0F;
+}
+
+@media (max-width: 900px) {
+    .cards-equipe {
+        grid-template-columns: 1fr;
+    }
+}
+
+
+.texto-centro {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.categoria {
+    margin: 40px 0 14px;
+    color: #3A0F0F;
+}
+
+.linha-circulos {
+    display: flex;
+    justify-content: center;   /* 👈 CENTRALIZA */
+    align-items: center;
+    gap: 32px;            /* espaço entre círculos */
+    flex-wrap: wrap;      /* quebra linha mantendo centro */
+    margin: 20px 0 30px;
+}
+
+.circulo {
+    width: 90px;
+    height: 90px;
+    border-radius: 50%;
+    background: #e0e0e0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 600;
+}
+
+.linha-circulos.amarelo .circulo { border: 3px solid #F5AD3B; }
+.linha-circulos.marrom .circulo { border: 3px solid #3A0F0F; }
+.linha-circulos.vermelho .circulo { border: 3px solid #A52E18; }
+
+.metodologia h2 {
+    margin-bottom: 30px;
+}
+
+.grid-metodologia {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 40px;
+}
+
+.grid-metodologia ul {
+    list-style: disc;
+    padding-left: 20px;
+}
+
+/* ================= CONTAINER PADRÃO DAS PÁGINAS ================= */
+
+.secao {
+    max-width: 1400px;
+    margin: 0 auto;
+    padding: 40px 80px;
+}
+
+/* ================= CIRCULOS FOTOS DAS PÁGINAS ================= */
+
+.centralizar-grupo {
+    display: flex;
+    justify-content: center;
+}
+
+
+.linha-circulos {
+    display: flex;
+    justify-content: center;   /* centralização real */
+    align-items: flex-start;
+    gap: 32px;
+    flex-wrap: wrap;
+
+    margin: 30px auto 50px;
+    max-width: 1100px;
+}
+
+
+/* container da pessoa */
+.pessoa {
+    text-align: center;
+}
+
+.pessoa span {
+    display: block;
+    text-align: center;
+    margin-top: 8px;
+    font-size: 15px;
+    font-weight: 600;
+    color: #3A0F0F;
+}
+
+
+/* círculo */
+.circulo {
+    width: 150px;        /* aumentamos o círculo */
+    height: 150px;
+    border-radius: 50%;
+    overflow: hidden;
+    background: #e0e0e0;
+    border: 4px solid currentColor;
+
+    box-sizing: border-box; /* 🔥 ISSO É O SEGREDO */
+}
+
+
+/* imagem dentro */
+.circulo img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+}
+
+/* nome abaixo */
+.pessoa span {
+    font-size: 14px;
+    font-weight: 600;
+    color: #3A0F0F;
+}
+
+/* cores por grupo */
+.linha-circulos.amarelo { color: #F5AD3B; }
+.linha-circulos.marrom  { color: #3A0F0F; }
+.linha-circulos.vermelho{ color: #A52E18; }
+
+
+/*------------------METODOLOGIA---------------------*/
+
+.bloco-metodologia {
+    background: #F9EEC7;
+    padding: 50px 60px;
+    border-radius: 16px;
+    margin: 60px auto;
+    max-width: 1300px;
+}
+
+.grid-metodologia {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 50px;
+}
+
+.grid-metodologia h4 {
+    margin-bottom: 12px;
+    color: #3A0F0F;
+}
+
+.grid-metodologia ul li {
+    margin-bottom: 8px;
+    font-size: 16px;
+}
+
+/* ======================= RESPONSIVIDADE HOME ======================= */
+
+@media (min-width: 1440px) {
+    .hero-container,
+    .comunidades-grid,
+    .rodape-container {
+        max-width: 1500px;
+    }
+
+    .mapa-container {
+        max-width: 1200px;
+    }
+
+    .secao {
+        max-width: 1500px;
+    }
+
+    .bloco-metodologia {
+        max-width: 1400px;
+    }
+}
+
+@media (min-width: 1920px) {
+    .hero-titulo {
+        font-size: 46px;
+    }
+
+    .hero-texto p {
+        font-size: 21px;
+    }
+
+    .comunidades-titulo,
+    .mapa-titulo {
+        font-size: 34px;
+    }
+}
+
+@media (max-width: 1366px) {
+    .menu {
+        gap: 48px;
+    }
+
+    .hero-titulo {
+        font-size: 38px;
+    }
+
+    .hero-texto p {
+        font-size: 19px;
+    }
+
+    .hero-galeria .foto img {
+        height: 210px;
+    }
+
+    .secao {
+        padding: 40px 60px;
+    }
+
+    .circulo {
+        width: 130px;
+        height: 130px;
+    }
+}
+
+@media (max-width: 1024px) {
+    .topo-container {
+        padding: 12px 16px;
+    }
+
+    .logo-img {
+        height: 70px;
+    }
+
+    .menu {
+        gap: 28px;
+    }
+
+    .menu-item span,
+    .menu-item > a {
+        font-size: 17px;
+    }
+
+    .hero-container {
+        grid-template-columns: 1fr;
+        gap: 28px;
+    }
+
+    .hero-titulo {
+        font-size: 34px;
+    }
+
+    .secao-capa {
+        min-height: 280px;
+    }
+
+    .secao-capa h1 {
+        font-size: 38px;
+    }
+
+    .secao-titulo {
+        font-size: 32px;
+    }
+
+    .hero-texto p {
+        font-size: 17px;
+    }
+
+    .hero-galeria .foto img {
+        height: 190px;
+    }
+
+    .comunidades-grid {
+        grid-template-columns: repeat(2, 1fr);
+        padding: 0 24px;
+    }
+
+    .mapa-legenda {
+        position: static;
+        transform: none;
+        margin: 16px auto 0;
+        width: min(320px, 100%);
+    }
+
+    .secao {
+        padding: 36px 32px;
+    }
+
+    .titulo-pagina {
+        font-size: 32px;
+    }
+
+    .subtitulo {
+        font-size: 26px;
+    }
+
+    .cards-equipe {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 24px;
+    }
+
+    .card-equipe {
+        padding: 26px 20px;
+    }
+
+    .avatar {
+        width: 120px;
+        height: 120px;
+    }
+
+    .circulo {
+        width: 120px;
+        height: 120px;
+    }
+
+    .grid-metodologia {
+        grid-template-columns: 1fr;
+        gap: 32px;
+    }
+
+    .bloco-metodologia {
+        padding: 40px 36px;
+        margin: 50px auto;
+    }
+}
+
+@media (max-width: 768px) {
+    .topo-container {
+        flex-direction: column;
+        gap: 12px;
+    }
+
+    .menu {
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 18px;
+    }
+
+    .hero {
+        padding: 40px 0;
+    }
+
+    .hero-titulo {
+        font-size: 30px;
+        text-align: center;
+    }
+
+    .secao-capa {
+        min-height: 240px;
+    }
+
+    .secao-capa h1 {
+        font-size: 32px;
+    }
+
+    .secao-titulo {
+        font-size: 30px;
+    }
+
+    .hero-texto p {
+        font-size: 16px;
+        text-align: justify;
+    }
+
+    .hero-galeria .foto img {
+        height: 170px;
+    }
+
+    .comunidades-section {
+        padding: 50px 0;
+    }
+
+    .comunidades-titulo {
+        font-size: 28px;
+    }
+
+    .comunidades-grid {
+        grid-template-columns: 1fr;
+        gap: 22px;
+        padding: 0 20px;
+    }
+
+    .mapa-section {
+        padding: 50px 0 40px;
+    }
+
+    .mapa-titulo {
+        font-size: 26px;
+    }
+
+    .mapa-container {
+        width: 100%;
+        padding: 0 16px;
+    }
+
+    .mapa-legenda {
+        position: static;
+        transform: none;
+        margin: 16px auto 0;
+        width: min(320px, 100%);
+    }
+
+    .card-comunidade {
+        width: min(320px, 92%);
+        padding: 16px;
+    }
+
+    .fonte-mapa {
+        font-size: 16px;
+    }
+
+    .rodape-container {
+        grid-template-columns: 1fr;
+        padding: 0 24px;
+    }
+
+    .secao {
+        padding: 28px 20px;
+    }
+
+    .titulo-pagina {
+        font-size: 28px;
+        text-align: center;
+    }
+
+    .sobre-intro p {
+        font-size: 16px;
+    }
+
+    .subtitulo {
+        font-size: 24px;
+        text-align: center;
+    }
+
+    .cards-equipe {
+        grid-template-columns: 1fr;
+        gap: 22px;
+    }
+
+    .card-equipe h3 {
+        font-size: 18px;
+    }
+
+    .card-equipe p {
+        font-size: 14px;
+    }
+
+    .linha-circulos {
+        gap: 20px;
+    }
+
+    .circulo {
+        width: 110px;
+        height: 110px;
+    }
+
+    .bloco-metodologia {
+        padding: 32px 24px;
+        margin: 40px auto;
+    }
+}
+
+@media (max-width: 480px) {
+    .logo-img {
+        height: 60px;
+    }
+
+    .menu-item span,
+    .menu-item > a {
+        font-size: 16px;
+    }
+
+    .hero-titulo {
+        font-size: 26px;
+    }
+
+    .secao-capa h1 {
+        font-size: 28px;
+    }
+
+    .secao-titulo {
+        font-size: 24px;
+    }
+
+    .hero-texto p {
+        font-size: 15px;
+    }
+
+    .hero-galeria {
+        grid-template-columns: 1fr;
+    }
+
+    .hero-galeria .foto img {
+        height: 200px;
+    }
+
+    .card img {
+        height: 150px;
+    }
+
+    .titulo-pagina {
+        font-size: 24px;
+    }
+
+    .sobre-intro p {
+        font-size: 15px;
+    }
+
+    .subtitulo {
+        font-size: 22px;
+    }
+
+    .avatar {
+        width: 105px;
+        height: 105px;
+    }
+
+    .circulo {
+        width: 100px;
+        height: 100px;
+    }
+}
+
+@media (max-width: 375px) {
+    .topo-container {
+        padding: 10px 12px;
+    }
+
+    .hero-titulo {
+        font-size: 24px;
+    }
+
+    .secao-capa h1 {
+        font-size: 24px;
+    }
+
+    .secao-titulo {
+        font-size: 22px;
+    }
+
+    .hero-texto p {
+        font-size: 14px;
+    }
+
+    .comunidades-titulo,
+    .mapa-titulo {
+        font-size: 24px;
+    }
+
+    .titulo-pagina {
+        font-size: 22px;
+    }
+
+    .subtitulo {
+        font-size: 20px;
+    }
+}
+
+@media (max-width: 320px) {
+    .hero-titulo {
+        font-size: 22px;
+    }
+
+    .secao-capa h1 {
+        font-size: 22px;
+    }
+
+    .secao-titulo {
+        font-size: 20px;
+    }
+
+    .menu {
+        gap: 14px;
+    }
+
+    .card-info h3 {
+        font-size: 18px;
+    }
+
+    .card-info p {
+        font-size: 13px;
+    }
+
+    .titulo-pagina {
+        font-size: 20px;
+    }
+
+    .sobre-intro p {
+        font-size: 14px;
+    }
+
+    .circulo {
+        width: 90px;
+        height: 90px;
+    }
+}
