@@ -91,7 +91,7 @@ Nenhum conteúdo é explorado de forma comercial sem autorização.
 
 **Rayany Silva Santos**  
 Estudante de Análise e Desenvolvimento de Sistemas  
-IF Baiano – Campus Guanambi  
+IF Baiano – Campus Guanambi  ifba
 
 ---
 
