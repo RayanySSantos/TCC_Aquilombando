@@ -4,13 +4,13 @@
 <section class="historia-capa" style="background-image: linear-gradient(rgba(58, 15, 15, 0.95), rgba(58, 15, 15, 0.35)), url('{{ asset('images/capa/comprida.png') }}');">
     <div class="historia-capa-conteudo">
         <h1>Quilombo Vargem Comprida</h1>
+        <span>História</span>
     </div>
 </section>
 
 <section class="historia-hero">
     <div class="historia-hero-container">
         <div class="historia-hero-texto">
-            <h2 class="historia-titulo">Vargem Comprida: Caminhos de Memória, Identidade e Resistência</h2>
 
             <p>
                 A Comunidade Quilombola de Vargem Comprida está localizada na zona rural do município de Palmas de Monte Alto, no estado

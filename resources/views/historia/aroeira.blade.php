@@ -4,13 +4,13 @@
 <section class="historia-capa" style="background-image: linear-gradient(rgba(58, 15, 15, 0.95), rgba(58, 15, 15, 0.35)), url('{{ asset('images/capa/aroeira.png') }}');">
     <div class="historia-capa-conteudo">
         <h1>Quilombo Aroeira</h1>
+        <span>História</span>
     </div>
 </section>
 
 <section class="historia-hero">
     <div class="historia-hero-container">
         <div class="historia-hero-texto">
-            <h2 class="historia-titulo">História e Ancestralidade do Quilombo Aroeira</h2>
 
             <p>
                 O Quilombo Aroeira está localizado na zona rural do município de Palmas de Monte Alto, Bahia, e tem suas origens

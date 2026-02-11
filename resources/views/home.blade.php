@@ -137,7 +137,7 @@
 
     <!-------------------- LEGENDA DO MAPA ----------------------------->
 <div class="mapa-legenda">
-    <h4>Regiões</h4>
+    <h4>Cidades</h4>
 
     <div class="legenda-item">
         <span class="legenda-ponto verde"></span>

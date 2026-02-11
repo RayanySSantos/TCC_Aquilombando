@@ -4,6 +4,7 @@
 <section class="historia-capa" style="background-image: linear-gradient(rgba(58, 15, 15, 0.95), rgba(58, 15, 15, 0.35)), url('{{ asset('images/capa/alta.png') }}');">
 <div class="historia-capa-conteudo">
         <h1>Quilombo Vargem Alta</h1>
+        <span>História</span>
     </div>
 </section>
 

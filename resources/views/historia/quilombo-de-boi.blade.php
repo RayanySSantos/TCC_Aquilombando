@@ -4,13 +4,13 @@
 <section class="historia-capa" style="background-image: linear-gradient(rgba(58, 15, 15, 0.95), rgba(58, 15, 15, 0.35)), url('{{ asset('images/capa/boi.png') }}');">
     <div class="historia-capa-conteudo">
         <h1>Quilombo de Boi</h1>
+        <span>História</span>
     </div>
 </section>
 
 <section class="historia-hero">
     <div class="historia-hero-container">
         <div class="historia-hero-texto">
-            <h2 class="historia-titulo">Comunidade Boi: Raízes de História, Cultura e Resistência</h2>
 
             <p>
                 A Comunidade Quilombola de Boi está localizada na zona rural do município de Pindaí, no estado da Bahia, sendo formada

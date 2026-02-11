@@ -525,16 +525,16 @@ body.sobre .submenu {
 }
 
 .legenda-ponto.verde {
-    background-color: #348735;
+    background-color: #8f908f;
 }
 .legenda-ponto.vermelho {
-    background-color: #8B0000;
+    background-color: #8f908f;
 }
 .legenda-ponto.amarelo {
-    background-color: #F5AD3B;
+    background-color: #8f908f;
 }
 .legenda-ponto.marrom {
-    background-color: #3A0F0F;
+    background-color: #8f908f;
 }
 
 .legenda-info {
@@ -546,7 +546,7 @@ body.sobre .submenu {
 
 /* Cores da legenda */
 .legenda-ponto.verde {
-    background-color: #348735;
+    background-color: #8f908f;
 }
 
 .legenda-ponto.cinza {

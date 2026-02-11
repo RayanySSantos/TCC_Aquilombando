@@ -4,13 +4,13 @@
 <section class="historia-capa" style="background-image: linear-gradient(rgba(58, 15, 15, 0.95), rgba(58, 15, 15, 0.35)), url('{{ asset('images/capa/lagoa.png') }}');">
     <div class="historia-capa-conteudo">
         <h1>Quilombo Lagoa dos Anjos</h1>
+        <span>História</span>
     </div>
 </section>
 
 <section class="historia-hero">
     <div class="historia-hero-container">
         <div class="historia-hero-texto">
-            <h2 class="historia-titulo">Lagoa dos Anjos: Trajetória de União e Resistência</h2>
 
             <p>
                 A Comunidade Quilombola de Lagoa dos Anjos está localizada no município de Candiba, no estado da Bahia, e possui uma
