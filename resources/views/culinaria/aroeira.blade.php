@@ -1,7 +1,7 @@
 @extends('layouts.app')
 
 @section('content')
-<section class="secao-capa" style="background-image: linear-gradient(rgba(58, 15, 15, 0.45), rgba(58, 15, 15, 0.35)), url('{{ asset('images/Aroeira/comida/p1.JPG') }}');">
+<section class="secao-capa" style="background-image: linear-gradient(rgba(58, 15, 15, 0.80), rgba(58, 15, 15, 0.35)), url('{{ asset('images/Aroeira/comida/puba.png') }}');">
     <div class="secao-capa-conteudo">
         <h1>Aroeira: Cozinha de Raiz e Celebração</h1>
         <span>Culinária</span>
@@ -11,7 +11,6 @@
 <section class="culinaria-hero">
     <div class="culinaria-hero-container">
         <div class="culinaria-hero-texto">
-            <h2 class="secao-titulo">Aroeira: Cozinha de Raiz e Celebração</h2>
 
             <p>A culinária da Comunidade Quilombola de Aroeira reflete diretamente a agricultura familiar praticada no território, utilizando ingredientes frescos e diversificados produzidos localmente. Esses alimentos dão origem a pratos que carregam histórias, tradições e saberes construídos ao longo do tempo, revelando a profunda relação entre a terra, a alimentação e a identidade cultural da comunidade.</p>
 

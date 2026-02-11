@@ -1,7 +1,7 @@
 @extends('layouts.app')
 
 @section('content')
-<section class="secao-capa" style="background-image: linear-gradient(rgba(58, 15, 15, 0.45), rgba(58, 15, 15, 0.35)), url('{{ asset('images/Passagem/comida/p1.jpeg') }}');">
+<section class="secao-capa" style="background-image: linear-gradient(rgba(58, 15, 15, 0.80), rgba(58, 15, 15, 0.35)), url('{{ asset('images/Passagem/comida/farofa.png') }}');">
     <div class="secao-capa-conteudo">
         <h1>Passagem de Areia: Culinária de Partilha e Afeto</h1>
         <span>Culinária</span>
@@ -11,7 +11,6 @@
 <section class="culinaria-hero">
     <div class="culinaria-hero-container">
         <div class="culinaria-hero-texto">
-            <h2 class="secao-titulo">Passagem de Areia: Culinária de Partilha e Afeto</h2>
 
             <p>A culinária da Comunidade Quilombola de Passagem de Areia é uma expressão direta da agricultura familiar e da ancestralidade que sustenta o modo de vida local. Os ingredientes cultivados no próprio território, como palma, mandioca, manga, caju e batata-doce, são transformados em pratos que atravessam gerações, preservando a memória coletiva e reafirmando a profunda relação entre alimentação, território e identidade cultural. Cada alimento carrega saberes acumulados ao longo do tempo e reflete a história de resistência e pertencimento da comunidade.</p>
 

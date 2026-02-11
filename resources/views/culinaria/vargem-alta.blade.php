@@ -1,7 +1,7 @@
 @extends('layouts.app')
 
 @section('content')
-<section class="secao-capa" style="background-image: linear-gradient(rgba(58, 15, 15, 0.45), rgba(58, 15, 15, 0.35)), url('{{ asset('images/Vargem Alta/comida/p1.jpeg') }}');">
+<section class="secao-capa" style="background-image: linear-gradient(rgba(58, 15, 15, 0.80), rgba(58, 15, 15, 0.35)), url('{{ asset('images/Vargem Alta/comida/pamonha.png') }}');">
     <div class="secao-capa-conteudo">
         <h1>Vargem Alta: Sabores da Terra e da Memória</h1>
         <span>Culinária</span>
@@ -11,7 +11,6 @@
 <section class="culinaria-hero">
     <div class="culinaria-hero-container">
         <div class="culinaria-hero-texto">
-            <h2 class="secao-titulo">Vargem Alta: Sabores da Terra e da Memória</h2>
 
             <p>A culinária da Comunidade Quilombola de Vargem Comprida é uma expressão viva de sua história, identidade e ancestralidade. Os ingredientes cultivados localmente, como mandioca, umbu-cajá, feijão, manga e outros frutos nativos, são transformados em pratos que atravessam gerações, mantendo viva a memória coletiva e fortalecendo a relação entre a terra e a alimentação. Esses alimentos refletem o modo de vida tradicional da comunidade e revelam saberes transmitidos ao longo do tempo.</p>
 

@@ -1,7 +1,7 @@
 @extends('layouts.app')
 
 @section('content')
-<section class="secao-capa" style="background-image: linear-gradient(rgba(58, 15, 15, 0.45), rgba(58, 15, 15, 0.35)), url('{{ asset('images/Lagoa dos Anjos/comida/p1.jpeg') }}');">
+<section class="secao-capa" style="background-image: linear-gradient(rgba(58, 15, 15, 0.80), rgba(58, 15, 15, 0.35)), url('{{ asset('images/Lagoa dos Anjos/comida/cha.png') }}');">
     <div class="secao-capa-conteudo">
         <h1>Lagoa dos Anjos: Sabores de União Comunitária</h1>
         <span>Culinária</span>
@@ -11,7 +11,6 @@
 <section class="culinaria-hero">
     <div class="culinaria-hero-container">
         <div class="culinaria-hero-texto">
-            <h2 class="secao-titulo">Lagoa dos Anjos: Sabores de União Comunitária</h2>
 
             <p>A culinária da Comunidade Quilombola de Lagoa dos Anjos é uma expressão viva de sua cultura e da relação profunda com o território. Os alimentos produzidos na agricultura familiar, como frutas, raízes, hortaliças e grãos, compõem a base das receitas tradicionais e revelam a ligação entre a terra e a mesa. A alimentação reflete a identidade coletiva e o cuidado com o ambiente, preservando saberes construídos ao longo das gerações.</p>
 

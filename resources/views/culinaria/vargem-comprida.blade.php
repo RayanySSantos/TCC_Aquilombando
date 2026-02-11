@@ -1,7 +1,7 @@
 @extends('layouts.app')
 
 @section('content')
-<section class="secao-capa" style="background-image: linear-gradient(rgba(58, 15, 15, 0.45), rgba(58, 15, 15, 0.35)), url('{{ asset('images/Vargem Comprida/comida/p7.jpeg') }}');">
+<section class="secao-capa" style="background-image: linear-gradient(rgba(58, 15, 15, 0.80), rgba(58, 15, 15, 0.35)), url('{{ asset('images/Vargem Comprida/comida/p7.jpeg') }}');">
     <div class="secao-capa-conteudo">
         <h1>Vargem Comprida: Tradições na Cozinha Quilombola</h1>
         <span>Culinária</span>
@@ -11,7 +11,6 @@
 <section class="culinaria-hero">
     <div class="culinaria-hero-container">
         <div class="culinaria-hero-texto">
-            <h2 class="secao-titulo">Vargem Comprida: Tradições na Cozinha Quilombola</h2>
 
             <p>A culinária da Comunidade Quilombola de Vargem Comprida é um reflexo direto da agricultura familiar e da ancestralidade que sustenta o modo de vida local. Os alimentos cultivados no próprio território, como feijão, milho, mandioca, batata-doce, maxixe, frutas e hortaliças, são transformados em receitas cheias de significado e história, garantindo sabor, frescor e vínculo com a terra. Esses alimentos expressam saberes acumulados ao longo das gerações e reafirmam a identidade cultural da comunidade.</p>
 

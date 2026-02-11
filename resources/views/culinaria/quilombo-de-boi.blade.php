@@ -1,7 +1,7 @@
 @extends('layouts.app')
 
 @section('content')
-<section class="secao-capa" style="background-image: linear-gradient(rgba(58, 15, 15, 0.45), rgba(58, 15, 15, 0.35)), url('{{ asset('images/Boi/comida/p1.jpeg') }}');">
+<section class="secao-capa" style="background-image: linear-gradient(rgba(58, 15, 15, 0.80), rgba(58, 15, 15, 0.35)), url('{{ asset('images/Boi/comida/bolo.png') }}');">
     <div class="secao-capa-conteudo">
         <h1>Quilombo de Boi: Receitas que Mantêm a Resistência</h1>
         <span>Culinária</span>
@@ -11,7 +11,6 @@
 <section class="culinaria-hero">
     <div class="culinaria-hero-container">
         <div class="culinaria-hero-texto">
-            <h2 class="secao-titulo">Quilombo de Boi: Receitas que Mantêm a Resistência</h2>
 
             <p>A culinária da Comunidade Quilombola de Boi reflete diretamente a agricultura familiar e a forte presença da ancestralidade no cotidiano dos moradores. Os alimentos cultivados nos roçados da própria comunidade constituem a base das receitas tradicionais, garantindo uma alimentação saudável e profundamente conectada ao território. Esses saberes culinários, construídos ao longo do tempo, atravessam gerações e fortalecem a identidade cultural, revelando a relação entre alimento, memória e pertencimento.</p>
 
