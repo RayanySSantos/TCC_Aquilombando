@@ -1,7 +1,7 @@
 @extends('layouts.app')
 
 @section('content')
-<section class="secao-capa" style="background-image: linear-gradient(rgba(58, 15, 15, 0.45), rgba(58, 15, 15, 0.35)), url('{{ asset('images/Boi/Agricultura/h1.jpg') }}');">
+<section class="secao-capa" style="background-image: linear-gradient(rgba(58, 15, 15, 0.45), rgba(58, 15, 15, 0.35)), url('{{ asset('images/Boi/Agricultura/boi.png') }}');">
     <div class="secao-capa-conteudo">
         <h1>Quilombo de Boi: Agricultura e Sustento</h1>
         <span>Agricultura Familiar</span>
@@ -11,7 +11,6 @@
 <section class="agricultura-hero">
     <div class="agricultura-hero-container">
         <div class="agricultura-hero-texto">
-            <h2 class="secao-titulo">Quilombo de Boi: Agricultura e Sustento</h2>
 
             <p>A agricultura familiar é a base da vida cotidiana na Comunidade Quilombola de Boi, desempenhando papel fundamental na subsistência e na organização social do território. Os moradores cultivam milho, feijão, mandioca, maxixe, coco, frutas e hortaliças em pequenos roçados próximos às casas, garantindo alimentos frescos, saudáveis e fortalecendo a autonomia alimentar das famílias. Essas práticas agrícolas seguem métodos tradicionais, transmitidos entre gerações, que respeitam os ciclos naturais da terra, o regime das chuvas e a preservação do solo, reafirmando os saberes ancestrais e a relação de cuidado com a natureza.</p>
 

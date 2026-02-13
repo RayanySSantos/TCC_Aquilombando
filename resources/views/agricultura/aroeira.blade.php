@@ -1,7 +1,7 @@
 @extends('layouts.app')
 
 @section('content')
-<section class="secao-capa" style="background-image: linear-gradient(rgba(58, 15, 15, 0.45), rgba(58, 15, 15, 0.35)), url('{{ asset('images/Aroeira/Agricultura/h1.jpeg') }}');">
+<section class="secao-capa" style="background-image: linear-gradient(rgba(58, 15, 15, 0.45), rgba(58, 15, 15, 0.35)), url('{{ asset('images/Aroeira/Agricultura/aroeira.png') }}');">
     <div class="secao-capa-conteudo">
         <h1>Aroeira: Agricultura Familiar e Território</h1>
         <span>Agricultura Familiar</span>
@@ -11,7 +11,6 @@
 <section class="agricultura-hero">
     <div class="agricultura-hero-container">
         <div class="agricultura-hero-texto">
-            <h2 class="secao-titulo">Aroeira: Agricultura Familiar e Território</h2>
 
             <p>A agricultura familiar é essencial para a sobrevivência e a organização social da Comunidade Quilombola de Aroeira. Os moradores cultivam milho, feijão, abóbora, maxixe, mandioca, além de frutas como goiaba, coco, limão, manga, umbu, laranja aromática, mamão, maracujá do mato e graviola, garantindo diversidade alimentar e nutricional. Paralelamente, são cultivadas ervas medicinais, como capim-santo, erva-cidreira e hortelã, utilizadas no cuidado tradicional com a saúde, reforçando o respeito à natureza e a valorização dos saberes ancestrais ligados à terra.</p>
 
@@ -25,9 +24,6 @@
             <div class="agricultura-foto"><img src="{{ asset('images/Aroeira/Agricultura/h1.jpeg') }}" alt="Aroeira 1"></div>
             <div class="agricultura-foto"><img src="{{ asset('images/Aroeira/Agricultura/h2.jpeg') }}" alt="Aroeira 2"></div>
             <div class="agricultura-foto"><img src="{{ asset('images/Aroeira/Agricultura/h3.jpeg') }}" alt="Aroeira 3"></div>
-            <div class="agricultura-foto"><img src="{{ asset('images/Aroeira/Agricultura/h4.jpeg') }}" alt="Aroeira 4"></div>
-            <div class="agricultura-foto"><img src="{{ asset('images/Aroeira/Agricultura/h1.jpeg') }}" alt="Aroeira 5"></div>
-            <div class="agricultura-foto"><img src="{{ asset('images/Aroeira/Agricultura/h2.jpeg') }}" alt="Aroeira 6"></div>
         </div>
     </div>
 </section>

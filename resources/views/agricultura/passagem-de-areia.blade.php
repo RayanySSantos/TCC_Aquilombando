@@ -1,7 +1,7 @@
 @extends('layouts.app')
 
 @section('content')
-<section class="secao-capa" style="background-image: linear-gradient(rgba(58, 15, 15, 0.45), rgba(58, 15, 15, 0.35)), url('{{ asset('images/Passagem/Agricultura/h1.jpeg') }}');">
+<section class="secao-capa" style="background-image: linear-gradient(rgba(58, 15, 15, 0.45), rgba(58, 15, 15, 0.35)), url('{{ asset('images/Passagem/Agricultura/areia.png') }}');">
     <div class="secao-capa-conteudo">
         <h1>Passagem de Areia: Lavoura e Comunidade</h1>
         <span>Agricultura Familiar</span>
@@ -11,7 +11,6 @@
 <section class="agricultura-hero">
     <div class="agricultura-hero-container">
         <div class="agricultura-hero-texto">
-            <h2 class="secao-titulo">Passagem de Areia: Lavoura e Comunidade</h2>
 
             <p>A agricultura familiar constitui a base do modo de vida da Comunidade Quilombola de Passagem de Areia, sendo fundamental para a subsistência e a organização social do território. Os moradores cultivam palma, mandioca, manga, caju, batata-doce, jabuticaba, hortaliças e diversas outras frutas, garantindo alimentos frescos e saudáveis para o consumo das famílias. Essa produção fortalece a autonomia alimentar da comunidade e reafirma a relação histórica e afetiva com a terra, compreendida como herança dos antepassados e fonte de vida.</p>
 
@@ -26,8 +25,6 @@
             <div class="agricultura-foto"><img src="{{ asset('images/Passagem/Agricultura/h2.jpeg') }}" alt="Passagem de Areia 2"></div>
             <div class="agricultura-foto"><img src="{{ asset('images/Passagem/Agricultura/h3.jpeg') }}" alt="Passagem de Areia 3"></div>
             <div class="agricultura-foto"><img src="{{ asset('images/Passagem/Agricultura/h4.jpeg') }}" alt="Passagem de Areia 4"></div>
-            <div class="agricultura-foto"><img src="{{ asset('images/Passagem/Agricultura/h1.jpeg') }}" alt="Passagem de Areia 5"></div>
-            <div class="agricultura-foto"><img src="{{ asset('images/Passagem/Agricultura/h2.jpeg') }}" alt="Passagem de Areia 6"></div>
         </div>
     </div>
 </section>
