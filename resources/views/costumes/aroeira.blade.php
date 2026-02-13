@@ -1,7 +1,7 @@
 @extends('layouts.app')
 
 @section('content')
-<section class="secao-capa" style="background-image: linear-gradient(rgba(58, 15, 15, 0.45), rgba(58, 15, 15, 0.35)), url('{{ asset('images/Aroeira/festejos/f1.png') }}');">
+<section class="secao-capa" style="background-image: linear-gradient(rgba(58, 15, 15, 0.45), rgba(58, 15, 15, 0.35)), url('{{ asset('images/Aroeira/festejos/7.png') }}');">
     <div class="secao-capa-conteudo">
         <h1>Aroeira: Costumes e Tradições em Festa</h1>
         <span>Costumes e Tradições</span>
@@ -11,7 +11,6 @@
 <section class="costumes-hero">
     <div class="costumes-hero-container">
         <div class="costumes-hero-texto">
-            <h2 class="secao-titulo">Aroeira: Costumes e Tradições em Festa</h2>
 
             <p>Os costumes e tradições da Comunidade Quilombola de Aroeira são construídos a partir de práticas, saberes e vivências compartilhadas ao longo do tempo, preservadas principalmente pela oralidade e pela convivência entre gerações. Esses conhecimentos são transmitidos pelas pessoas mais velhas e reafirmados em momentos coletivos de celebração, nos quais passado e presente dialogam constantemente. Festas, cantos e narrativas revelam um modo de vida marcado pela resistência, pela espiritualidade e pela alegria, sustentando a identidade quilombola da comunidade.</p>
 
@@ -25,9 +24,6 @@
             <div class="costumes-foto"><img src="{{ asset('images/Aroeira/festejos/f1.png') }}" alt="Aroeira 1"></div>
             <div class="costumes-foto"><img src="{{ asset('images/Aroeira/festejos/f2.png') }}" alt="Aroeira 2"></div>
             <div class="costumes-foto"><img src="{{ asset('images/Aroeira/festejos/f3.png') }}" alt="Aroeira 3"></div>
-            <div class="costumes-foto"><img src="{{ asset('images/Aroeira/festejos/f1.png') }}" alt="Aroeira 4"></div>
-            <div class="costumes-foto"><img src="{{ asset('images/Aroeira/festejos/f2.png') }}" alt="Aroeira 5"></div>
-            <div class="costumes-foto"><img src="{{ asset('images/Aroeira/festejos/f3.png') }}" alt="Aroeira 6"></div>
         </div>
     </div>
 </section>

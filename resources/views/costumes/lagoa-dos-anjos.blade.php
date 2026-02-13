@@ -1,7 +1,7 @@
 @extends('layouts.app')
 
 @section('content')
-<section class="secao-capa" style="background-image: linear-gradient(rgba(58, 15, 15, 0.45), rgba(58, 15, 15, 0.35)), url('{{ asset('images/Lagoa dos Anjos/festejos/f1.jpeg') }}');">
+<section class="secao-capa" style="background-image: linear-gradient(rgba(58, 15, 15, 0.45), rgba(58, 15, 15, 0.35)), url('{{ asset('images/Lagoa dos Anjos/festejos/3.png') }}');">
     <div class="secao-capa-conteudo">
         <h1>Lagoa dos Anjos: Costumes e Tradições Comunitárias</h1>
         <span>Costumes e Tradições</span>
@@ -11,7 +11,6 @@
 <section class="costumes-hero">
     <div class="costumes-hero-container">
         <div class="costumes-hero-texto">
-            <h2 class="secao-titulo">Lagoa dos Anjos: Costumes e Tradições Comunitárias</h2>
 
             <p>As comunidades quilombolas constroem sua identidade a partir de saberes, práticas e memórias compartilhadas coletivamente, transmitidas principalmente pela oralidade. Esses conhecimentos permanecem vivos nas narrativas dos mais velhos e nas vivências cotidianas da comunidade. No Quilombo Lagoa dos Anjos, cantos, festas e relatos evidenciam a forte presença da ancestralidade, que orienta o modo de viver e fortalece o vínculo entre passado e presente, entrelaçando resistência, espiritualidade e alegria como elementos centrais da experiência quilombola.</p>
 
@@ -25,9 +24,6 @@
             <div class="costumes-foto"><img src="{{ asset('images/Lagoa dos Anjos/festejos/f1.jpeg') }}" alt="Lagoa dos Anjos 1"></div>
             <div class="costumes-foto"><img src="{{ asset('images/Lagoa dos Anjos/festejos/f2.jpeg') }}" alt="Lagoa dos Anjos 2"></div>
             <div class="costumes-foto"><img src="{{ asset('images/Lagoa dos Anjos/festejos/f3.jpeg') }}" alt="Lagoa dos Anjos 3"></div>
-            <div class="costumes-foto"><img src="{{ asset('images/Lagoa dos Anjos/festejos/f1.jpeg') }}" alt="Lagoa dos Anjos 4"></div>
-            <div class="costumes-foto"><img src="{{ asset('images/Lagoa dos Anjos/festejos/f2.jpeg') }}" alt="Lagoa dos Anjos 5"></div>
-            <div class="costumes-foto"><img src="{{ asset('images/Lagoa dos Anjos/festejos/f3.jpeg') }}" alt="Lagoa dos Anjos 6"></div>
         </div>
     </div>
 </section>

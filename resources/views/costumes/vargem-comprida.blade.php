@@ -1,7 +1,7 @@
 @extends('layouts.app')
 
 @section('content')
-<section class="secao-capa" style="background-image: linear-gradient(rgba(58, 15, 15, 0.45), rgba(58, 15, 15, 0.35)), url('{{ asset('images/Vargem Comprida/festejos/f1.jpeg') }}');">
+<section class="secao-capa" style="background-image: linear-gradient(rgba(58, 15, 15, 0.45), rgba(58, 15, 15, 0.35)), url('{{ asset('images/Vargem Comprida/festejos/10.png') }}');">
     <div class="secao-capa-conteudo">
         <h1>Vargem Comprida: Festas e Tradições do Território</h1>
         <span>Costumes e Tradições</span>
@@ -11,7 +11,6 @@
 <section class="costumes-hero">
     <div class="costumes-hero-container">
         <div class="costumes-hero-texto">
-            <h2 class="secao-titulo">Vargem Comprida: Festas e Tradições do Território</h2>
 
             <p>Os costumes e tradições da Comunidade Quilombola de Vargem Comprida permanecem vivos no cotidiano dos moradores, manifestando-se por meio do reisado, da dança de roda e de diversas celebrações religiosas, como as vias sacras, a missa do padroeiro, o Natal e a tradicional fogueira de São João. Esses momentos coletivos representam espaços de fé, encontro e partilha, nos quais a comunidade se reúne para celebrar sua história, fortalecer laços afetivos e reafirmar valores construídos ao longo do tempo.</p>
 

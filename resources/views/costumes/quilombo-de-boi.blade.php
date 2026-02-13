@@ -1,7 +1,7 @@
 @extends('layouts.app')
 
 @section('content')
-<section class="secao-capa" style="background-image: linear-gradient(rgba(58, 15, 15, 0.45), rgba(58, 15, 15, 0.35)), url('{{ asset('images/Boi/festejos/f1.jpg') }}');">
+<section class="secao-capa" style="background-image: linear-gradient(rgba(58, 15, 15, 0.45), rgba(58, 15, 15, 0.35)), url('{{ asset('images/Boi/festejos/2.png') }}');">
     <div class="secao-capa-conteudo">
         <h1>Quilombo de Boi: Costumes, Fé e Celebração</h1>
         <span>Costumes e Tradições</span>
@@ -11,7 +11,6 @@
 <section class="costumes-hero">
     <div class="costumes-hero-container">
         <div class="costumes-hero-texto">
-            <h2 class="secao-titulo">Quilombo de Boi: Costumes, Fé e Celebração</h2>
 
             <p>Desde sua origem, a Comunidade Quilombola de Boi preserva tradições culturais e familiares por meio de práticas que atravessam gerações, como a agricultura, a religiosidade, a música e a realização de festejos locais. Essas expressões integram o cotidiano dos moradores e constituem importantes instrumentos de fortalecimento da identidade coletiva e da memória comunitária, mantendo vivos os saberes e valores herdados dos antepassados.</p>
 

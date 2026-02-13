@@ -1,7 +1,7 @@
 @extends('layouts.app')
 
 @section('content')
-<section class="secao-capa" style="background-image: linear-gradient(rgba(58, 15, 15, 0.45), rgba(58, 15, 15, 0.35)), url('{{ asset('images/Vargem Alta/festejos/f1.jpeg') }}');">
+<section class="secao-capa" style="background-image: linear-gradient(rgba(58, 15, 15, 0.45), rgba(58, 15, 15, 0.35)), url('{{ asset('images/Vargem Alta/festejos/5.png') }}');">
     <div class="secao-capa-conteudo">
         <h1>Vargem Alta: Tradições e Celebrações</h1>
         <span>Costumes e Tradições</span>
@@ -11,7 +11,6 @@
 <section class="costumes-hero">
     <div class="costumes-hero-container">
         <div class="costumes-hero-texto">
-            <h2 class="secao-titulo">Vargem Alta: Tradições e Celebrações</h2>
 
             <p>Os costumes e tradições da Comunidade Quilombola de Vargem Alta são construídos e fortalecidos a partir de práticas culturais, saberes tradicionais e experiências compartilhadas no cotidiano. Esses elementos são transmitidos entre as gerações, principalmente por meio da oralidade e da vivência coletiva, permitindo que a memória ancestral permaneça viva e significativa. Dessa forma, a cultura se manifesta como base da identidade quilombola e da organização comunitária.</p>
 

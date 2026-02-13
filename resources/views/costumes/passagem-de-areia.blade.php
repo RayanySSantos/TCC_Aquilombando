@@ -1,7 +1,7 @@
 @extends('layouts.app')
 
 @section('content')
-<section class="secao-capa" style="background-image: linear-gradient(rgba(58, 15, 15, 0.45), rgba(58, 15, 15, 0.35)), url('{{ asset('images/Passagem/festejos/f1.jpeg') }}');">
+<section class="secao-capa" style="background-image: linear-gradient(rgba(58, 15, 15, 0.45), rgba(58, 15, 15, 0.35)), url('{{ asset('images/Passagem/festejos/4.png') }}');">
     <div class="secao-capa-conteudo">
         <h1>Passagem de Areia: Festejos e Encontros</h1>
         <span>Costumes e Tradições</span>
@@ -11,7 +11,6 @@
 <section class="costumes-hero">
     <div class="costumes-hero-container">
         <div class="costumes-hero-texto">
-            <h2 class="secao-titulo">Passagem de Areia: Festejos e Encontros</h2>
 
             <p>Os costumes e tradições da Comunidade Quilombola de Passagem de Areia ocupam um lugar central na vida coletiva, expressando a memória, a ancestralidade e o sentimento de pertencimento ao território. Essas práticas culturais são transmitidas entre gerações por meio da convivência cotidiana, da oralidade e da participação comunitária, permitindo que os saberes tradicionais permaneçam vivos e significativos.</p>
 
@@ -24,10 +23,6 @@
         <div class="costumes-hero-galeria">
             <div class="costumes-foto"><img src="{{ asset('images/Passagem/festejos/f1.jpeg') }}" alt="Passagem de Areia 1"></div>
             <div class="costumes-foto"><img src="{{ asset('images/Passagem/festejos/f2.jpeg') }}" alt="Passagem de Areia 2"></div>
-            <div class="costumes-foto"><img src="{{ asset('images/Passagem/festejos/f1.jpeg') }}" alt="Passagem de Areia 3"></div>
-            <div class="costumes-foto"><img src="{{ asset('images/Passagem/festejos/f2.jpeg') }}" alt="Passagem de Areia 4"></div>
-            <div class="costumes-foto"><img src="{{ asset('images/Passagem/festejos/f1.jpeg') }}" alt="Passagem de Areia 5"></div>
-            <div class="costumes-foto"><img src="{{ asset('images/Passagem/festejos/f2.jpeg') }}" alt="Passagem de Areia 6"></div>
         </div>
     </div>
 </section>
