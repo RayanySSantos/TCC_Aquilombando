@@ -1,7 +1,7 @@
 @extends('layouts.app')
 
 @section('content')
-<section class="secao-capa" style="background-image: linear-gradient(rgba(58, 15, 15, 0.45), rgba(58, 15, 15, 0.35)), url('{{ asset('images/Vargem Comprida/Artesanato/a1.jpeg') }}');">
+<section class="secao-capa" style="background-image: linear-gradient(rgba(58, 15, 15, 0.80), rgba(58, 15, 15, 0.35)), url('{{ asset('images/Vargem Comprida/Artesanato/artesanato01.png') }}');">
     <div class="secao-capa-conteudo">
         <h1>Vargem Comprida: Tear de Roda e Heranças do Algodão</h1>
         <span>Artesanato</span>
@@ -11,7 +11,6 @@
 <section class="artesanato-hero">
     <div class="artesanato-hero-container">
         <div class="artesanato-hero-texto">
-            <h2 class="secao-titulo">Vargem Comprida: Tear de Roda e Heranças do Algodão</h2>
 
             <p>O artesanato da Comunidade Quilombola de Vargem Comprida é uma expressão viva da tradição, da criatividade e da identidade quilombola. As mulheres da comunidade produzem, com dedicação e habilidade, peças em algodão no tear de roda, como toalhas e cachecóis, além de dominarem técnicas como fiar algodão, tecelagem, crochê, ponto cruz, marambaia, vagonite e costura. Cada criação carrega saberes transmitidos entre gerações e representa um elo entre passado e presente, preservando conhecimentos ancestrais e mantendo viva a cultura local.</p>
 

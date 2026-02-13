@@ -1,7 +1,7 @@
 @extends('layouts.app')
 
 @section('content')
-<section class="secao-capa" style="background-image: linear-gradient(rgba(58, 15, 15, 0.45), rgba(58, 15, 15, 0.35)), url('{{ asset('images/Aroeira/artesanato/a1.jpeg') }}');">
+<section class="secao-capa" style="background-image: linear-gradient(rgba(58, 15, 15, 0.85), rgba(58, 15, 15, 0.35)), url('{{ asset('images/Aroeira/artesanato/artesanato06.png') }}');">
     <div class="secao-capa-conteudo">
         <h1>Aroeira: Artesanato e Memória Ancestral</h1>
         <span>Artesanato</span>
@@ -11,7 +11,6 @@
 <section class="artesanato-hero">
     <div class="artesanato-hero-container">
         <div class="artesanato-hero-texto">
-            <h2 class="secao-titulo">Aroeira: Artesanato e Memória Ancestral</h2>
 
             <p>O artesanato da Comunidade Quilombola de Aroeira é uma expressão viva da criatividade e do legado cultural da comunidade. As peças produzidas incluem tapetes, flores, cestos de fibra de bananeira e trabalhos em crochê confeccionados com linha fiada no fuso de algodão, todos elaborados a partir de técnicas tradicionais transmitidas de geração em geração. Cada criação reflete a memória ancestral e o saber das mulheres da comunidade, mantendo viva a história e a identidade quilombola.</p>
 
@@ -25,9 +24,6 @@
             <div class="artesanato-foto"><img src="{{ asset('images/Aroeira/artesanato/a1.jpeg') }}" alt="Aroeira 1"></div>
             <div class="artesanato-foto"><img src="{{ asset('images/Aroeira/artesanato/a2.jpeg') }}" alt="Aroeira 2"></div>
             <div class="artesanato-foto"><img src="{{ asset('images/Aroeira/artesanato/a3.jpeg') }}" alt="Aroeira 3"></div>
-            <div class="artesanato-foto"><img src="{{ asset('images/Aroeira/artesanato/a1.jpeg') }}" alt="Aroeira 4"></div>
-            <div class="artesanato-foto"><img src="{{ asset('images/Aroeira/artesanato/a2.jpeg') }}" alt="Aroeira 5"></div>
-            <div class="artesanato-foto"><img src="{{ asset('images/Aroeira/artesanato/a3.jpeg') }}" alt="Aroeira 6"></div>
         </div>
     </div>
 </section>

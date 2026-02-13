@@ -1,7 +1,7 @@
 @extends('layouts.app')
 
 @section('content')
-<section class="secao-capa" style="background-image: linear-gradient(rgba(58, 15, 15, 0.45), rgba(58, 15, 15, 0.35)), url('{{ asset('images/Passagem/artesanato/a1.jpeg') }}');">
+<section class="secao-capa" style="background-image: linear-gradient(rgba(58, 15, 15, 0.75), rgba(58, 15, 15, 0.35)), url('{{ asset('images/Passagem/artesanato/artesanato03.png') }}');">
     <div class="secao-capa-conteudo">
         <h1>Passagem de Areia: Arte Manual e Identidade Quilombola</h1>
         <span>Artesanato</span>
@@ -11,7 +11,6 @@
 <section class="artesanato-hero">
     <div class="artesanato-hero-container">
         <div class="artesanato-hero-texto">
-            <h2 class="secao-titulo">Passagem de Areia: Arte Manual e Identidade Quilombola</h2>
 
             <p>O artesanato da Comunidade Quilombola de Passagem de Areia constitui uma importante expressão cultural, social e econômica, profundamente ligada à identidade e à história do território. Produzido majoritariamente pelas mulheres da comunidade, o trabalho artesanal inclui cestos de palma, bonecas de pano, panos bordados, peças em crochê e outros trabalhos manuais que revelam criatividade, dedicação e domínio de técnicas tradicionais. Cada peça carrega significados que ultrapassam a estética, funcionando como símbolo de pertencimento, resistência e preservação dos saberes ancestrais quilombolas.</p>
 
@@ -25,9 +24,6 @@
             <div class="artesanato-foto"><img src="{{ asset('images/Passagem/artesanato/a1.jpeg') }}" alt="Passagem de Areia 1"></div>
             <div class="artesanato-foto"><img src="{{ asset('images/Passagem/artesanato/a2.jpeg') }}" alt="Passagem de Areia 2"></div>
             <div class="artesanato-foto"><img src="{{ asset('images/Passagem/artesanato/a3.jpeg') }}" alt="Passagem de Areia 3"></div>
-            <div class="artesanato-foto"><img src="{{ asset('images/Passagem/artesanato/a1.jpeg') }}" alt="Passagem de Areia 4"></div>
-            <div class="artesanato-foto"><img src="{{ asset('images/Passagem/artesanato/a2.jpeg') }}" alt="Passagem de Areia 5"></div>
-            <div class="artesanato-foto"><img src="{{ asset('images/Passagem/artesanato/a3.jpeg') }}" alt="Passagem de Areia 6"></div>
         </div>
     </div>
 </section>

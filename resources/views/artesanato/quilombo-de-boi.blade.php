@@ -1,7 +1,7 @@
 @extends('layouts.app')
 
 @section('content')
-<section class="secao-capa" style="background-image: linear-gradient(rgba(58, 15, 15, 0.45), rgba(58, 15, 15, 0.35)), url('{{ asset('images/Boi/artesanato/a1.jpeg') }}');">
+<section class="secao-capa" style="background-image: linear-gradient(rgba(58, 15, 15, 0.70), rgba(58, 15, 15, 0.35)), url('{{ asset('images/Boi/artesanato/artesanato05.png') }}');">
     <div class="secao-capa-conteudo">
         <h1>Quilombo de Boi: Artesanato e Sustentabilidade</h1>
         <span>Artesanato</span>
@@ -11,7 +11,6 @@
 <section class="artesanato-hero">
     <div class="artesanato-hero-container">
         <div class="artesanato-hero-texto">
-            <h2 class="secao-titulo">Quilombo de Boi: Artesanato e Sustentabilidade</h2>
 
             <p>O artesanato da Comunidade Quilombola de Boi constitui uma importante expressão da criatividade, do conhecimento ancestral e da relação direta com o território. As peças produzidas incluem cestos e flores de bananeira, bonecas de pano e pinturas, elaboradas a partir de recursos naturais disponíveis na região. Cada objeto carrega significados culturais próprios e expressa a habilidade manual dos moradores, funcionando como elemento de afirmação da identidade quilombola e de preservação da memória coletiva.</p>
 
