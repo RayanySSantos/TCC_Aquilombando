@@ -51,7 +51,7 @@
     <div class="comunidades-grid">
 
         <div class="card">
-            <img src="{{ asset('images/comunidade/foto5.jpg') }}" alt="Vargem Alta">
+            <img src="{{ asset('images/Logo/vargemalta.png') }}" alt="Vargem Alta">
             <div class="card-info">
                 <h3>Vargem Alta</h3>
                 <p>Uma comunidade rica em tradições, cultura e história que preserva a identidade quilombola.</p>
@@ -60,7 +60,7 @@
         </div>
 
         <div class="card">
-            <img src="{{ asset('images/comunidade/foto4.jpg') }}" alt="Passagem de Areia">
+            <img src="{{ asset('images/Logo/Areia.png') }}" alt="Passagem de Areia">
             <div class="card-info">
                 <h3>Passagem de Areia</h3>
                 <p>Uma comunidade marcada por suas práticas, saberes e tradições ancestrais.</p>
@@ -69,7 +69,7 @@
         </div>
 
         <div class="card">
-            <img src="{{ asset('images/comunidade/foto6.jpg') }}" alt="Vargem Comprida">
+            <img src="{{ asset('images/Logo/Comprida.png') }}" alt="Vargem Comprida">
             <div class="card-info">
                 <h3>Vargem Comprida</h3>
                 <p>Cultura viva, costumes e uma comunidade que mantém sua ancestralidade.</p>
@@ -78,7 +78,7 @@
         </div>
 
         <div class="card">
-            <img src="{{ asset('images/comunidade/foto2.jpg') }}" alt="Quilombo de Boi">
+            <img src="{{ asset('images/Logo/Boi.jpeg') }}" alt="Quilombo de Boi">
             <div class="card-info">
                 <h3>Quilombo de Boi</h3>
                 <p>Uma comunidade marcada por práticas culturais que atravessam gerações.</p>
@@ -87,7 +87,7 @@
         </div>
 
         <div class="card">
-            <img src="{{ asset('images/comunidade/foto3.jpg') }}" alt="Lagoa dos Anjos">
+            <img src="{{ asset('images/Logo/LagoadosAnjos.png') }}" alt="Lagoa dos Anjos">
             <div class="card-info">
                 <h3>Lagoa dos Anjos</h3>
                 <p>Uma comunidade que mantém viva sua história e ancestralidade quilombola.</p>
@@ -96,7 +96,7 @@
         </div>
 
         <div class="card">
-            <img src="{{ asset('images/comunidade/foto1.jpg') }}" alt="Aroeira">
+            <img src="{{ asset('images/Logo/Aroeira.jpeg') }}" alt="Aroeira">
             <div class="card-info">
                 <h3>Aroeira</h3>
                 <p>Tradições, cultura e história preservadas ao longo de gerações.</p>
