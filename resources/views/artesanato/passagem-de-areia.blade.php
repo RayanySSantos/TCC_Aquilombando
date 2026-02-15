@@ -9,7 +9,7 @@
 </section>
 
 <section class="artesanato-hero">
-    <div class="artesanato-hero-container">
+    <div class="artesanato-hero-container artesanato-hero-container--top">
         <div class="artesanato-hero-texto">
 
             <p>O artesanato da Comunidade Quilombola de Passagem de Areia constitui uma importante expressão cultural, social e econômica, profundamente ligada à identidade e à história do território. Produzido majoritariamente pelas mulheres da comunidade, o trabalho artesanal inclui cestos de palma, bonecas de pano, panos bordados, peças em crochê e outros trabalhos manuais que revelam criatividade, dedicação e domínio de técnicas tradicionais. Cada peça carrega significados que ultrapassam a estética, funcionando como símbolo de pertencimento, resistência e preservação dos saberes ancestrais quilombolas.</p>
@@ -20,7 +20,7 @@
 
         </div>
 
-        <div class="artesanato-hero-galeria">
+        <div class="artesanato-hero-galeria artesanato-hero-galeria--vertical">
             <div class="artesanato-foto"><img src="{{ asset('images/Passagem/artesanato/a1.jpeg') }}" alt="Passagem de Areia 1"></div>
             <div class="artesanato-foto"><img src="{{ asset('images/Passagem/artesanato/a2.jpeg') }}" alt="Passagem de Areia 2"></div>
             <div class="artesanato-foto"><img src="{{ asset('images/Passagem/artesanato/a3.jpeg') }}" alt="Passagem de Areia 3"></div>

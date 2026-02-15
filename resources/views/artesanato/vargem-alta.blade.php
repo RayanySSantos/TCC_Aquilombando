@@ -9,7 +9,7 @@
 </section>
 
 <section class="artesanato-hero">
-    <div class="artesanato-hero-container">
+    <div class="artesanato-hero-container artesanato-hero-container--top">
         <div class="artesanato-hero-texto">
 
              <p>O artesanato da Comunidade Quilombola de Vargem Alta é uma expressão concreta da tradição, da criatividade e da identidade cultural local. Entre as práticas mais valorizadas estão a produção de peças em crochê, o fiar do algodão, a tecelagem no tear de roda, o ponto cruz, a marambaia, o vagonite, a costura e outros trabalhos manuais realizados com materiais disponíveis no território. Cada peça produzida carrega a memória coletiva e os saberes transmitidos ao longo das gerações.</p>

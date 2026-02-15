@@ -96,9 +96,9 @@
 
             <div class="pessoa">
                 <div class="circulo">
-                    <img src="/images/equipe/lucas.jpg" alt="Lucas">
+                    <img src="/images/Equipe/tais.jpeg" alt="Tais Carolane Souza Almeida">
                 </div>
-                <span>Lucas</span>
+                <span>Tais Carolane Souza Almeida</span>
             </div>
 
             <div class="pessoa">
@@ -144,30 +144,44 @@
 
             <div class="pessoa">
                 <div class="circulo">
-                    <img src="/images/equipe/lucas.jpg" alt="Lucas">
+                    <img src="/images/Equipe/ieda.jpeg" alt="Iêda da Silva Guimarães Soares">
                 </div>
-                <span>Lucas</span>
+                <span>Iêda da Silva Guimarães Soares</span>
             </div>
 
             <div class="pessoa">
                 <div class="circulo">
-                    <img src="/images/equipe/lucas.jpg" alt="Lucas">
+                    <img src="/images/Equipe/flavia.jpeg" alt="Flávia Eugínia Pereira Gomes">
                 </div>
-                <span>Lucas</span>
+                <span>Flávia Eugínia Pereira Gomes</span>
             </div>
 
             <div class="pessoa">
                 <div class="circulo">
-                    <img src="/images/equipe/lucas.jpg" alt="Lucas">
+                    <img src="/images/Equipe/ramon.jpeg" alt="Ramon Lima Silva">
                 </div>
-                <span>Lucas</span>
+                <span>Ramon Lima Silva</span>
             </div>
 
             <div class="pessoa">
                 <div class="circulo">
-                    <img src="/images/equipe/lucas.jpg" alt="Lucas">
+                    <img src="/images/Equipe/linda.jpeg" alt="Lindaberg da Rocha Macedo">
                 </div>
-                <span>Lucas</span>
+                <span>Lindaberg da Rocha Macedo</span>
+            </div>
+
+            <div class="pessoa">
+                <div class="circulo">
+                    <img src="/images/Equipe/lucelia.jpeg" alt="Lucélia Amorim da Silva">
+                </div>
+                <span>Lucélia Amorim da Silva</span>
+            </div>
+
+             <div class="pessoa">
+                <div class="circulo">
+                    <img src="/images/Equipe/bianca.jpeg" alt="Bianca de Carvalho Silva">
+                </div>
+                <span>Bianca de Carvalho Silva</span>
             </div>
 
         </div>

@@ -42,6 +42,10 @@ body.culinaria .submenu a:hover {
     align-items: center;
 }
 
+.culinaria-hero-container--top {
+    align-items: start;
+}
+
 .culinaria-hero-texto h1 {
     font-size: 42px;
     font-weight: 700;
@@ -64,11 +68,35 @@ body.culinaria .submenu a:hover {
     gap: 12px;
 }
 
+.culinaria-hero-galeria--vertical {
+    grid-template-columns: 1fr;
+    gap: 18px;
+}
+
 .culinaria-foto {
     position: relative;
     overflow: hidden;
     border-radius: 10px;
     background: #ddd;
+}
+
+.culinaria-foto-numero {
+    position: absolute;
+    top: 12px;
+    left: 12px;
+    z-index: 2;
+    min-width: 42px;
+    height: 42px;
+    padding: 0 10px;
+    border-radius: 999px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    background: rgba(75, 29, 14, 0.9);
+    color: #fff;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 1;
 }
 
 .culinaria-foto img {
@@ -78,6 +106,10 @@ body.culinaria .submenu a:hover {
     transition: transform 0.3s ease;
     cursor: zoom-in;
     display: block;
+}
+
+.culinaria-hero-galeria--vertical .culinaria-foto img {
+    height: 360px;
 }
 
 .culinaria-foto img:hover {
@@ -95,5 +127,9 @@ body.culinaria .submenu a:hover {
 
     .culinaria-foto img {
         height: 200px;
+    }
+
+    .culinaria-hero-galeria--vertical .culinaria-foto img {
+        height: 280px;
     }
 }

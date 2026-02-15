@@ -42,6 +42,10 @@ body.artesanato .submenu a:hover {
     align-items: center;
 }
 
+.artesanato-hero-container--top {
+    align-items: start;
+}
+
 .artesanato-hero-texto h1 {
     font-size: 42px;
     font-weight: 700;
@@ -62,6 +66,10 @@ body.artesanato .submenu a:hover {
     display: grid;
     grid-template-columns: 1fr 1fr;
     gap: 12px;
+}
+
+.artesanato-hero-galeria--vertical {
+    grid-template-columns: 1fr;
 }
 
 .artesanato-foto {
