@@ -42,6 +42,10 @@ body.costumes .submenu a:hover {
     align-items: center;
 }
 
+.costumes-hero-container--top {
+    align-items: start;
+}
+
 .costumes-hero-texto h1 {
     font-size: 42px;
     font-weight: 700;
@@ -62,6 +66,18 @@ body.costumes .submenu a:hover {
     display: grid;
     grid-template-columns: 1fr 1fr;
     gap: 12px;
+}
+
+.costumes-hero-galeria--vertical {
+    grid-template-columns: 1fr;
+}
+
+.costumes-hero-galeria--passagem .costumes-foto img {
+    height: 380px;
+}
+
+.costumes-hero-galeria--vargem-alta .costumes-foto img {
+    height: 320px;
 }
 
 .costumes-foto {
@@ -95,5 +111,13 @@ body.costumes .submenu a:hover {
 
     .costumes-foto img {
         height: 200px;
+    }
+
+    .costumes-hero-galeria--passagem .costumes-foto img {
+        height: 290px;
+    }
+
+    .costumes-hero-galeria--vargem-alta .costumes-foto img {
+        height: 240px;
     }
 }

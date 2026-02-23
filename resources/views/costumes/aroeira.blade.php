@@ -9,7 +9,7 @@
 </section>
 
 <section class="costumes-hero">
-    <div class="costumes-hero-container">
+    <div class="costumes-hero-container costumes-hero-container--top">
         <div class="costumes-hero-texto">
 
             <p>Os costumes e tradições da Comunidade Quilombola de Aroeira são construídos a partir de práticas, saberes e vivências compartilhadas ao longo do tempo, preservadas principalmente pela oralidade e pela convivência entre gerações. Esses conhecimentos são transmitidos pelas pessoas mais velhas e reafirmados em momentos coletivos de celebração, nos quais passado e presente dialogam constantemente. Festas, cantos e narrativas revelam um modo de vida marcado pela resistência, pela espiritualidade e pela alegria, sustentando a identidade quilombola da comunidade.</p>
@@ -20,7 +20,7 @@
 
         </div>
 
-        <div class="costumes-hero-galeria">
+        <div class="costumes-hero-galeria costumes-hero-galeria--vertical">
             <div class="costumes-foto"><img src="{{ asset('images/Aroeira/festejos/f1.png') }}" alt="Aroeira 1"></div>
             <div class="costumes-foto"><img src="{{ asset('images/Aroeira/festejos/f2.png') }}" alt="Aroeira 2"></div>
             <div class="costumes-foto"><img src="{{ asset('images/Aroeira/festejos/f3.png') }}" alt="Aroeira 3"></div>

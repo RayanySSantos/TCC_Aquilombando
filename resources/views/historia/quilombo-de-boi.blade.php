@@ -9,7 +9,7 @@
 </section>
 
 <section class="historia-hero">
-    <div class="historia-hero-container">
+    <div class="historia-hero-container historia-hero-container--top">
         <div class="historia-hero-texto">
 
             <p>
@@ -39,7 +39,7 @@
 
         </div>
 
-        <div class="historia-hero-galeria">
+        <div class="historia-hero-galeria historia-hero-galeria--boi">
             <div class="historia-foto"><img src="{{ asset('images/Boi/festejos/f6.jpeg') }}" alt="Quilombo de Boi 1"></div>
             <div class="historia-foto"><img src="{{ asset('images/Boi/guardia/g6.jpeg') }}" alt="Quilombo de Boi 2"></div>
             <div class="historia-foto"><img src="{{ asset('images/Boi/Agricultura/h1.jpg') }}" alt="Quilombo de Boi 3"></div>

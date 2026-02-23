@@ -20,7 +20,7 @@
            
         </div>
 
-        <div class="artesanato-hero-galeria">
+        <div class="artesanato-hero-galeria artesanato-hero-galeria--vargem-alta">
             <div class="artesanato-foto"><img src="{{ asset('images/Vargem Alta/artesanato/a1.jpeg') }}" alt="Vargem Alta 1"></div>
             <div class="artesanato-foto"><img src="{{ asset('images/Vargem Alta/artesanato/a2.jpeg') }}" alt="Vargem Alta 2"></div>
             <div class="artesanato-foto"><img src="{{ asset('images/Vargem Alta/artesanato/a3.jpeg') }}" alt="Vargem Alta 3"></div>

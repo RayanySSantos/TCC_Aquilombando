@@ -1,27 +1,49 @@
 document.addEventListener("DOMContentLoaded", function () {
+    const imageSelector = [
+        ".hero-galeria img",
+        ".historia-hero-galeria img",
+        ".culinaria-hero-galeria img",
+        ".artesanato-hero-galeria img",
+        ".costumes-hero-galeria img",
+        ".agricultura-hero-galeria img",
+        ".comunidades-grid .card img",
+        ".estatistica-container .estatistica-card-grafico img"
+    ].join(", ");
 
-    const imagens = document.querySelectorAll(".hero-galeria img, .historia-hero-galeria img, .culinaria-hero-galeria img, .artesanato-hero-galeria img, .costumes-hero-galeria img, .agricultura-hero-galeria img, .comunidades-grid .card img");
     const lightbox = document.getElementById("lightbox");
     const lightboxImg = document.getElementById("lightbox-img");
-    const fechar = document.querySelector(".lightbox-fechar");
+    const closeButton = document.querySelector(".lightbox-fechar");
 
-    if (!lightbox || imagens.length === 0) return;
+    if (!lightbox || !lightboxImg || !closeButton) return;
 
-    imagens.forEach(img => {
-        img.addEventListener("click", function () {
-            lightboxImg.src = this.src;
-            lightbox.style.display = "flex";
-        });
-    });
-
-    fechar.addEventListener("click", function () {
+    const closeLightbox = function () {
         lightbox.style.display = "none";
+        lightboxImg.removeAttribute("src");
+        lightboxImg.removeAttribute("alt");
+    };
+
+    document.addEventListener("click", function (event) {
+        const image = event.target.closest(imageSelector);
+
+        if (!image) return;
+        if (!image.src) return;
+
+        lightboxImg.src = image.src;
+        lightboxImg.alt = image.alt || "Imagem ampliada";
+        lightbox.style.display = "flex";
     });
 
-    lightbox.addEventListener("click", function (e) {
-        if (e.target === lightbox) {
-            lightbox.style.display = "none";
+    closeButton.addEventListener("click", closeLightbox);
+
+    lightbox.addEventListener("click", function (event) {
+        if (event.target === lightbox) {
+            closeLightbox();
         }
     });
 
+    document.addEventListener("keydown", function (event) {
+        if (event.key === "Escape" && lightbox.style.display === "flex") {
+            closeLightbox();
+        }
+    });
 });

@@ -9,7 +9,7 @@
 </section>
 
 <section class="costumes-hero">
-    <div class="costumes-hero-container">
+    <div class="costumes-hero-container costumes-hero-container--top">
         <div class="costumes-hero-texto">
 
             <p>Os costumes e tradições da Comunidade Quilombola de Vargem Alta são construídos e fortalecidos a partir de práticas culturais, saberes tradicionais e experiências compartilhadas no cotidiano. Esses elementos são transmitidos entre as gerações, principalmente por meio da oralidade e da vivência coletiva, permitindo que a memória ancestral permaneça viva e significativa. Dessa forma, a cultura se manifesta como base da identidade quilombola e da organização comunitária.</p>
@@ -20,7 +20,7 @@
 
         </div>
 
-        <div class="costumes-hero-galeria">
+        <div class="costumes-hero-galeria costumes-hero-galeria--vargem-alta">
             <div class="costumes-foto"><img src="{{ asset('images/Vargem Alta/festejos/f1.jpeg') }}" alt="Vargem Alta 1"></div>
             <div class="costumes-foto"><img src="{{ asset('images/Vargem Alta/festejos/f2.jpeg') }}" alt="Vargem Alta 2"></div>
             <div class="costumes-foto"><img src="{{ asset('images/Vargem Alta/festejos/f3.jpeg') }}" alt="Vargem Alta 3"></div>

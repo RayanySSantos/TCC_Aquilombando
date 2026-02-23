@@ -9,7 +9,7 @@
 </section>
 
 <section class="costumes-hero">
-    <div class="costumes-hero-container">
+    <div class="costumes-hero-container costumes-hero-container--top">
         <div class="costumes-hero-texto">
 
             <p>Os costumes e tradições da Comunidade Quilombola de Passagem de Areia ocupam um lugar central na vida coletiva, expressando a memória, a ancestralidade e o sentimento de pertencimento ao território. Essas práticas culturais são transmitidas entre gerações por meio da convivência cotidiana, da oralidade e da participação comunitária, permitindo que os saberes tradicionais permaneçam vivos e significativos.</p>
@@ -20,7 +20,7 @@
 
         </div>
 
-        <div class="costumes-hero-galeria">
+        <div class="costumes-hero-galeria costumes-hero-galeria--vertical costumes-hero-galeria--passagem">
             <div class="costumes-foto"><img src="{{ asset('images/Passagem/festejos/f1.jpeg') }}" alt="Passagem de Areia 1"></div>
             <div class="costumes-foto"><img src="{{ asset('images/Passagem/festejos/f2.jpeg') }}" alt="Passagem de Areia 2"></div>
         </div>

@@ -73,6 +73,10 @@ body.historia .submenu a:hover {
     align-items: center;
 }
 
+.historia-hero-container--top {
+    align-items: start;
+}
+
 .historia-titulo {
     font-size: 36px;
     font-weight: 700;
@@ -111,6 +115,22 @@ body.historia .submenu a:hover {
     display: block;
 }
 
+.historia-hero-galeria--boi .historia-foto img {
+    height: 290px;
+}
+
+.historia-hero-galeria--vargem-alta .historia-foto img {
+    height: 290px;
+}
+
+.historia-hero-galeria--passagem .historia-foto img {
+    height: 290px;
+}
+
+.historia-hero-galeria--vargem-comprida .historia-foto img {
+    height: 290px;
+}
+
 .historia-foto img:hover {
     transform: scale(1.06);
 }
@@ -134,5 +154,21 @@ body.historia .submenu a:hover {
 
     .historia-foto img {
         height: 200px;
+    }
+
+    .historia-hero-galeria--boi .historia-foto img {
+        height: 220px;
+    }
+
+    .historia-hero-galeria--vargem-alta .historia-foto img {
+        height: 220px;
+    }
+
+    .historia-hero-galeria--passagem .historia-foto img {
+        height: 220px;
+    }
+
+    .historia-hero-galeria--vargem-comprida .historia-foto img {
+        height: 220px;
     }
 }

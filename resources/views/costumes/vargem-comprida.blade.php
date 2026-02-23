@@ -9,7 +9,7 @@
 </section>
 
 <section class="costumes-hero">
-    <div class="costumes-hero-container">
+    <div class="costumes-hero-container costumes-hero-container--top">
         <div class="costumes-hero-texto">
 
             <p>Os costumes e tradições da Comunidade Quilombola de Vargem Comprida permanecem vivos no cotidiano dos moradores, manifestando-se por meio do reisado, da dança de roda e de diversas celebrações religiosas, como as vias sacras, a missa do padroeiro, o Natal e a tradicional fogueira de São João. Esses momentos coletivos representam espaços de fé, encontro e partilha, nos quais a comunidade se reúne para celebrar sua história, fortalecer laços afetivos e reafirmar valores construídos ao longo do tempo.</p>

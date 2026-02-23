@@ -9,7 +9,7 @@
 </section>
 
 <section class="historia-hero">
-    <div class="historia-hero-container">
+    <div class="historia-hero-container historia-hero-container--top">
         <div class="historia-hero-texto">
 
             <p>
@@ -42,7 +42,7 @@
 
         </div>
 
-        <div class="historia-hero-galeria">
+        <div class="historia-hero-galeria historia-hero-galeria--passagem">
             <div class="historia-foto"><img src="{{ asset('images/Passagem/festejos/f2.jpeg') }}" alt="Passagem de Areia 1"></div>
             <div class="historia-foto"><img src="{{ asset('images/Passagem/guardia/g5.jpeg') }}" alt="Passagem de Areia 2"></div>
             <div class="historia-foto"><img src="{{ asset('images/Passagem/Agricultura/h2.jpeg') }}" alt="Passagem de Areia 3"></div>

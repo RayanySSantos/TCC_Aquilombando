@@ -9,7 +9,7 @@
 </section>
 
 <section class="artesanato-hero">
-    <div class="artesanato-hero-container">
+    <div class="artesanato-hero-container artesanato-hero-container--top">
         <div class="artesanato-hero-texto">
 
             <p>O artesanato da Comunidade Quilombola de Lagoa dos Anjos é uma das expressões mais autênticas da criatividade e da resistência cultural de seus moradores. Entre os principais trabalhos produzidos estão toucas, peças de crochê com linha de algodão, panos confeccionados a partir de retalhos, bolsas, colheres de pau e pilões de madeira. Cada peça carrega parte da história e da identidade local, reafirmando a importância da preservação dos saberes manuais tradicionais.</p>
@@ -20,10 +20,9 @@
 
         </div>
 
-        <div class="artesanato-hero-galeria">
+        <div class="artesanato-hero-galeria artesanato-hero-galeria--vertical artesanato-hero-galeria--lagoa">
             <div class="artesanato-foto"><img src="{{ asset('images/Lagoa dos Anjos/artesanato/a1.jpeg') }}" alt="Lagoa dos Anjos 1"></div>
             <div class="artesanato-foto"><img src="{{ asset('images/Lagoa dos Anjos/artesanato/a2.jpeg') }}" alt="Lagoa dos Anjos 2"></div>
-            <div class="artesanato-foto"><img src="{{ asset('images/Lagoa dos Anjos/artesanato/a3.jpeg') }}" alt="Lagoa dos Anjos 3"></div>
         </div>
     </div>
 </section>

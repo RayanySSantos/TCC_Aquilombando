@@ -9,7 +9,7 @@
 </section>
 
 <section class="historia-hero">
-    <div class="historia-hero-container">
+    <div class="historia-hero-container historia-hero-container--top">
         <div class="historia-hero-texto">
 
             <p>
@@ -40,7 +40,7 @@
 
         </div>
 
-        <div class="historia-hero-galeria">
+        <div class="historia-hero-galeria historia-hero-galeria--vargem-comprida">
             <div class="historia-foto"><img src="{{ asset('images/Vargem Comprida/festejos/f1.jpeg') }}" alt="Vargem Comprida 1"></div>
             <div class="historia-foto"><img src="{{ asset('images/Vargem Comprida/guardia/g1.jpeg') }}" alt="Vargem Comprida 2"></div>
             <div class="historia-foto"><img src="{{ asset('images/Vargem Comprida/Agricultura/h1.jpeg') }}" alt="Vargem Comprida 3"></div>

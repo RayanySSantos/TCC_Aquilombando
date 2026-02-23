@@ -72,6 +72,10 @@ body.artesanato .submenu a:hover {
     grid-template-columns: 1fr;
 }
 
+.artesanato-hero-galeria--vargem-alta .artesanato-foto:last-child {
+    grid-column: 1 / -1;
+}
+
 .artesanato-foto {
     position: relative;
     overflow: hidden;
@@ -86,6 +90,18 @@ body.artesanato .submenu a:hover {
     transition: transform 0.3s ease;
     cursor: zoom-in;
     display: block;
+}
+
+.artesanato-hero-galeria--vertical .artesanato-foto img {
+    height: 260px;
+}
+
+.artesanato-hero-galeria--vargem-alta .artesanato-foto:last-child img {
+    height: 300px;
+}
+
+.artesanato-hero-galeria--lagoa .artesanato-foto img {
+    height: 320px;
 }
 
 .artesanato-foto img:hover {
@@ -103,5 +119,17 @@ body.artesanato .submenu a:hover {
 
     .artesanato-foto img {
         height: 200px;
+    }
+
+    .artesanato-hero-galeria--vertical .artesanato-foto img {
+        height: 210px;
+    }
+
+    .artesanato-hero-galeria--vargem-alta .artesanato-foto:last-child img {
+        height: 230px;
+    }
+
+    .artesanato-hero-galeria--lagoa .artesanato-foto img {
+        height: 250px;
     }
 }

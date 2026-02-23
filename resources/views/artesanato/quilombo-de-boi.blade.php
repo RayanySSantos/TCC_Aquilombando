@@ -9,7 +9,7 @@
 </section>
 
 <section class="artesanato-hero">
-    <div class="artesanato-hero-container">
+    <div class="artesanato-hero-container artesanato-hero-container--top">
         <div class="artesanato-hero-texto">
 
             <p>O artesanato da Comunidade Quilombola de Boi constitui uma importante expressão da criatividade, do conhecimento ancestral e da relação direta com o território. As peças produzidas incluem cestos e flores de bananeira, bonecas de pano e pinturas, elaboradas a partir de recursos naturais disponíveis na região. Cada objeto carrega significados culturais próprios e expressa a habilidade manual dos moradores, funcionando como elemento de afirmação da identidade quilombola e de preservação da memória coletiva.</p>

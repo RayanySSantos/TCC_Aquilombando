@@ -9,7 +9,7 @@
 </section>
 
 <section class="costumes-hero">
-    <div class="costumes-hero-container">
+    <div class="costumes-hero-container costumes-hero-container--top">
         <div class="costumes-hero-texto">
 
             <p>As comunidades quilombolas constroem sua identidade a partir de saberes, práticas e memórias compartilhadas coletivamente, transmitidas principalmente pela oralidade. Esses conhecimentos permanecem vivos nas narrativas dos mais velhos e nas vivências cotidianas da comunidade. No Quilombo Lagoa dos Anjos, cantos, festas e relatos evidenciam a forte presença da ancestralidade, que orienta o modo de viver e fortalece o vínculo entre passado e presente, entrelaçando resistência, espiritualidade e alegria como elementos centrais da experiência quilombola.</p>
@@ -20,7 +20,7 @@
 
         </div>
 
-        <div class="costumes-hero-galeria">
+        <div class="costumes-hero-galeria costumes-hero-galeria--vertical">
             <div class="costumes-foto"><img src="{{ asset('images/Lagoa dos Anjos/festejos/f1.jpeg') }}" alt="Lagoa dos Anjos 1"></div>
             <div class="costumes-foto"><img src="{{ asset('images/Lagoa dos Anjos/festejos/f2.jpeg') }}" alt="Lagoa dos Anjos 2"></div>
             <div class="costumes-foto"><img src="{{ asset('images/Lagoa dos Anjos/festejos/f3.jpeg') }}" alt="Lagoa dos Anjos 3"></div>

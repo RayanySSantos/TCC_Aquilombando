@@ -90,6 +90,7 @@ body.estatistica .submenu a:hover {
     max-height: 320px;
     object-fit: contain;
     display: block;
+    cursor: zoom-in;
 }
 
 .estatistica-legenda {

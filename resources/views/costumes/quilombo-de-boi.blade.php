@@ -9,7 +9,7 @@
 </section>
 
 <section class="costumes-hero">
-    <div class="costumes-hero-container">
+    <div class="costumes-hero-container costumes-hero-container--top">
         <div class="costumes-hero-texto">
 
             <p>Desde sua origem, a Comunidade Quilombola de Boi preserva tradições culturais e familiares por meio de práticas que atravessam gerações, como a agricultura, a religiosidade, a música e a realização de festejos locais. Essas expressões integram o cotidiano dos moradores e constituem importantes instrumentos de fortalecimento da identidade coletiva e da memória comunitária, mantendo vivos os saberes e valores herdados dos antepassados.</p>

@@ -9,7 +9,7 @@
 </section>
 
 <section class="historia-hero">
-    <div class="historia-hero-container">
+    <div class="historia-hero-container historia-hero-container--top">
         <div class="historia-hero-texto">
 
             <p>
