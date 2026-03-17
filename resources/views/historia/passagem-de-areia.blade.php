@@ -42,13 +42,19 @@
 
         </div>
 
-        <div class="historia-hero-galeria historia-hero-galeria--passagem">
-            <div class="historia-foto"><img src="{{ asset('images/Passagem/festejos/f2.jpeg') }}" alt="Passagem de Areia 1"></div>
-            <div class="historia-foto"><img src="{{ asset('images/Passagem/guardia/g5.jpeg') }}" alt="Passagem de Areia 2"></div>
-            <div class="historia-foto"><img src="{{ asset('images/Passagem/Agricultura/h2.jpeg') }}" alt="Passagem de Areia 3"></div>
-            <div class="historia-foto"><img src="{{ asset('images/Passagem/historia/hi1.jpeg') }}" alt="Passagem de Areia 4"></div>
-            <div class="historia-foto"><img src="{{ asset('images/Passagem/artesanato/a3.jpeg') }}" alt="Passagem de Areia 5"></div>
-            <div class="historia-foto"><img src="{{ asset('images/Passagem/comida/p5.jpeg') }}" alt="Passagem de Areia 6"></div>
+        <div class="historia-midia">
+            <div class="historia-hero-galeria historia-hero-galeria--passagem">
+                <div class="historia-foto"><img src="{{ asset('images/Passagem/festejos/f2.jpeg') }}" alt="Passagem de Areia 1"></div>
+                <div class="historia-foto"><img src="{{ asset('images/Passagem/guardia/g5.jpeg') }}" alt="Passagem de Areia 2"></div>
+                <div class="historia-foto"><img src="{{ asset('images/Passagem/Agricultura/h2.jpeg') }}" alt="Passagem de Areia 3"></div>
+                <div class="historia-foto"><img src="{{ asset('images/Passagem/historia/hi1.jpeg') }}" alt="Passagem de Areia 4"></div>
+                <div class="historia-foto"><img src="{{ asset('images/Passagem/artesanato/a3.jpeg') }}" alt="Passagem de Areia 5"></div>
+                <div class="historia-foto"><img src="{{ asset('images/Passagem/comida/p5.jpeg') }}" alt="Passagem de Areia 6"></div>
+            </div>
+            <div class="historia-galeria-fontes">
+                <p class="historia-galeria-fonte">Fonte: Quilombo Passagem de Areia.</p>
+                <p class="historia-galeria-fonte">Fonte: Projeto Mapeamento Gastronômico, 2025.</p>
+            </div>
         </div>
     </div>
 </section>

@@ -3,7 +3,7 @@
 @section('content')
 <section class="estatistica-hero">
     <div class="estatistica-hero-container">
-        <h1>Estatísticas da Comunidade Quilombola de Passagem de Areia</h1>
+        <h1>Perfil dos participantes da comunidade Passagem de Areia do projeto Mapeamento Gastronômico: o resgate dos saberes culinários quilombolas no Território Sertão Produtivo</h1>
     </div>
 </section>
 
@@ -52,37 +52,6 @@
         </div>
     </section>
 
-    <section class="estatistica-card estatistica-card--duo">
-        <div class="estatistica-card-grafico">
-            <img src="{{ asset('images/Passagem/estatistica/aplicxação na preparação de alimentos.png') }}" alt="Preparação de alimento em Passagem de Areia">
-            <span class="estatistica-legenda">Preparação de alimento (BPF).</span>
-        </div>
-        <div class="estatistica-card-info estatistica-card-info--marrom">
-            <h2>Preparação de Alimento</h2>
-            <p>No que se refere às Boas Práticas de Fabricação (BPF), observa-se um nível significativo de adesão entre os(as) participantes. A maior parte (83,33%) afirmou aplicar as BPF na preparação dos alimentos, enquanto 16,67% relataram aplicação parcial. Não houve registros de participantes que nunca ouviram falar sobre o tema, indicando que as BPF são reconhecidas na comunidade, ainda que existam limitações para sua aplicação plena.</p>
-        </div>
-    </section>
-
-    <section class="estatistica-card estatistica-card--duo">
-        <div class="estatistica-card-info estatistica-card-info--laranja">
-            <h2>Capacitação em Práticas Sustentáveis</h2>
-            <p>Os dados relacionados à qualificação e à capacitação indicam um acesso limitado a ações formativas voltadas às práticas sustentáveis na produção de alimentos na Comunidade Quilombola de Passagem de Areia. A maioria dos(as) participantes (83,33%) informou não ter participado de capacitações nessa área, enquanto apenas 16,67% relataram já ter tido acesso a esse tipo de formação. Esse cenário evidencia a necessidade de ampliação de políticas públicas e projetos voltados à qualificação técnica e ao fortalecimento das práticas sustentáveis no território.</p>
-        </div>
-        <div class="estatistica-card-grafico">
-            <img src="{{ asset('images/Passagem/estatistica/participação na capcitação de alimentos.png') }}" alt="Capacitação em práticas sustentáveis em Passagem de Areia">
-            <span class="estatistica-legenda">Participação em capacitações sustentáveis.</span>
-        </div>
-    </section>
-
-    <section class="estatistica-card estatistica-card--duo">
-        <div class="estatistica-card-grafico">
-            <img src="{{ asset('images/Passagem/estatistica/dificuldades enfrentadas na aplicação de bpf.png') }}" alt="Dificuldades enfrentadas na aplicação em Passagem de Areia">
-            <span class="estatistica-legenda">Dificuldades enfrentadas na aplicação.</span>
-        </div>
-        <div class="estatistica-card-info estatistica-card-info--verde">
-            <h2>Dificuldades Encontradas</h2>
-            <p>Ao analisar as dificuldades enfrentadas na adoção das Boas Práticas de Fabricação, verifica-se que todos(as) os(as) participantes (100%) atribuíram essas dificuldades à falta de recursos materiais e estruturais, como equipamentos adequados, espaço físico e infraestrutura. Esse resultado evidencia que o principal obstáculo à plena implementação das BPF na Comunidade de Passagem de Areia não está relacionado ao desconhecimento, mas às condições materiais disponíveis, reforçando a necessidade de investimentos e apoio institucional.</p>
-        </div>
-    </section>
+   
 </div>
 @endsection

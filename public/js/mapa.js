@@ -3,6 +3,7 @@ document.addEventListener("DOMContentLoaded", () => {
     const card = document.getElementById("cardComunidade");
     const cardTitulo = document.getElementById("cardTitulo");
     const cardLista = document.getElementById("cardLista");
+    const descricaoPadrao = "Comunidades quilombolas do Sertão Produtivo que participaram";
 
     // todas as cidades e suas comunidades
     const comunidades = {
@@ -23,7 +24,7 @@ document.addEventListener("DOMContentLoaded", () => {
             const lista = comunidades[cidade];
 
             // preenche título
-            cardTitulo.textContent = cidade;
+            cardTitulo.innerHTML = `${cidade}<span class="card-subtitulo">${descricaoPadrao}</span>`;
 
             // preenche a lista
             cardLista.innerHTML = "";

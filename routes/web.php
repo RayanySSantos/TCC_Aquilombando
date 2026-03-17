@@ -91,3 +91,7 @@ Route::get('/comunidades/{comunidade}', function ($comunidade) {
 Route::get('/sobre', function () {
     return view('sobre');
 });
+
+Route::get('/projetos', function () {
+    return view('projetos');
+});

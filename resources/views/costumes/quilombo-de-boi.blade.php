@@ -20,13 +20,16 @@
 
         </div>
 
-        <div class="costumes-hero-galeria">
-            <div class="costumes-foto"><img src="{{ asset('images/Boi/festejos/f1.jpg') }}" alt="Quilombo de Boi 1"></div>
-            <div class="costumes-foto"><img src="{{ asset('images/Boi/festejos/f2.jpg') }}" alt="Quilombo de Boi 2"></div>
-            <div class="costumes-foto"><img src="{{ asset('images/Boi/festejos/f3.jpeg') }}" alt="Quilombo de Boi 3"></div>
-            <div class="costumes-foto"><img src="{{ asset('images/Boi/festejos/f4.jpg') }}" alt="Quilombo de Boi 4"></div>
-            <div class="costumes-foto"><img src="{{ asset('images/Boi/festejos/f5.jpeg') }}" alt="Quilombo de Boi 5"></div>
-            <div class="costumes-foto"><img src="{{ asset('images/Boi/festejos/f6.jpeg') }}" alt="Quilombo de Boi 6"></div>
+        <div class="costumes-midia">
+            <div class="costumes-hero-galeria">
+                <div class="costumes-foto"><img src="{{ asset('images/Boi/festejos/f1.jpg') }}" alt="Quilombo de Boi 1"></div>
+                <div class="costumes-foto"><img src="{{ asset('images/Boi/festejos/f2.jpg') }}" alt="Quilombo de Boi 2"></div>
+                <div class="costumes-foto"><img src="{{ asset('images/Boi/festejos/f3.jpeg') }}" alt="Quilombo de Boi 3"></div>
+                <div class="costumes-foto"><img src="{{ asset('images/Boi/festejos/f4.jpg') }}" alt="Quilombo de Boi 4"></div>
+                <div class="costumes-foto"><img src="{{ asset('images/Boi/festejos/f5.jpeg') }}" alt="Quilombo de Boi 5"></div>
+                <div class="costumes-foto"><img src="{{ asset('images/Boi/festejos/f6.jpeg') }}" alt="Quilombo de Boi 6"></div>
+            </div>
+            <p class="costumes-galeria-fonte">Fonte: Quilombo de Boi.</p>
         </div>
     </div>
 </section>

@@ -20,10 +20,13 @@
 
         </div>
 
-        <div class="costumes-hero-galeria costumes-hero-galeria--vertical">
-            <div class="costumes-foto"><img src="{{ asset('images/Aroeira/festejos/f1.png') }}" alt="Aroeira 1"></div>
-            <div class="costumes-foto"><img src="{{ asset('images/Aroeira/festejos/f2.png') }}" alt="Aroeira 2"></div>
-            <div class="costumes-foto"><img src="{{ asset('images/Aroeira/festejos/f3.png') }}" alt="Aroeira 3"></div>
+        <div class="costumes-midia">
+            <div class="costumes-hero-galeria costumes-hero-galeria--vertical">
+                <div class="costumes-foto"><img src="{{ asset('images/Aroeira/festejos/f1.png') }}" alt="Aroeira 1"></div>
+                <div class="costumes-foto"><img src="{{ asset('images/Aroeira/festejos/f2.png') }}" alt="Aroeira 2"></div>
+                <div class="costumes-foto"><img src="{{ asset('images/Aroeira/festejos/f3.png') }}" alt="Aroeira 3"></div>
+            </div>
+            <p class="costumes-galeria-fonte">Fonte: Quilombo Aroeira.</p>
         </div>
     </div>
 </section>

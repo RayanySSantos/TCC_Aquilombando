@@ -20,10 +20,13 @@
 
         </div>
 
-        <div class="agricultura-hero-galeria">
-            <div class="agricultura-foto"><img src="{{ asset('images/Aroeira/Agricultura/h1.jpeg') }}" alt="Aroeira 1"></div>
-            <div class="agricultura-foto"><img src="{{ asset('images/Aroeira/Agricultura/h2.jpeg') }}" alt="Aroeira 2"></div>
-            <div class="agricultura-foto"><img src="{{ asset('images/Aroeira/Agricultura/h3.jpeg') }}" alt="Aroeira 3"></div>
+        <div class="agricultura-midia">
+            <div class="agricultura-hero-galeria">
+                <div class="agricultura-foto"><img src="{{ asset('images/Aroeira/Agricultura/h1.jpeg') }}" alt="Aroeira 1"></div>
+                <div class="agricultura-foto"><img src="{{ asset('images/Aroeira/Agricultura/h2.jpeg') }}" alt="Aroeira 2"></div>
+                <div class="agricultura-foto"><img src="{{ asset('images/Aroeira/Agricultura/h3.jpeg') }}" alt="Aroeira 3"></div>
+            </div>
+            <p class="agricultura-galeria-fonte">Fonte: Quilombo Aroeira.</p>
         </div>
     </div>
 </section>

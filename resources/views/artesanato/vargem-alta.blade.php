@@ -20,12 +20,15 @@
            
         </div>
 
-        <div class="artesanato-hero-galeria artesanato-hero-galeria--vargem-alta">
-            <div class="artesanato-foto"><img src="{{ asset('images/Vargem Alta/artesanato/a1.jpeg') }}" alt="Vargem Alta 1"></div>
-            <div class="artesanato-foto"><img src="{{ asset('images/Vargem Alta/artesanato/a2.jpeg') }}" alt="Vargem Alta 2"></div>
-            <div class="artesanato-foto"><img src="{{ asset('images/Vargem Alta/artesanato/a3.jpeg') }}" alt="Vargem Alta 3"></div>
-            <div class="artesanato-foto"><img src="{{ asset('images/Vargem Alta/artesanato/a4.jpeg') }}" alt="Vargem Alta 4"></div>
-            <div class="artesanato-foto"><img src="{{ asset('images/Vargem Alta/artesanato/a5.jpeg') }}" alt="Vargem Alta 5"></div>
+        <div class="artesanato-midia">
+            <div class="artesanato-hero-galeria artesanato-hero-galeria--vargem-alta">
+                <div class="artesanato-foto"><img src="{{ asset('images/Vargem Alta/artesanato/a1.jpeg') }}" alt="Vargem Alta 1"></div>
+                <div class="artesanato-foto"><img src="{{ asset('images/Vargem Alta/artesanato/a2.jpeg') }}" alt="Vargem Alta 2"></div>
+                <div class="artesanato-foto"><img src="{{ asset('images/Vargem Alta/artesanato/a3.jpeg') }}" alt="Vargem Alta 3"></div>
+                <div class="artesanato-foto"><img src="{{ asset('images/Vargem Alta/artesanato/a4.jpeg') }}" alt="Vargem Alta 4"></div>
+                <div class="artesanato-foto"><img src="{{ asset('images/Vargem Alta/artesanato/a5.jpeg') }}" alt="Vargem Alta 5"></div>
+            </div>
+            <p class="artesanato-galeria-fonte">Fonte: Quilombo Vargem Alta.</p>
         </div>
     </div>
 </section>

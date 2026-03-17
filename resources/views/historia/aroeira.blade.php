@@ -38,13 +38,19 @@
 
         </div>
 
-        <div class="historia-hero-galeria">
-            <div class="historia-foto"><img src="{{ asset('images/Aroeira/guardia/g4.jpeg') }}" alt="Aroeira 1"></div>
-            <div class="historia-foto"><img src="{{ asset('images/Aroeira/festejos/f3.png') }}" alt="Aroeira 2"></div>
-            <div class="historia-foto"><img src="{{ asset('images/Aroeira/Agricultura/h4.jpeg') }}" alt="Aroeira 3"></div>
-            <div class="historia-foto"><img src="{{ asset('images/Aroeira/historia/hi1.jpeg') }}" alt="Aroeira 4"></div>
-            <div class="historia-foto"><img src="{{ asset('images/Aroeira/artesanato/a3.jpeg') }}" alt="Aroeira 5"></div>
-            <div class="historia-foto"><img src="{{ asset('images/Aroeira/comida/p7.jpg') }}" alt="Aroeira 6"></div>
+        <div class="historia-midia">
+            <div class="historia-hero-galeria">
+                <div class="historia-foto"><img src="{{ asset('images/Aroeira/guardia/g4.jpeg') }}" alt="Aroeira 1"></div>
+                <div class="historia-foto"><img src="{{ asset('images/Aroeira/festejos/f3.png') }}" alt="Aroeira 2"></div>
+                <div class="historia-foto"><img src="{{ asset('images/Aroeira/Agricultura/h4.jpeg') }}" alt="Aroeira 3"></div>
+                <div class="historia-foto"><img src="{{ asset('images/Aroeira/historia/hi1.jpeg') }}" alt="Aroeira 4"></div>
+                <div class="historia-foto"><img src="{{ asset('images/Aroeira/artesanato/a3.jpeg') }}" alt="Aroeira 5"></div>
+                <div class="historia-foto"><img src="{{ asset('images/Aroeira/comida/p7.jpg') }}" alt="Aroeira 6"></div>
+            </div>
+            <div class="historia-galeria-fontes">
+                <p class="historia-galeria-fonte">Fonte: Quilombo Aroeira.</p>
+                <p class="historia-galeria-fonte">Fonte: Projeto Mapeamento Gastronômico, 2025.</p>
+            </div>
         </div>
     </div>
 </section>

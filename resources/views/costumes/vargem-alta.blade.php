@@ -20,13 +20,16 @@
 
         </div>
 
-        <div class="costumes-hero-galeria costumes-hero-galeria--vargem-alta">
-            <div class="costumes-foto"><img src="{{ asset('images/Vargem Alta/festejos/f1.jpeg') }}" alt="Vargem Alta 1"></div>
-            <div class="costumes-foto"><img src="{{ asset('images/Vargem Alta/festejos/f2.jpeg') }}" alt="Vargem Alta 2"></div>
-            <div class="costumes-foto"><img src="{{ asset('images/Vargem Alta/festejos/f3.jpeg') }}" alt="Vargem Alta 3"></div>
-            <div class="costumes-foto"><img src="{{ asset('images/Vargem Alta/festejos/f4.jpeg') }}" alt="Vargem Alta 4"></div>
-            <div class="costumes-foto"><img src="{{ asset('images/Vargem Alta/festejos/f5.jpeg') }}" alt="Vargem Alta 5"></div>
-            <div class="costumes-foto"><img src="{{ asset('images/Vargem Alta/festejos/f6.jpeg') }}" alt="Vargem Alta 6"></div>
+        <div class="costumes-midia">
+            <div class="costumes-hero-galeria costumes-hero-galeria--vargem-alta">
+                <div class="costumes-foto"><img src="{{ asset('images/Vargem Alta/festejos/f1.jpeg') }}" alt="Vargem Alta 1"></div>
+                <div class="costumes-foto"><img src="{{ asset('images/Vargem Alta/festejos/f2.jpeg') }}" alt="Vargem Alta 2"></div>
+                <div class="costumes-foto"><img src="{{ asset('images/Vargem Alta/festejos/f3.jpeg') }}" alt="Vargem Alta 3"></div>
+                <div class="costumes-foto"><img src="{{ asset('images/Vargem Alta/festejos/f4.jpeg') }}" alt="Vargem Alta 4"></div>
+                <div class="costumes-foto"><img src="{{ asset('images/Vargem Alta/festejos/f5.jpeg') }}" alt="Vargem Alta 5"></div>
+                <div class="costumes-foto"><img src="{{ asset('images/Vargem Alta/festejos/f6.jpeg') }}" alt="Vargem Alta 6"></div>
+            </div>
+            <p class="costumes-galeria-fonte">Fonte: Quilombo Vargem Alta.</p>
         </div>
     </div>
 </section>

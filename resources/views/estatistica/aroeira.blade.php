@@ -3,7 +3,7 @@
 @section('content')
 <section class="estatistica-hero">
     <div class="estatistica-hero-container">
-        <h1>Estatísticas da Comunidade Quilombola de Aroeira</h1>
+        <h1>Perfil dos participantes da comunidade Aroeira do projeto Mapeamento Gastronômico: o resgate dos saberes culinários quilombolas no Território Sertão Produtivo</h1>
         <p>Dados gerais para apoiar a leitura do território. Os textos podem ser ajustados depois.</p>
     </div>
 </section>

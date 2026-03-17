@@ -28,11 +28,14 @@
 
         </div>
 
-        <div class="culinaria-hero-galeria culinaria-hero-galeria--vertical">
-            <div class="culinaria-foto"><span class="culinaria-foto-numero">01</span><img src="{{ asset('images/Vargem Alta/comida/p1.jpeg') }}" alt="Vargem Alta 1"></div>
-            <div class="culinaria-foto"><span class="culinaria-foto-numero">02</span><img src="{{ asset('images/Vargem Alta/comida/p2.jpeg') }}" alt="Vargem Alta 2"></div>
-            <div class="culinaria-foto"><span class="culinaria-foto-numero">03</span><img src="{{ asset('images/Vargem Alta/comida/p3.jpeg') }}" alt="Vargem Alta 3"></div>
-            <div class="culinaria-foto"><span class="culinaria-foto-numero">04</span><img src="{{ asset('images/Vargem Alta/comida/p4.jpeg') }}" alt="Vargem Alta 4"></div>
+        <div class="culinaria-midia">
+            <div class="culinaria-hero-galeria culinaria-hero-galeria--vertical">
+                <div class="culinaria-foto"><span class="culinaria-foto-numero">01</span><img src="{{ asset('images/Vargem Alta/comida/p1.jpeg') }}" alt="Vargem Alta 1"></div>
+                <div class="culinaria-foto"><span class="culinaria-foto-numero">02</span><img src="{{ asset('images/Vargem Alta/comida/p2.jpeg') }}" alt="Vargem Alta 2"></div>
+                <div class="culinaria-foto"><span class="culinaria-foto-numero">03</span><img src="{{ asset('images/Vargem Alta/comida/p3.jpeg') }}" alt="Vargem Alta 3"></div>
+                <div class="culinaria-foto"><span class="culinaria-foto-numero">04</span><img src="{{ asset('images/Vargem Alta/comida/p4.jpeg') }}" alt="Vargem Alta 4"></div>
+            </div>
+            <p class="culinaria-galeria-fonte">Fonte: Projeto Mapeamento Gastronômico, 2025.</p>
         </div>
     </div>
 </section>

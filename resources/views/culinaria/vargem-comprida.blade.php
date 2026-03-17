@@ -32,13 +32,16 @@
 
         </div>
 
-        <div class="culinaria-hero-galeria culinaria-hero-galeria--vertical">
-            <div class="culinaria-foto"><span class="culinaria-foto-numero">01</span><img src="{{ asset('images/Vargem Comprida/comida/p7.jpeg') }}" alt="Vargem Comprida 1"></div>
-            <div class="culinaria-foto"><span class="culinaria-foto-numero">02</span><img src="{{ asset('images/Vargem Comprida/comida/p2.jpeg') }}" alt="Vargem Comprida 2"></div>
-            <div class="culinaria-foto"><span class="culinaria-foto-numero">03</span><img src="{{ asset('images/Vargem Comprida/comida/p3.jpeg') }}" alt="Vargem Comprida 3"></div>
-            <div class="culinaria-foto"><span class="culinaria-foto-numero">04</span><img src="{{ asset('images/Vargem Comprida/comida/p8.jpeg') }}" alt="Vargem Comprida 4"></div>
-            <div class="culinaria-foto"><span class="culinaria-foto-numero">05</span><img src="{{ asset('images/Vargem Comprida/comida/p5.jpeg') }}" alt="Vargem Comprida 5"></div>
-            <div class="culinaria-foto"><span class="culinaria-foto-numero">06</span><img src="{{ asset('images/Vargem Comprida/comida/p6.jpeg') }}" alt="Vargem Comprida 6"></div>
+        <div class="culinaria-midia">
+            <div class="culinaria-hero-galeria culinaria-hero-galeria--vertical">
+                <div class="culinaria-foto"><span class="culinaria-foto-numero">01</span><img src="{{ asset('images/Vargem Comprida/comida/p7.jpeg') }}" alt="Vargem Comprida 1"></div>
+                <div class="culinaria-foto"><span class="culinaria-foto-numero">02</span><img src="{{ asset('images/Vargem Comprida/comida/p2.jpeg') }}" alt="Vargem Comprida 2"></div>
+                <div class="culinaria-foto"><span class="culinaria-foto-numero">03</span><img src="{{ asset('images/Vargem Comprida/comida/p3.jpeg') }}" alt="Vargem Comprida 3"></div>
+                <div class="culinaria-foto"><span class="culinaria-foto-numero">04</span><img src="{{ asset('images/Vargem Comprida/comida/p8.jpeg') }}" alt="Vargem Comprida 4"></div>
+                <div class="culinaria-foto"><span class="culinaria-foto-numero">05</span><img src="{{ asset('images/Vargem Comprida/comida/p5.jpeg') }}" alt="Vargem Comprida 5"></div>
+                <div class="culinaria-foto"><span class="culinaria-foto-numero">06</span><img src="{{ asset('images/Vargem Comprida/comida/p6.jpeg') }}" alt="Vargem Comprida 6"></div>
+            </div>
+            <p class="culinaria-galeria-fonte">Fonte: Projeto Mapeamento Gastronômico, 2025.</p>
         </div>
     </div>
 </section>

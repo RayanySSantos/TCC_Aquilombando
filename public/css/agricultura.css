@@ -64,6 +64,11 @@ body.agricultura .submenu a:hover {
     gap: 12px;
 }
 
+.agricultura-midia {
+    display: flex;
+    flex-direction: column;
+}
+
 .agricultura-foto {
     position: relative;
     overflow: hidden;
@@ -82,6 +87,15 @@ body.agricultura .submenu a:hover {
 
 .agricultura-foto img:hover {
     transform: scale(1.06);
+}
+
+.agricultura-galeria-fonte {
+    margin-top: 12px;
+    font-size: 16px;
+    color: #6a4c4c;
+    font-style: italic;
+    text-align: center;
+    opacity: 0.85;
 }
 
 @media (max-width: 900px) {

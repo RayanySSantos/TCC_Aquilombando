@@ -20,9 +20,12 @@
 
         </div>
 
-        <div class="artesanato-hero-galeria artesanato-hero-galeria--vertical artesanato-hero-galeria--lagoa">
-            <div class="artesanato-foto"><img src="{{ asset('images/Lagoa dos Anjos/artesanato/a1.jpeg') }}" alt="Lagoa dos Anjos 1"></div>
-            <div class="artesanato-foto"><img src="{{ asset('images/Lagoa dos Anjos/artesanato/a2.jpeg') }}" alt="Lagoa dos Anjos 2"></div>
+        <div class="artesanato-midia">
+            <div class="artesanato-hero-galeria artesanato-hero-galeria--vertical artesanato-hero-galeria--lagoa">
+                <div class="artesanato-foto"><img src="{{ asset('images/Lagoa dos Anjos/artesanato/a1.jpeg') }}" alt="Lagoa dos Anjos 1"></div>
+                <div class="artesanato-foto"><img src="{{ asset('images/Lagoa dos Anjos/artesanato/a2.jpeg') }}" alt="Lagoa dos Anjos 2"></div>
+            </div>
+            <p class="artesanato-galeria-fonte">Fonte: Quilombo Lagoa dos Anjos.</p>
         </div>
     </div>
 </section>

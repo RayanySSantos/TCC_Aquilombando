@@ -32,13 +32,16 @@
 
         </div>
 
-        <div class="culinaria-hero-galeria culinaria-hero-galeria--vertical">
-            <div class="culinaria-foto"><span class="culinaria-foto-numero">01</span><img src="{{ asset('images/Lagoa dos Anjos/comida/p1.jpeg') }}" alt="Lagoa dos Anjos 1"></div>
-            <div class="culinaria-foto"><span class="culinaria-foto-numero">02</span><img src="{{ asset('images/Lagoa dos Anjos/comida/p2.jpeg') }}" alt="Lagoa dos Anjos 2"></div>
-            <div class="culinaria-foto"><span class="culinaria-foto-numero">03</span><img src="{{ asset('images/Lagoa dos Anjos/comida/p3.jpeg') }}" alt="Lagoa dos Anjos 3"></div>
-            <div class="culinaria-foto"><span class="culinaria-foto-numero">04</span><img src="{{ asset('images/Lagoa dos Anjos/comida/p4.jpeg') }}" alt="Lagoa dos Anjos 4"></div>
-            <div class="culinaria-foto"><span class="culinaria-foto-numero">05</span><img src="{{ asset('images/Lagoa dos Anjos/comida/p5.jpeg') }}" alt="Lagoa dos Anjos 5"></div>
-            <div class="culinaria-foto"><span class="culinaria-foto-numero">06</span><img src="{{ asset('images/Lagoa dos Anjos/comida/p6.jpeg') }}" alt="Lagoa dos Anjos 6"></div>
+        <div class="culinaria-midia">
+            <div class="culinaria-hero-galeria culinaria-hero-galeria--vertical">
+                <div class="culinaria-foto"><span class="culinaria-foto-numero">01</span><img src="{{ asset('images/Lagoa dos Anjos/comida/p1.jpeg') }}" alt="Lagoa dos Anjos 1"></div>
+                <div class="culinaria-foto"><span class="culinaria-foto-numero">02</span><img src="{{ asset('images/Lagoa dos Anjos/comida/p2.jpeg') }}" alt="Lagoa dos Anjos 2"></div>
+                <div class="culinaria-foto"><span class="culinaria-foto-numero">03</span><img src="{{ asset('images/Lagoa dos Anjos/comida/p3.jpeg') }}" alt="Lagoa dos Anjos 3"></div>
+                <div class="culinaria-foto"><span class="culinaria-foto-numero">04</span><img src="{{ asset('images/Lagoa dos Anjos/comida/p4.jpeg') }}" alt="Lagoa dos Anjos 4"></div>
+                <div class="culinaria-foto"><span class="culinaria-foto-numero">05</span><img src="{{ asset('images/Lagoa dos Anjos/comida/p5.jpeg') }}" alt="Lagoa dos Anjos 5"></div>
+                <div class="culinaria-foto"><span class="culinaria-foto-numero">06</span><img src="{{ asset('images/Lagoa dos Anjos/comida/p6.jpeg') }}" alt="Lagoa dos Anjos 6"></div>
+            </div>
+            <p class="culinaria-galeria-fonte">Fonte: Projeto Mapeamento Gastronômico, 2025.</p>
         </div>
     </div>
 </section>

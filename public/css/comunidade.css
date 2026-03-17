@@ -1,3 +1,10 @@
+/* ======================= PALETA TERRACOTA ======================= */
+:root {
+    --terracota-principal: #8f5a45;
+    --terracota-escura: #5f2f21;
+    --terracota-clara: #d5ad9c;
+}
+
 /* ======================= FUNDO EM LARGURA TOTAL ======================= */
 
 .bloco-fundo {
@@ -10,11 +17,11 @@
 }
 
 .fundo-amarelo {
-    background-color: #a2cca3;
+    background-color: var(--terracota-clara);
 }
 
 .fundo-vermelho {
-    background-color: #945747;
+    background-color: #86503c;
 }
 
 /* ======================= CONTAINER CENTRAL ======================= */
@@ -30,7 +37,7 @@
 .secao h2 {
     font-size: 28px;
     font-weight: 700;
-    color: #6A2E1F;
+    color: var(--terracota-escura);
     margin-bottom: 25px;
     text-align: left;
 }
@@ -121,7 +128,7 @@
 /* ======================= HEADER DAS COMUNIDADES ======================= */
 
 .topo-interno {
-    background-color: #348735 !important;
+    background-color: var(--terracota-principal) !important;
 }
 
 /* TEXTO DO MENU NAS PÁGINAS INTERNAS */
@@ -148,15 +155,39 @@
 
 /* HOVER DO SUBMENU */
 .topo-interno .submenu a:hover {
-    color: #348735;
+    color: var(--terracota-principal);
 }
 
 
 .titulo-comunidade {
     font-size: 34px;
-    color: #3A0F0F;
+    color: var(--terracota-escura);
     margin: 20px 0;
     text-align: center;
     font-weight: 700;
 }
 
+/* ======================= ENUMERACAO - GUARDIOES ======================= */
+.guardioes-enumeradas .guardiao-item {
+    position: relative;
+    margin: 0;
+    flex-shrink: 0;
+}
+
+.guardioes-enumeradas .guardiao-numero {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    z-index: 2;
+    min-width: 30px;
+    height: 30px;
+    border-radius: 999px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 14px;
+    font-weight: 700;
+    color: #fff;
+    background: rgba(58, 15, 15, 0.85);
+    border: 1px solid rgba(255, 255, 255, 0.45);
+}

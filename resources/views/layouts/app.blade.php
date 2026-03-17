@@ -18,6 +18,7 @@
     <body class="
     {{ Request::is('/') ? 'home' : '' }}
     {{ Request::is('sobre') ? 'sobre' : '' }}
+    {{ Request::is('projetos') ? 'projetos' : '' }}
     {{ Request::is('historia/*') ? 'historia' : '' }}
     {{ Request::is('culinaria/*') ? 'culinaria' : '' }}
     {{ Request::is('artesanato/*') ? 'artesanato' : '' }}
@@ -99,7 +100,7 @@
                 </div>
             
                 <div class="menu-item">
-                    <span>Estatística</span>
+                    <span>Perfil social</span>
                     <div class="submenu">
                         <a href="/estatistica/vargem-alta">Vargem Alta</a>
                         <a href="/estatistica/passagem-de-areia">Passagem de Areia</a>
@@ -121,6 +122,11 @@
 
     {{-- CONTEÚDO DAS PÁGINAS --}}
     <main>
+        @if (Request::is('estatistica/*'))
+            <div class="estatistica-aviso-click" role="note">
+                Dica: clique nos gráficos para ampliar a imagem.
+            </div>
+        @endif
         @yield('content')
     </main>
 

@@ -20,13 +20,16 @@
 
         </div>
 
-        <div class="artesanato-hero-galeria">
-            <div class="artesanato-foto"><img src="{{ asset('images/Vargem Comprida/Artesanato/a1.jpeg') }}" alt="Vargem Comprida 1"></div>
-            <div class="artesanato-foto"><img src="{{ asset('images/Vargem Comprida/Artesanato/a2.jpeg') }}" alt="Vargem Comprida 2"></div>
-            <div class="artesanato-foto"><img src="{{ asset('images/Vargem Comprida/Artesanato/a3.jpeg') }}" alt="Vargem Comprida 3"></div>
-            <div class="artesanato-foto"><img src="{{ asset('images/Vargem Comprida/Artesanato/a11.jpeg') }}" alt="Vargem Comprida 4"></div>
-            <div class="artesanato-foto"><img src="{{ asset('images/Vargem Comprida/Artesanato/a5.jpeg') }}" alt="Vargem Comprida 5"></div>
-            <div class="artesanato-foto"><img src="{{ asset('images/Vargem Comprida/Artesanato/a6.jpeg') }}" alt="Vargem Comprida 6"></div>
+        <div class="artesanato-midia">
+            <div class="artesanato-hero-galeria">
+                <div class="artesanato-foto"><img src="{{ asset('images/Vargem Comprida/Artesanato/a1.jpeg') }}" alt="Vargem Comprida 1"></div>
+                <div class="artesanato-foto"><img src="{{ asset('images/Vargem Comprida/Artesanato/a2.jpeg') }}" alt="Vargem Comprida 2"></div>
+                <div class="artesanato-foto"><img src="{{ asset('images/Vargem Comprida/Artesanato/a3.jpeg') }}" alt="Vargem Comprida 3"></div>
+                <div class="artesanato-foto"><img src="{{ asset('images/Vargem Comprida/Artesanato/a11.jpeg') }}" alt="Vargem Comprida 4"></div>
+                <div class="artesanato-foto"><img src="{{ asset('images/Vargem Comprida/Artesanato/a5.jpeg') }}" alt="Vargem Comprida 5"></div>
+                <div class="artesanato-foto"><img src="{{ asset('images/Vargem Comprida/Artesanato/a6.jpeg') }}" alt="Vargem Comprida 6"></div>
+            </div>
+            <p class="artesanato-galeria-fonte">Fonte: Quilombo Vargem Comprida.</p>
         </div>
     </div>
 </section>

@@ -20,11 +20,14 @@
 
         </div>
 
-        <div class="agricultura-hero-galeria">
-            <div class="agricultura-foto"><img src="{{ asset('images/Vargem Alta/Agricultura/h1.jpeg') }}" alt="Vargem Alta 1"></div>
-            <div class="agricultura-foto"><img src="{{ asset('images/Vargem Alta/Agricultura/h2.jpeg') }}" alt="Vargem Alta 2"></div>
-            <div class="agricultura-foto"><img src="{{ asset('images/Vargem Alta/Agricultura/h3.jpeg') }}" alt="Vargem Alta 3"></div>
-            <div class="agricultura-foto"><img src="{{ asset('images/Vargem Alta/Agricultura/h4.jpeg') }}" alt="Vargem Alta 4"></div>
+        <div class="agricultura-midia">
+            <div class="agricultura-hero-galeria">
+                <div class="agricultura-foto"><img src="{{ asset('images/Vargem Alta/Agricultura/h1.jpeg') }}" alt="Vargem Alta 1"></div>
+                <div class="agricultura-foto"><img src="{{ asset('images/Vargem Alta/Agricultura/h2.jpeg') }}" alt="Vargem Alta 2"></div>
+                <div class="agricultura-foto"><img src="{{ asset('images/Vargem Alta/Agricultura/h3.jpeg') }}" alt="Vargem Alta 3"></div>
+                <div class="agricultura-foto"><img src="{{ asset('images/Vargem Alta/Agricultura/h4.jpeg') }}" alt="Vargem Alta 4"></div>
+            </div>
+            <p class="agricultura-galeria-fonte">Fonte: Quilombo Vargem Alta.</p>
         </div>
     </div>
 </section>

@@ -20,11 +20,14 @@
 
         </div>
 
-        <div class="agricultura-hero-galeria">
-            <div class="agricultura-foto"><img src="{{ asset('images/Vargem Comprida/Agricultura/h1.jpeg') }}" alt="Vargem Comprida 1"></div>
-            <div class="agricultura-foto"><img src="{{ asset('images/Vargem Comprida/Agricultura/h2.jpeg') }}" alt="Vargem Comprida 2"></div>
-            <div class="agricultura-foto"><img src="{{ asset('images/Vargem Comprida/Agricultura/h3.jpeg') }}" alt="Vargem Comprida 3"></div>
-            <div class="agricultura-foto"><img src="{{ asset('images/Vargem Comprida/Agricultura/h4.jpeg') }}" alt="Vargem Comprida 4"></div>
+        <div class="agricultura-midia">
+            <div class="agricultura-hero-galeria">
+                <div class="agricultura-foto"><img src="{{ asset('images/Vargem Comprida/Agricultura/h1.jpeg') }}" alt="Vargem Comprida 1"></div>
+                <div class="agricultura-foto"><img src="{{ asset('images/Vargem Comprida/Agricultura/h2.jpeg') }}" alt="Vargem Comprida 2"></div>
+                <div class="agricultura-foto"><img src="{{ asset('images/Vargem Comprida/Agricultura/h3.jpeg') }}" alt="Vargem Comprida 3"></div>
+                <div class="agricultura-foto"><img src="{{ asset('images/Vargem Comprida/Agricultura/h4.jpeg') }}" alt="Vargem Comprida 4"></div>
+            </div>
+            <p class="agricultura-galeria-fonte">Fonte: Quilombo Vargem Comprida.</p>
         </div>
     </div>
 </section>

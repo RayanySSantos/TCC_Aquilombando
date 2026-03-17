@@ -3,7 +3,7 @@
 @section('content')
 <section class="estatistica-hero">
     <div class="estatistica-hero-container">
-        <h1>Estatísticas da Comunidade Quilombola de Quilombo de Boi</h1>
+        <h1>Perfil dos participantes da comunidade Quilombo de Boi do projeto Mapeamento Gastronômico: o resgate dos saberes culinários quilombolas no Território Sertão Produtivo</h1>
     </div>
 </section>
 
@@ -52,37 +52,6 @@
         </div>
     </section>
 
-    <section class="estatistica-card estatistica-card--duo">
-        <div class="estatistica-card-grafico">
-            <img src="{{ asset('images/Boi/estatistica/aplicação de bff na preparação dos alimentos.png') }}" alt="Preparação de alimento em Quilombo de Boi">
-            <span class="estatistica-legenda">Preparação de alimento (BPF).</span>
-        </div>
-        <div class="estatistica-card-info estatistica-card-info--marrom">
-            <h2>Preparação de Alimento</h2>
-            <p>No que se refere às Boas Práticas de Fabricação (BPF), observa-se um cenário heterogêneo. Metade dos(as) participantes afirma aplicar essas práticas na preparação dos alimentos, enquanto uma parcela expressiva relata nunca ter ouvido falar sobre o tema. Outros(as) indicam aplicação parcial das BPF, o que demonstra que, embora existam iniciativas e conhecimentos pontuais, ainda há necessidade de ampliar ações de orientação, sensibilização e capacitação sobre segurança alimentar e práticas sanitárias adequadas</p>
-        </div>
-    </section>
-
-    <section class="estatistica-card estatistica-card--duo">
-        <div class="estatistica-card-info estatistica-card-info--laranja">
-            <h2>Capacitação em Práticas Sustentáveis</h2>
-            <p>Os dados relacionados à qualificação e capacitação evidenciam uma limitação significativa no acesso a ações formativas na Comunidade Quilombola de Boi. A grande maioria dos(as) participantes (90%) informou não ter participado de capacitações voltadas às práticas sustentáveis na produção de alimentos, enquanto apenas uma pequena parcela relatou já ter tido acesso a esse tipo de formação. Esse cenário aponta para uma lacuna importante no campo da educação técnica e da qualificação produtiva no território.</p>
-        </div>
-        <div class="estatistica-card-grafico">
-            <img src="{{ asset('images/Boi/estatistica/paretricpação em capacitaçãoi, alimentos.png') }}" alt="Capacitação em práticas sustentáveis em Quilombo de Boi">
-            <span class="estatistica-legenda">Participação em capacitações sustentáveis.</span>
-        </div>
-    </section>
-
-    <section class="estatistica-card estatistica-card--duo">
-        <div class="estatistica-card-grafico">
-            <img src="{{ asset('images/Boi/estatistica/dificuldades enfrentadas na aplicação das bpfs.png') }}" alt="Dificuldades enfrentadas na aplicação em Quilombo de Boi">
-            <span class="estatistica-legenda">Dificuldades enfrentadas na aplicação.</span>
-        </div>
-        <div class="estatistica-card-info estatistica-card-info--verde">
-            <h2>Dificuldades Encontradas</h2>
-            <p>As dificuldades enfrentadas na aplicação das Boas Práticas de Fabricação estão associadas principalmente à falta de conhecimento, apontada como o principal obstáculo pelos(as) participantes. Além disso, são mencionadas limitações relacionadas à falta de recursos materiais e à combinação entre carência de informações e condições estruturais inadequadas, evidenciando que os desafios envolvem tanto aspectos formativos quanto infraestruturais.</p>
-        </div>
-    </section>
+    
 </div>
 @endsection

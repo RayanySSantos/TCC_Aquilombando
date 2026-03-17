@@ -20,9 +20,12 @@
 
         </div>
 
-        <div class="costumes-hero-galeria costumes-hero-galeria--vertical costumes-hero-galeria--passagem">
-            <div class="costumes-foto"><img src="{{ asset('images/Passagem/festejos/f1.jpeg') }}" alt="Passagem de Areia 1"></div>
-            <div class="costumes-foto"><img src="{{ asset('images/Passagem/festejos/f2.jpeg') }}" alt="Passagem de Areia 2"></div>
+        <div class="costumes-midia">
+            <div class="costumes-hero-galeria costumes-hero-galeria--vertical costumes-hero-galeria--passagem">
+                <div class="costumes-foto"><img src="{{ asset('images/Passagem/festejos/f1.jpeg') }}" alt="Passagem de Areia 1"></div>
+                <div class="costumes-foto"><img src="{{ asset('images/Passagem/festejos/f2.jpeg') }}" alt="Passagem de Areia 2"></div>
+            </div>
+            <p class="costumes-galeria-fonte">Fonte: Quilombo Passagem de Areia.</p>
         </div>
     </div>
 </section>

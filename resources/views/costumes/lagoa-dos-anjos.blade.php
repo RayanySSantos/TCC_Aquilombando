@@ -20,10 +20,13 @@
 
         </div>
 
-        <div class="costumes-hero-galeria costumes-hero-galeria--vertical">
-            <div class="costumes-foto"><img src="{{ asset('images/Lagoa dos Anjos/festejos/f1.jpeg') }}" alt="Lagoa dos Anjos 1"></div>
-            <div class="costumes-foto"><img src="{{ asset('images/Lagoa dos Anjos/festejos/f2.jpeg') }}" alt="Lagoa dos Anjos 2"></div>
-            <div class="costumes-foto"><img src="{{ asset('images/Lagoa dos Anjos/festejos/f3.jpeg') }}" alt="Lagoa dos Anjos 3"></div>
+        <div class="costumes-midia">
+            <div class="costumes-hero-galeria costumes-hero-galeria--vertical">
+                <div class="costumes-foto"><img src="{{ asset('images/Lagoa dos Anjos/festejos/f1.jpeg') }}" alt="Lagoa dos Anjos 1"></div>
+                <div class="costumes-foto"><img src="{{ asset('images/Lagoa dos Anjos/festejos/f2.jpeg') }}" alt="Lagoa dos Anjos 2"></div>
+                <div class="costumes-foto"><img src="{{ asset('images/Lagoa dos Anjos/festejos/f3.jpeg') }}" alt="Lagoa dos Anjos 3"></div>
+            </div>
+            <p class="costumes-galeria-fonte">Fonte: Quilombo Lagoa dos Anjos.</p>
         </div>
     </div>
 </section>

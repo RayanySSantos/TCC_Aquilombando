@@ -20,10 +20,13 @@
 
         </div>
 
-        <div class="artesanato-hero-galeria artesanato-hero-galeria--vertical">
-            <div class="artesanato-foto"><img src="{{ asset('images/Aroeira/artesanato/a1.jpeg') }}" alt="Aroeira 1"></div>
-            <div class="artesanato-foto"><img src="{{ asset('images/Aroeira/artesanato/a2.jpeg') }}" alt="Aroeira 2"></div>
-            <div class="artesanato-foto"><img src="{{ asset('images/Aroeira/artesanato/a3.jpeg') }}" alt="Aroeira 3"></div>
+        <div class="artesanato-midia">
+            <div class="artesanato-hero-galeria artesanato-hero-galeria--vertical">
+                <div class="artesanato-foto"><img src="{{ asset('images/Aroeira/artesanato/a1.jpeg') }}" alt="Aroeira 1"></div>
+                <div class="artesanato-foto"><img src="{{ asset('images/Aroeira/artesanato/a2.jpeg') }}" alt="Aroeira 2"></div>
+                <div class="artesanato-foto"><img src="{{ asset('images/Aroeira/artesanato/a3.jpeg') }}" alt="Aroeira 3"></div>
+            </div>
+            <p class="artesanato-galeria-fonte">Fonte: Quilombo Aroeira.</p>
         </div>
     </div>
 </section>

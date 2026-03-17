@@ -293,50 +293,94 @@
                     quilombola da comunidade.
                 </p>
 
-                <p>Entre essas figuras, destacam-se mulheres guardiãs da memória cultural. Cleide da Conceição Oliveira de Jesus, nascida em Vargem Alta e moradora
-                    da comunidade vizinha Lagoa de Canudo, carrega com orgulho os saberes aprendidos com a mãe, desde o plantio do milho até o preparo da pamonha,
-                    prato simbólico das celebrações locais. É ela quem, junto a outras mulheres, prepara os alimentos nas festas e encontros comunitários.
-                    Nilda Magalhães de Souza aprendeu a cozinhar ainda criança, observando a mãe no preparo das refeições diárias, e hoje une a culinária ao
-                    trabalho na agricultura familiar, cultivando feijão, mandioca e hortaliças. Carlita Maria da Conceição Oliveira, herdeira dos saberes maternos,
-                    preserva memórias do preparo dos alimentos em panelas de barro e da partilha em gamelas, além de cultivar hortaliças, costurar à mão e participar
-                    do reisado, fortalecendo a tradição e a alegria coletiva.
+                <p>
+                Entre essas figuras, destacam-se mulheres guardiãs da memória cultural.(1) Alcides Lima de Oliveira, 66 anos, mora em Vargem Alta desde os 22 anos e trabalha há muitos anos com a agricultura familiar, dedicando grande parte de sua vida ao cultivo da terra e participando ativamente do reisado, expressão cultural que une fé, música e devoção. (2) Carlita Maria da Conceição Oliveira, 74 anos, aprendeu a cozinhar com a mãe, mantendo costumes tradicionais como o uso de panelas de barro e a partilha dos alimentos em gamelas, preservando memórias do preparo coletivo e fortalecendo a tradição. (3) Cleide da Conceição Oliveira de Jesus, 40 anos, é natural de Vargem Alta e mora na comunidade vizinha Lagoa de Canudo, carregando com orgulho os saberes aprendidos com a mãe, desde o plantio do milho até o preparo da pamonha, prato simbólico das celebrações locais, sendo uma das responsáveis pela preparação dos alimentos nas festas e encontros comunitários. (4) Cristina Lopes dos Santos, 86 anos, vive há 69 anos na Comunidade Quilombola de Vargem Alta e, ao longo de sua trajetória, dedicou-se à agricultura familiar, tornando-se referência de resistência e sabedoria. (5) Sauza Pereira dos Reis, 61 anos, é moradora da Comunidade Quilombola de Vargem Alta desde o nascimento, contribuindo para a preservação das práticas tradicionais. (6) Roberta Pereira de Oliveira Lima, 51 anos, reside há 26 anos na Comunidade Quilombola de Vargem Alta, atuando na agricultura familiar e na culinária tradicional, reforçando os laços culturais e comunitários.
                 </p>
 
-                <p>Os homens também exercem papel fundamental na preservação da memória e dos saberes tradicionais. Aucides Lima de Oliveira, morador de Vargem Alta
-                    desde os 22 anos, dedicou grande parte de sua vida à agricultura familiar e participa ativamente do reisado, expressão cultural que une fé,
-                    música e devoção. Seu filho, Reginaldo Lima de Oliveira, trabalha na roça desde os 10 anos de idade e vive da agricultura familiar, cultivando
-                    feijão, mandioca, milho, sorgo e palma. Juntos, representam a continuidade de uma história marcada pela união familiar, pelo trabalho coletivo e
-                    pelo profundo amor ao território quilombola.
+                <p>
+                (7) Nilda Magalhães de Souza, 49 anos, aprendeu a cozinhar ainda criança, observando a mãe no preparo das refeições do dia a dia, e hoje une a culinária ao trabalho na agricultura familiar, cultivando feijão, mandioca e hortaliças. (8) Reginaldo Lima de Oliveira, 43 anos, trabalha na roça desde os 10 anos e aprendeu com o pai o cuidado com a terra, vivendo da agricultura familiar e cultivando feijão, mandioca, milho, sorgo e palma, representando a continuidade dos saberes transmitidos entre gerações. (9) Manoel José de Lima, 42 anos, exerceu a liderança comunitária por quatro anos, período em que atuou de forma dedicada à organização e ao fortalecimento da comunidade, reafirmando a importância da união familiar, do trabalho coletivo e do profundo amor ao território quilombola.
                 </p>
 
             </div>
         </div>
 
         <div class="carrossel-pequeno">
-            <div class="tres-imagens">
-        
-                <img src="{{ asset('images/Vargem Alta/guardia/g1.jpeg') }}">
-                <img src="{{ asset('images/Vargem Alta/guardia/g2.jpeg') }}">
-                <img src="{{ asset('images/Vargem Alta/guardia/g3.jpeg') }}">
-                <img src="{{ asset('images/Vargem Alta/guardia/g4.jpg') }}">
-                <img src="{{ asset('images/Vargem Alta/guardia/g5.JPG') }}">
-                <img src="{{ asset('images/Vargem Alta/guardia/g6.jpg') }}">
-                <img src="{{ asset('images/Vargem Alta/guardia/g7.jpeg') }}">
-                <img src="{{ asset('images/Vargem Alta/guardia/g8.jpeg') }}">
-                <img src="{{ asset('images/Vargem Alta/guardia/g9.jpeg') }}">
-                <img src="{{ asset('images/Vargem Alta/guardia/g10.jpeg') }}">
+            <div class="tres-imagens guardioes-enumeradas">
+                
+                <figure class="guardiao-item">
+                    <span class="guardiao-numero">1</span>
+                    <img src="{{ asset('images/Vargem Alta/guardia/g1.jpeg') }}" alt="Guardiões da memória - imagem 1">
+                </figure>
+                <figure class="guardiao-item">
+                    <span class="guardiao-numero">2</span>
+                    <img src="{{ asset('images/Vargem Alta/guardia/g2.jpeg') }}" alt="Guardiões da memória - imagem 2">
+                </figure>
+                <figure class="guardiao-item">
+                    <span class="guardiao-numero">3</span>
+                    <img src="{{ asset('images/Vargem Alta/guardia/g3.jpeg') }}" alt="Guardiões da memória - imagem 3">
+                </figure>
+                <figure class="guardiao-item">
+                    <span class="guardiao-numero">4</span>
+                    <img src="{{ asset('images/Vargem Alta/guardia/g4.jpg') }}" alt="Guardiões da memória - imagem 4">
+                </figure>
+                <figure class="guardiao-item">
+                    <span class="guardiao-numero">5</span>
+                    <img src="{{ asset('images/Vargem Alta/guardia/g5.JPG') }}" alt="Guardiões da memória - imagem 5">
+                </figure>
+                <figure class="guardiao-item">
+                    <span class="guardiao-numero">6</span>
+                    <img src="{{ asset('images/Vargem Alta/guardia/g6.jpg') }}" alt="Guardiões da memória - imagem 6">
+                </figure>
+                <figure class="guardiao-item">
+                    <span class="guardiao-numero">7</span>
+                    <img src="{{ asset('images/Vargem Alta/guardia/g7.jpeg') }}" alt="Guardiões da memória - imagem 7">
+                </figure>
+                <figure class="guardiao-item">
+                    <span class="guardiao-numero">8</span>
+                    <img src="{{ asset('images/Vargem Alta/guardia/g8.jpeg') }}" alt="Guardiões da memória - imagem 8">
+                </figure>
+                <figure class="guardiao-item">
+                    <span class="guardiao-numero">9</span>
+                    <img src="{{ asset('images/Vargem Alta/guardia/g10.jpeg') }}" alt="Guardiões da memória - imagem 9">
+                </figure>
         
                 <!-- loop -->
-                <img src="{{ asset('images/Vargem Alta/guardia/g1.jpeg') }}">
-                <img src="{{ asset('images/Vargem Alta/guardia/g2.jpeg') }}">
-                <img src="{{ asset('images/Vargem Alta/guardia/g3.jpeg') }}">
-                <img src="{{ asset('images/Vargem Alta/guardia/g4.jpg') }}">
-                <img src="{{ asset('images/Vargem Alta/guardia/g5.JPG') }}">
-                <img src="{{ asset('images/Vargem Alta/guardia/g6.jpg') }}">
-                <img src="{{ asset('images/Vargem Alta/guardia/g7.jpeg') }}">
-                <img src="{{ asset('images/Vargem Alta/guardia/g8.jpeg') }}">
-                <img src="{{ asset('images/Vargem Alta/guardia/g9.jpeg') }}">
-                <img src="{{ asset('images/Vargem Alta/guardia/g10.jpeg') }}">
+                <figure class="guardiao-item">
+                    <span class="guardiao-numero">1</span>
+                    <img src="{{ asset('images/Vargem Alta/guardia/g1.jpeg') }}" alt="Guardiões da memória - imagem 1">
+                </figure>
+                <figure class="guardiao-item">
+                    <span class="guardiao-numero">2</span>
+                    <img src="{{ asset('images/Vargem Alta/guardia/g2.jpeg') }}" alt="Guardiões da memória - imagem 2">
+                </figure>
+                <figure class="guardiao-item">
+                    <span class="guardiao-numero">3</span>
+                    <img src="{{ asset('images/Vargem Alta/guardia/g3.jpeg') }}" alt="Guardiões da memória - imagem 3">
+                </figure>
+                <figure class="guardiao-item">
+                    <span class="guardiao-numero">4</span>
+                    <img src="{{ asset('images/Vargem Alta/guardia/g4.jpg') }}" alt="Guardiões da memória - imagem 4">
+                </figure>
+                <figure class="guardiao-item">
+                    <span class="guardiao-numero">5</span>
+                    <img src="{{ asset('images/Vargem Alta/guardia/g5.JPG') }}" alt="Guardiões da memória - imagem 5">
+                </figure>
+                <figure class="guardiao-item">
+                    <span class="guardiao-numero">6</span>
+                    <img src="{{ asset('images/Vargem Alta/guardia/g6.jpg') }}" alt="Guardiões da memória - imagem 6">
+                </figure>
+                <figure class="guardiao-item">
+                    <span class="guardiao-numero">7</span>
+                    <img src="{{ asset('images/Vargem Alta/guardia/g7.jpeg') }}" alt="Guardiões da memória - imagem 7">
+                </figure>
+                <figure class="guardiao-item">
+                    <span class="guardiao-numero">8</span>
+                    <img src="{{ asset('images/Vargem Alta/guardia/g8.jpeg') }}" alt="Guardiões da memória - imagem 8">
+                </figure>
+                <figure class="guardiao-item">
+                    <span class="guardiao-numero">9</span>
+                    <img src="{{ asset('images/Vargem Alta/guardia/g10.jpeg') }}" alt="Guardiões da memória - imagem 9">
+                </figure>
         
             </div>
         </div>

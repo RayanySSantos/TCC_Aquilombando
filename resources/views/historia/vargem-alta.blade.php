@@ -40,13 +40,19 @@
 
         </div>
 
-        <div class="historia-hero-galeria historia-hero-galeria--vargem-alta">
-            <div class="historia-foto"><img src="{{ asset('images/Vargem Alta/festejos/f3.jpeg') }}" alt="Vargem Alta 1"></div>
-            <div class="historia-foto"><img src="{{ asset('images/Vargem Alta/guardia/g9.jpeg') }}" alt="Vargem Alta 2"></div>
-            <div class="historia-foto"><img src="{{ asset('images/Vargem Alta/Agricultura/h1.jpeg') }}" alt="Vargem Alta 3"></div>
-            <div class="historia-foto"><img src="{{ asset('images/Vargem Alta/historia/hi5.jpeg') }}" alt="Vargem Alta 4"></div>
-            <div class="historia-foto"><img src="{{ asset('images/Vargem Alta/artesanato/a1.jpeg') }}" alt="Vargem Alta 5"></div>
-            <div class="historia-foto"><img src="{{ asset('images/Vargem Alta/comida/p4.jpeg') }}" alt="Vargem Alta 6"></div>
+        <div class="historia-midia">
+            <div class="historia-hero-galeria historia-hero-galeria--vargem-alta">
+                <div class="historia-foto"><img src="{{ asset('images/Vargem Alta/festejos/f3.jpeg') }}" alt="Vargem Alta 1"></div>
+                <div class="historia-foto"><img src="{{ asset('images/Vargem Alta/guardia/g9.jpeg') }}" alt="Vargem Alta 2"></div>
+                <div class="historia-foto"><img src="{{ asset('images/Vargem Alta/Agricultura/h1.jpeg') }}" alt="Vargem Alta 3"></div>
+                <div class="historia-foto"><img src="{{ asset('images/Vargem Alta/historia/hi5.jpeg') }}" alt="Vargem Alta 4"></div>
+                <div class="historia-foto"><img src="{{ asset('images/Vargem Alta/artesanato/a1.jpeg') }}" alt="Vargem Alta 5"></div>
+                <div class="historia-foto"><img src="{{ asset('images/Vargem Alta/comida/p4.jpeg') }}" alt="Vargem Alta 6"></div>
+            </div>
+            <div class="historia-galeria-fontes">
+                <p class="historia-galeria-fonte">Fonte: Quilombo Vargem Alta.</p>
+                <p class="historia-galeria-fonte">Fonte: Projeto Mapeamento Gastronômico, 2025.</p>
+            </div>
         </div>
     </div>
 </section>

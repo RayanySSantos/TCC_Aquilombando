@@ -51,9 +51,19 @@ body.sobre .topo {
     /* ou #3A0F0F (marrom), se preferir */
 }
 
+/* COR DO HEADER NA PÁGINA DE PROJETOS */
+body.projetos .topo {
+    background-color: #2F5D73;
+}
+
 /* COR DO TEXTO DO MENU NO SOBRE */
 body.sobre .menu-item span,
 body.sobre .menu-item > a {
+    color: #FFFFFF;
+}
+
+body.projetos .menu-item span,
+body.projetos .menu-item > a {
     color: #FFFFFF;
 }
 
@@ -62,8 +72,16 @@ body.sobre .menu-item:hover span {
     color: #3A0F0F;
 }
 
+body.projetos .menu-item:hover span {
+    color: #D9E8EE;
+}
+
 /* SUBMENU NO SOBRE */
 body.sobre .submenu {
+    background: #ffffff;
+}
+
+body.projetos .submenu {
     background: #ffffff;
 }
 
@@ -86,7 +104,8 @@ body.sobre .submenu {
     cursor: pointer;
     color: #3A0F0F;
     font-weight: 500;
-    font-size: 19px;
+    font-size: 18.9px;
+    text-decoration: none;
 }
 
 .menu-item:hover span {
@@ -177,7 +196,7 @@ body.sobre .submenu {
     display: grid;
     grid-template-columns: 1.2fr 1fr;
     gap: 40px;
-    align-items: center;
+    align-items: start;
 }
 
 .hero-titulo {
@@ -204,6 +223,20 @@ body.sobre .submenu {
     gap: 12px;
 }
 
+.hero-midia {
+    display: flex;
+    flex-direction: column;
+}
+
+.hero-galeria-fonte {
+    margin-top: 10px;
+    font-size: 16px;
+    color: #6a4c4c;
+    font-style: italic;
+    text-align: center;
+    opacity: 0.85;
+}
+
 .hero-galeria .foto {
     position: relative;
     overflow: hidden;
@@ -211,9 +244,28 @@ body.sobre .submenu {
     background: #ddd;
 }
 
+.foto-numero {
+    position: absolute;
+    top: 12px;
+    left: 12px;
+    z-index: 2;
+    width: 42px;
+    height: 42px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    background: rgba(58, 15, 15, 0.88);
+    color: #ffffff;
+    font-size: 16px;
+    font-weight: 700;
+    letter-spacing: 0.04em;
+    box-shadow: 0 6px 16px rgba(0,0,0,0.18);
+}
+
 .hero-galeria .foto img {
     width: 100%;
-    height: 230px;
+    height: 240px;
     object-fit: cover;
     transition: transform 0.3s ease;
     cursor: zoom-in;
@@ -355,17 +407,29 @@ body.sobre .submenu {
     text-align: center;
 }
 
+.mapa-cabecalho {
+    margin-bottom: 72px;
+}
+
 .mapa-titulo {
     font-size: 32px;
     font-weight: 700;
     color: #3A0F0F;
-    margin-bottom: 40px;
+    margin-bottom: 8px;
+}
+
+.mapa-subtitulo {
+    font-size: 24px;
+    font-weight: 600;
+    color: #6a3a2a;
+    letter-spacing: 0.04em;
+    margin: 0;
 }
 
 .mapa-container {
     position: relative;
     max-width: 1100px;
-    margin: 0 auto;
+    margin: 0 auto 72px;
 }
 
 .mapa-img {
@@ -440,14 +504,20 @@ body.sobre .submenu {
 }
 
 .card-comunidade .item {
+    display: block;
+    width: fit-content;
+    margin: 0 auto;
     padding: 8px 0;
     font-size: 17px;
     font-weight: 600;
     cursor: pointer;
+    transition: transform 0.2s ease, text-shadow 0.2s ease;
 }
 
 .card-comunidade .item:hover {
     text-decoration: underline;
+    transform: scale(1.08);
+    text-shadow: 0 4px 10px rgba(0,0,0,0.12);
 }
 
 .verde    { color: #348735; }
@@ -456,7 +526,7 @@ body.sobre .submenu {
 .marrom   { color: #3A0F0F; }
 
 .fonte-mapa {
-    margin-top: 12px;
+    margin-top: 48px;
     font-size: 20px;
     color: #3A0F0F; /* marrom da paleta */
     font-style: italic;
@@ -477,6 +547,15 @@ body.sobre .submenu {
 
 .card-fechar:hover {
     color: #000;
+}
+
+.card-subtitulo {
+    display: block;
+    margin-top: 10px;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 1.4;
+    color: #6a4c4c;
 }
 
 /* ==================== LEGENDA DO MAPA ==================== */
@@ -688,10 +767,133 @@ body.interno .submenu a:hover {
     text-align: justify;
 }
 
+.chamada-projetos {
+    margin-top: 34px;
+    display: grid;
+    grid-template-columns: 1.6fr auto;
+    gap: 20px;
+    align-items: center;
+    text-decoration: none;
+    color: inherit;
+    background: linear-gradient(135deg, #fff5dd 0%, #f7e1b3 100%);
+    border: 1px solid #ecd4a2;
+    border-radius: 20px;
+    padding: 28px 30px;
+    box-shadow: 0 12px 28px rgba(58, 15, 15, 0.08);
+    transition: transform 0.25s ease, box-shadow 0.25s ease;
+}
+
+.chamada-projetos:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 18px 34px rgba(58, 15, 15, 0.14);
+}
+
+.chamada-projetos-tag {
+    display: inline-block;
+    margin-bottom: 10px;
+    font-size: 13px;
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: #875f33;
+}
+
+.chamada-projetos h2 {
+    font-size: 28px;
+    line-height: 1.2;
+    color: #3A0F0F;
+    margin-bottom: 10px;
+}
+
+.chamada-projetos p {
+    margin: 0;
+    font-size: 16px;
+    line-height: 1.6;
+    color: #5b3a24;
+    text-align: left;
+}
+
+.chamada-projetos-botao {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    min-width: 190px;
+    padding: 14px 20px;
+    border-radius: 999px;
+    background: #A52E18;
+    color: #ffffff;
+    font-size: 16px;
+    font-weight: 700;
+}
+
 .subtitulo {
     font-size: 28px;
     color: #A52E18;
     margin-bottom: 30px;
+}
+
+.projetos-pagina {
+    padding-top: 56px;
+    padding-bottom: 56px;
+}
+
+.projetos-destaque {
+    display: grid;
+    grid-template-columns: 1.4fr 0.9fr;
+    gap: 36px;
+    align-items: center;
+    background: linear-gradient(135deg, #fffdf7 0%, #f5ead5 100%);
+    border: 1px solid #ead9bc;
+    border-radius: 24px;
+    padding: 34px;
+    box-shadow: 0 16px 36px rgba(58, 15, 15, 0.08);
+}
+
+.projetos-etiqueta {
+    display: inline-block;
+    margin-bottom: 12px;
+    padding: 8px 14px;
+    border-radius: 999px;
+    background: #f3dfb2;
+    color: #875f33;
+    font-size: 13px;
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+}
+
+.projetos-texto h2 {
+    font-size: 32px;
+    line-height: 1.25;
+    color: #A52E18;
+    margin-bottom: 18px;
+}
+
+.projetos-texto p {
+    font-size: 18px;
+    line-height: 1.75;
+    color: #3A0F0F;
+    margin-bottom: 14px;
+    text-align: justify;
+}
+
+.projetos-logo-card {
+    background: #ffffff;
+    border-radius: 22px;
+    padding: 28px;
+    min-height: 340px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: inset 0 0 0 1px #f0e1c7;
+}
+
+.projetos-logo-card img {
+    width: 100%;
+    max-width: 320px;
+    height: auto;
+    display: block;
+    object-fit: contain;
 }
 
 /* ================= NOSSA EQUIPE ================= */
@@ -803,21 +1005,6 @@ body.interno .submenu a:hover {
 .linha-circulos.marrom .circulo { border: 3px solid #3A0F0F; }
 .linha-circulos.vermelho .circulo { border: 3px solid #A52E18; }
 
-.metodologia h2 {
-    margin-bottom: 30px;
-}
-
-.grid-metodologia {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    gap: 40px;
-}
-
-.grid-metodologia ul {
-    list-style: disc;
-    padding-left: 20px;
-}
-
 /* ================= CONTAINER PADRÃO DAS PÁGINAS ================= */
 
 .secao {
@@ -849,15 +1036,26 @@ body.interno .submenu a:hover {
 /* container da pessoa */
 .pessoa {
     text-align: center;
+    width: 220px;
 }
 
-.pessoa span {
+.pessoa-nome {
     display: block;
     text-align: center;
     margin-top: 8px;
     font-size: 15px;
-    font-weight: 600;
+    font-weight: 700;
     color: #3A0F0F;
+    line-height: 1.4;
+}
+
+.pessoa-cargo {
+    display: block;
+    margin-top: 4px;
+    font-size: 13px;
+    font-weight: 500;
+    line-height: 1.4;
+    color: #7a5332;
 }
 
 
@@ -865,6 +1063,7 @@ body.interno .submenu a:hover {
 .circulo {
     width: 150px;        /* aumentamos o círculo */
     height: 150px;
+    margin: 0 auto;
     border-radius: 50%;
     overflow: hidden;
     background: #e0e0e0;
@@ -883,7 +1082,7 @@ body.interno .submenu a:hover {
 }
 
 /* nome abaixo */
-.pessoa span {
+.pessoa-nome {
     font-size: 14px;
     font-weight: 600;
     color: #3A0F0F;
@@ -905,20 +1104,101 @@ body.interno .submenu a:hover {
     max-width: 1300px;
 }
 
+.metodologia h2 {
+    margin-bottom: 26px;
+    color: #A52E18;
+}
+
 .grid-metodologia {
     display: grid;
     grid-template-columns: 1fr 1fr;
-    gap: 50px;
+    gap: 28px;
+    align-items: stretch;
+}
+
+.metodologia-listas {
+    margin-bottom: 24px;
+}
+
+.metodologia-lista-card {
+    background: #fff9ea;
+    border-radius: 14px;
+    padding: 24px;
+    border: 1px solid #e8dcc6;
 }
 
 .grid-metodologia h4 {
     margin-bottom: 12px;
     color: #3A0F0F;
+    font-size: 20px;
+}
+
+.grid-metodologia ul {
+    list-style: disc;
+    padding-left: 20px;
 }
 
 .grid-metodologia ul li {
     margin-bottom: 8px;
     font-size: 16px;
+}
+
+.trabalhos-titulo {
+    margin-top: 8px;
+}
+
+.trabalhos-grid {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 28px;
+}
+
+.trabalho-card {
+    background: #fff;
+    border-radius: 14px;
+    border: 1px solid #e8dcc6;
+    padding: 22px;
+    box-shadow: 0 8px 20px rgba(58, 15, 15, 0.08);
+}
+
+.trabalho-link {
+    display: inline-block;
+    margin-bottom: 14px;
+    color: #3A0F0F;
+    text-decoration: none;
+    font-weight: 600;
+    border-bottom: 2px solid transparent;
+    transition: color 0.2s ease, border-color 0.2s ease;
+}
+
+.trabalho-link:visited {
+    color: #3A0F0F;
+}
+
+.trabalho-link:hover {
+    color: #A52E18;
+    border-bottom-color: #A52E18;
+}
+
+.trabalho-galeria {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(110px, 1fr));
+    gap: 12px;
+}
+
+.trabalho-galeria img {
+    width: 100%;
+    max-height: 180px;
+    object-fit: cover;
+    border-radius: 10px;
+    border: 1px solid #e8dcc6;
+    display: block;
+}
+
+.trabalho-em-breve {
+    margin: 0;
+    font-size: 15px;
+    color: #6f5a45;
 }
 
 /* ======================= RESPONSIVIDADE HOME ======================= */
@@ -972,7 +1252,7 @@ body.interno .submenu a:hover {
     }
 
     .hero-galeria .foto img {
-        height: 210px;
+        height: 220px;
     }
 
     .secao {
@@ -1056,6 +1336,19 @@ body.interno .submenu a:hover {
         font-size: 26px;
     }
 
+    .chamada-projetos {
+        grid-template-columns: 1fr;
+    }
+
+    .projetos-destaque {
+        grid-template-columns: 1fr;
+        padding: 28px;
+    }
+
+    .projetos-texto h2 {
+        font-size: 28px;
+    }
+
     .cards-equipe {
         grid-template-columns: repeat(2, 1fr);
         gap: 24px;
@@ -1078,6 +1371,11 @@ body.interno .submenu a:hover {
     .grid-metodologia {
         grid-template-columns: 1fr;
         gap: 32px;
+    }
+
+    .trabalhos-grid {
+        grid-template-columns: 1fr;
+        gap: 24px;
     }
 
     .bloco-metodologia {
@@ -1194,6 +1492,46 @@ body.interno .submenu a:hover {
         text-align: center;
     }
 
+    .chamada-projetos {
+        padding: 22px;
+    }
+
+    .chamada-projetos h2 {
+        font-size: 24px;
+    }
+
+    .chamada-projetos p {
+        font-size: 15px;
+    }
+
+    .chamada-projetos-botao {
+        min-width: 100%;
+    }
+
+    .projetos-pagina {
+        padding-top: 32px;
+        padding-bottom: 32px;
+    }
+
+    .projetos-destaque {
+        gap: 24px;
+        padding: 22px;
+    }
+
+    .projetos-texto h2 {
+        font-size: 24px;
+    }
+
+    .projetos-texto p {
+        font-size: 16px;
+        text-align: left;
+    }
+
+    .projetos-logo-card {
+        min-height: 220px;
+        padding: 20px;
+    }
+
     .cards-equipe {
         grid-template-columns: 1fr;
         gap: 22px;
@@ -1219,6 +1557,14 @@ body.interno .submenu a:hover {
     .bloco-metodologia {
         padding: 32px 24px;
         margin: 40px auto;
+    }
+
+    .trabalho-card {
+        padding: 18px;
+    }
+
+    .trabalho-galeria {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
     }
 }
 
@@ -1272,6 +1618,18 @@ body.interno .submenu a:hover {
 
     .subtitulo {
         font-size: 22px;
+    }
+
+    .chamada-projetos h2 {
+        font-size: 22px;
+    }
+
+    .projetos-texto h2 {
+        font-size: 22px;
+    }
+
+    .projetos-texto p {
+        font-size: 15px;
     }
 
     .avatar {

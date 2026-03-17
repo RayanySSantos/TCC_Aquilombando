@@ -73,6 +73,11 @@ body.culinaria .submenu a:hover {
     gap: 18px;
 }
 
+.culinaria-midia {
+    display: flex;
+    flex-direction: column;
+}
+
 .culinaria-foto {
     position: relative;
     overflow: hidden;
@@ -114,6 +119,15 @@ body.culinaria .submenu a:hover {
 
 .culinaria-foto img:hover {
     transform: scale(1.06);
+}
+
+.culinaria-galeria-fonte {
+    margin-top: 12px;
+    font-size: 16px;
+    color: #6a4c4c;
+    font-style: italic;
+    text-align: center;
+    opacity: 0.85;
 }
 
 @media (max-width: 900px) {

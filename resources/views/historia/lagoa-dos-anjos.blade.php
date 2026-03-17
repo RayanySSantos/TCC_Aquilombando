@@ -38,13 +38,19 @@
 
         </div>
 
-        <div class="historia-hero-galeria">
-            <div class="historia-foto"><img src="{{ asset('images/Lagoa dos Anjos/festejos/f2.jpeg') }}" alt="Lagoa dos Anjos 1"></div>
-            <div class="historia-foto"><img src="{{ asset('images/Lagoa dos Anjos/guardia/g7.jpeg') }}" alt="Lagoa dos Anjos 2"></div>
-            <div class="historia-foto"><img src="{{ asset('images/Lagoa dos Anjos/Agricultura/h1.jpeg') }}" alt="Lagoa dos Anjos 3"></div>
-            <div class="historia-foto"><img src="{{ asset('images/Lagoa dos Anjos/historia/hi1.jpeg') }}" alt="Lagoa dos Anjos 4"></div>
-            <div class="historia-foto"><img src="{{ asset('images/Lagoa dos Anjos/artesanato/a2.jpeg') }}" alt="Lagoa dos Anjos 5"></div>
-            <div class="historia-foto"><img src="{{ asset('images/Lagoa dos Anjos/comida/p4.jpeg') }}" alt="Lagoa dos Anjos 6"></div>
+        <div class="historia-midia">
+            <div class="historia-hero-galeria">
+                <div class="historia-foto"><img src="{{ asset('images/Lagoa dos Anjos/festejos/f2.jpeg') }}" alt="Lagoa dos Anjos 1"></div>
+                <div class="historia-foto"><img src="{{ asset('images/Lagoa dos Anjos/guardia/g7.jpeg') }}" alt="Lagoa dos Anjos 2"></div>
+                <div class="historia-foto"><img src="{{ asset('images/Lagoa dos Anjos/Agricultura/h1.jpeg') }}" alt="Lagoa dos Anjos 3"></div>
+                <div class="historia-foto"><img src="{{ asset('images/Lagoa dos Anjos/historia/hi1.jpeg') }}" alt="Lagoa dos Anjos 4"></div>
+                <div class="historia-foto"><img src="{{ asset('images/Lagoa dos Anjos/artesanato/a2.jpeg') }}" alt="Lagoa dos Anjos 5"></div>
+                <div class="historia-foto"><img src="{{ asset('images/Lagoa dos Anjos/comida/p4.jpeg') }}" alt="Lagoa dos Anjos 6"></div>
+            </div>
+            <div class="historia-galeria-fontes">
+                <p class="historia-galeria-fonte">Fonte: Quilombo Lagoa dos Anjos.</p>
+                <p class="historia-galeria-fonte">Fonte: Projeto Mapeamento Gastronômico, 2025.</p>
+            </div>
         </div>
     </div>
 </section>

@@ -40,13 +40,19 @@
 
         </div>
 
-        <div class="historia-hero-galeria historia-hero-galeria--vargem-comprida">
-            <div class="historia-foto"><img src="{{ asset('images/Vargem Comprida/festejos/f1.jpeg') }}" alt="Vargem Comprida 1"></div>
-            <div class="historia-foto"><img src="{{ asset('images/Vargem Comprida/guardia/g1.jpeg') }}" alt="Vargem Comprida 2"></div>
-            <div class="historia-foto"><img src="{{ asset('images/Vargem Comprida/Agricultura/h1.jpeg') }}" alt="Vargem Comprida 3"></div>
-            <div class="historia-foto"><img src="{{ asset('images/Vargem Comprida/historia/hi3.jpeg') }}" alt="Vargem Comprida 4"></div>
-            <div class="historia-foto"><img src="{{ asset('images/Vargem Comprida/Artesanato/a3.jpeg') }}" alt="Vargem Comprida 5"></div>
-            <div class="historia-foto"><img src="{{ asset('images/Vargem Comprida/comida/p7.jpeg') }}" alt="Vargem Comprida 6"></div>
+        <div class="historia-midia">
+            <div class="historia-hero-galeria historia-hero-galeria--vargem-comprida">
+                <div class="historia-foto"><img src="{{ asset('images/Vargem Comprida/festejos/f1.jpeg') }}" alt="Vargem Comprida 1"></div>
+                <div class="historia-foto"><img src="{{ asset('images/Vargem Comprida/guardia/g1.jpeg') }}" alt="Vargem Comprida 2"></div>
+                <div class="historia-foto"><img src="{{ asset('images/Vargem Comprida/Agricultura/h1.jpeg') }}" alt="Vargem Comprida 3"></div>
+                <div class="historia-foto"><img src="{{ asset('images/Vargem Comprida/historia/hi3.jpeg') }}" alt="Vargem Comprida 4"></div>
+                <div class="historia-foto"><img src="{{ asset('images/Vargem Comprida/Artesanato/a3.jpeg') }}" alt="Vargem Comprida 5"></div>
+                <div class="historia-foto"><img src="{{ asset('images/Vargem Comprida/comida/p7.jpeg') }}" alt="Vargem Comprida 6"></div>
+            </div>
+            <div class="historia-galeria-fontes">
+                <p class="historia-galeria-fonte">Fonte: Quilombo Vargem Comprida.</p>
+                <p class="historia-galeria-fonte">Fonte: Projeto Mapeamento Gastronômico, 2025.</p>
+            </div>
         </div>
     </div>
 </section>

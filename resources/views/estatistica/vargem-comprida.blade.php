@@ -3,7 +3,7 @@
 @section('content')
 <section class="estatistica-hero">
     <div class="estatistica-hero-container">
-        <h1>Estatísticas da Comunidade Quilombola de Vargem Comprida</h1>
+        <h1>Perfil dos participantes da comunidade Vargem Comprida do projeto Mapeamento Gastronômico: o resgate dos saberes culinários quilombolas no Território Sertão Produtivo</h1>
     </div>
 </section>
 
@@ -52,37 +52,6 @@
         </div>
     </section>
 
-    <section class="estatistica-card estatistica-card--duo">
-        <div class="estatistica-card-grafico">
-            <img src="{{ asset('images/Vargem Comprida/estatistica/preparação de alimento.png') }}" alt="Preparação de alimento em Vargem Comprida">
-            <span class="estatistica-legenda">Preparação de alimento (BPF).</span>
-        </div>
-        <div class="estatistica-card-info estatistica-card-info--marrom">
-            <h2>Preparação de Alimento</h2>
-            <p>No que se refere às Boas Práticas de Fabricação (BPF), os resultados mostram que 80% dos(as) participantes afirmaram aplicar essas práticas na preparação dos alimentos. Por outro lado, 20% informaram que nunca ouviram falar sobre o tema. Esses dados revelam um cenário positivo quanto à adoção das BPF pela maioria da comunidade, mas também apontam para lacunas no acesso à informação e à formação técnica, especialmente entre aqueles que desconhecem essas práticas.</p>
-        </div>
-    </section>
-
-    <section class="estatistica-card estatistica-card--duo">
-        <div class="estatistica-card-info estatistica-card-info--laranja">
-            <h2>Capacitação em Práticas Sustentáveis</h2>
-            <p>Os dados analisados indicam que a maioria dos(as) quilombolas da Comunidade de Vargem Comprida já teve algum contato com ações de capacitação voltadas às práticas sustentáveis na produção de alimentos. Observa-se que 60% dos(as) participantes relataram já ter participado desse tipo de formação, enquanto 40% afirmaram nunca ter tido acesso a capacitações nessa área. Esse resultado demonstra que, embora parte da comunidade já esteja inserida em processos formativos, ainda há um percentual significativo de pessoas que permanecem à margem dessas iniciativas, evidenciando a necessidade de ampliação das ações de qualificação.</p>
-        </div>
-        <div class="estatistica-card-grafico">
-            <img src="{{ asset('images/Vargem Comprida/estatistica/Capacitação em Práticas Sustentáveis.png') }}" alt="Capacitação em práticas sustentáveis em Vargem Comprida">
-            <span class="estatistica-legenda">Participação em capacitações sustentáveis.</span>
-        </div>
-    </section>
-
-    <section class="estatistica-card estatistica-card--duo">
-        <div class="estatistica-card-grafico">
-            <img src="{{ asset('images/Vargem Comprida/estatistica/dificuldades.png') }}" alt="Dificuldades enfrentadas na aplicação em Vargem Comprida">
-            <span class="estatistica-legenda">Dificuldades enfrentadas na aplicação.</span>
-        </div>
-        <div class="estatistica-card-info estatistica-card-info--verde">
-            <h2>Dificuldades Encontradas</h2>
-            <p>Quando analisadas as dificuldades enfrentadas na aplicação das Boas Práticas de Fabricação, verifica-se que a principal limitação está relacionada às condições materiais. A falta de recursos, como equipamentos adequados e espaço físico apropriado, foi mencionada por 80% dos(as) participantes. A falta de conhecimento e a opção “não sei” apareceram com 10% cada, indicando que, embora o conhecimento técnico seja relevante, os entraves estruturais se configuram como o principal obstáculo para a efetiva aplicação das BPF no contexto comunitário</p>
-        </div>
-    </section>
+    
 </div>
 @endsection

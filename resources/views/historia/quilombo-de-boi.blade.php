@@ -39,13 +39,19 @@
 
         </div>
 
-        <div class="historia-hero-galeria historia-hero-galeria--boi">
-            <div class="historia-foto"><img src="{{ asset('images/Boi/festejos/f6.jpeg') }}" alt="Quilombo de Boi 1"></div>
-            <div class="historia-foto"><img src="{{ asset('images/Boi/guardia/g6.jpeg') }}" alt="Quilombo de Boi 2"></div>
-            <div class="historia-foto"><img src="{{ asset('images/Boi/Agricultura/h1.jpg') }}" alt="Quilombo de Boi 3"></div>
-            <div class="historia-foto"><img src="{{ asset('images/Boi/historia/hi1.jpeg') }}" alt="Quilombo de Boi 4"></div>
-            <div class="historia-foto"><img src="{{ asset('images/Boi/artesanato/a10.jpeg') }}" alt="Quilombo de Boi 5"></div>
-            <div class="historia-foto"><img src="{{ asset('images/Boi/comida/p1.jpeg') }}" alt="Quilombo de Boi 6"></div>
+        <div class="historia-midia">
+            <div class="historia-hero-galeria historia-hero-galeria--boi">
+                <div class="historia-foto"><img src="{{ asset('images/Boi/festejos/f6.jpeg') }}" alt="Quilombo de Boi 1"></div>
+                <div class="historia-foto"><img src="{{ asset('images/Boi/guardia/g6.jpeg') }}" alt="Quilombo de Boi 2"></div>
+                <div class="historia-foto"><img src="{{ asset('images/Boi/Agricultura/h1.jpg') }}" alt="Quilombo de Boi 3"></div>
+                <div class="historia-foto"><img src="{{ asset('images/Boi/historia/hi1.jpeg') }}" alt="Quilombo de Boi 4"></div>
+                <div class="historia-foto"><img src="{{ asset('images/Boi/artesanato/a10.jpeg') }}" alt="Quilombo de Boi 5"></div>
+                <div class="historia-foto"><img src="{{ asset('images/Boi/comida/p1.jpeg') }}" alt="Quilombo de Boi 6"></div>
+            </div>
+            <div class="historia-galeria-fontes">
+                <p class="historia-galeria-fonte">Fonte: Quilombo de Boi.</p>
+                <p class="historia-galeria-fonte">Fonte: Projeto Mapeamento Gastronômico, 2025.</p>
+            </div>
         </div>
     </div>
 </section>

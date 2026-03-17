@@ -3,7 +3,7 @@
 @section('content')
 <section class="estatistica-hero">
     <div class="estatistica-hero-container">
-        <h1>Estatísticas da Comunidade Quilombola de Lagoa dos Anjos</h1>
+        <h1>Perfil dos participantes da comunidade Lagoa dos Anjos do projeto Mapeamento Gastronômico: o resgate dos saberes culinários quilombolas no Território Sertão Produtivo</h1>
         <p>Dados gerais para apoiar a leitura do território. Os textos podem ser ajustados depois.</p>
     </div>
 </section>

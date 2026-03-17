@@ -20,11 +20,13 @@
 
         </div>
 
-        <div class="artesanato-hero-galeria artesanato-hero-galeria--vertical">
-            <div class="artesanato-foto"><img src="{{ asset('images/Passagem/artesanato/a1.jpeg') }}" alt="Passagem de Areia 1"></div>
-            <div class="artesanato-foto"><img src="{{ asset('images/Passagem/artesanato/a3.jpeg') }}" alt="Passagem de Areia 3"></div>
-            <div class="artesanato-foto"><img src="{{ asset('images/Passagem/artesanato/a2.jpeg') }}" alt="Passagem de Areia 2"></div>
-
+        <div class="artesanato-midia">
+            <div class="artesanato-hero-galeria artesanato-hero-galeria--vertical">
+                <div class="artesanato-foto"><img src="{{ asset('images/Passagem/artesanato/a1.jpeg') }}" alt="Passagem de Areia 1"></div>
+                <div class="artesanato-foto"><img src="{{ asset('images/Passagem/artesanato/a3.jpeg') }}" alt="Passagem de Areia 3"></div>
+                <div class="artesanato-foto"><img src="{{ asset('images/Passagem/artesanato/a2.jpeg') }}" alt="Passagem de Areia 2"></div>
+            </div>
+            <p class="artesanato-galeria-fonte">Fonte: Quilombo Passagem de Areia.</p>
         </div>
     </div>
 </section>

@@ -20,13 +20,16 @@
 
         </div>
 
-        <div class="artesanato-hero-galeria">
-            <div class="artesanato-foto"><img src="{{ asset('images/Boi/artesanato/a1.jpeg') }}" alt="Quilombo de Boi 1"></div>
-            <div class="artesanato-foto"><img src="{{ asset('images/Boi/artesanato/a2.jpeg') }}" alt="Quilombo de Boi 2"></div>
-            <div class="artesanato-foto"><img src="{{ asset('images/Boi/artesanato/a3.jpeg') }}" alt="Quilombo de Boi 3"></div>
-            <div class="artesanato-foto"><img src="{{ asset('images/Boi/artesanato/a4.jpeg') }}" alt="Quilombo de Boi 4"></div>
-            <div class="artesanato-foto"><img src="{{ asset('images/Boi/artesanato/a5.jpeg') }}" alt="Quilombo de Boi 5"></div>
-            <div class="artesanato-foto"><img src="{{ asset('images/Boi/artesanato/a6.jpeg') }}" alt="Quilombo de Boi 6"></div>
+        <div class="artesanato-midia">
+            <div class="artesanato-hero-galeria">
+                <div class="artesanato-foto"><img src="{{ asset('images/Boi/artesanato/a1.jpeg') }}" alt="Quilombo de Boi 1"></div>
+                <div class="artesanato-foto"><img src="{{ asset('images/Boi/artesanato/a2.jpeg') }}" alt="Quilombo de Boi 2"></div>
+                <div class="artesanato-foto"><img src="{{ asset('images/Boi/artesanato/a3.jpeg') }}" alt="Quilombo de Boi 3"></div>
+                <div class="artesanato-foto"><img src="{{ asset('images/Boi/artesanato/a4.jpeg') }}" alt="Quilombo de Boi 4"></div>
+                <div class="artesanato-foto"><img src="{{ asset('images/Boi/artesanato/a5.jpeg') }}" alt="Quilombo de Boi 5"></div>
+                <div class="artesanato-foto"><img src="{{ asset('images/Boi/artesanato/a6.jpeg') }}" alt="Quilombo de Boi 6"></div>
+            </div>
+            <p class="artesanato-galeria-fonte">Fonte: Quilombo de Boi.</p>
         </div>
     </div>
 </section>

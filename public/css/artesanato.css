@@ -72,6 +72,11 @@ body.artesanato .submenu a:hover {
     grid-template-columns: 1fr;
 }
 
+.artesanato-midia {
+    display: flex;
+    flex-direction: column;
+}
+
 .artesanato-hero-galeria--vargem-alta .artesanato-foto:last-child {
     grid-column: 1 / -1;
 }
@@ -106,6 +111,15 @@ body.artesanato .submenu a:hover {
 
 .artesanato-foto img:hover {
     transform: scale(1.06);
+}
+
+.artesanato-galeria-fonte {
+    margin-top: 12px;
+    font-size: 16px;
+    color: #6a4c4c;
+    font-style: italic;
+    text-align: center;
+    opacity: 0.85;
 }
 
 @media (max-width: 900px) {

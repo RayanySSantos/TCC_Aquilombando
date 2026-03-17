@@ -99,6 +99,11 @@ body.historia .submenu a:hover {
     gap: 12px;
 }
 
+.historia-midia {
+    display: flex;
+    flex-direction: column;
+}
+
 .historia-foto {
     position: relative;
     overflow: hidden;
@@ -133,6 +138,23 @@ body.historia .submenu a:hover {
 
 .historia-foto img:hover {
     transform: scale(1.06);
+}
+
+.historia-galeria-fontes {
+    margin-top: 12px;
+}
+
+.historia-galeria-fonte {
+    margin: 0;
+    font-size: 16px;
+    color: #6a4c4c;
+    font-style: italic;
+    text-align: center;
+    opacity: 0.85;
+}
+
+.historia-galeria-fonte + .historia-galeria-fonte {
+    margin-top: 4px;
 }
 
 @media (max-width: 900px) {

@@ -20,13 +20,16 @@
 
         </div>
 
-        <div class="costumes-hero-galeria">
-            <div class="costumes-foto"><img src="{{ asset('images/Vargem Comprida/festejos/f1.jpeg') }}" alt="Vargem Comprida 1"></div>
-            <div class="costumes-foto"><img src="{{ asset('images/Vargem Comprida/festejos/f2.jpeg') }}" alt="Vargem Comprida 2"></div>
-            <div class="costumes-foto"><img src="{{ asset('images/Vargem Comprida/festejos/f3.jpeg') }}" alt="Vargem Comprida 3"></div>
-            <div class="costumes-foto"><img src="{{ asset('images/Vargem Comprida/festejos/f4.jpeg') }}" alt="Vargem Comprida 4"></div>
-            <div class="costumes-foto"><img src="{{ asset('images/Vargem Comprida/festejos/f5.jpeg') }}" alt="Vargem Comprida 5"></div>
-            <div class="costumes-foto"><img src="{{ asset('images/Vargem Comprida/festejos/f6.jpeg') }}" alt="Vargem Comprida 6"></div>
+        <div class="costumes-midia">
+            <div class="costumes-hero-galeria">
+                <div class="costumes-foto"><img src="{{ asset('images/Vargem Comprida/festejos/f1.jpeg') }}" alt="Vargem Comprida 1"></div>
+                <div class="costumes-foto"><img src="{{ asset('images/Vargem Comprida/festejos/f2.jpeg') }}" alt="Vargem Comprida 2"></div>
+                <div class="costumes-foto"><img src="{{ asset('images/Vargem Comprida/festejos/f3.jpeg') }}" alt="Vargem Comprida 3"></div>
+                <div class="costumes-foto"><img src="{{ asset('images/Vargem Comprida/festejos/f4.jpeg') }}" alt="Vargem Comprida 4"></div>
+                <div class="costumes-foto"><img src="{{ asset('images/Vargem Comprida/festejos/f5.jpeg') }}" alt="Vargem Comprida 5"></div>
+                <div class="costumes-foto"><img src="{{ asset('images/Vargem Comprida/festejos/f6.jpeg') }}" alt="Vargem Comprida 6"></div>
+            </div>
+            <p class="costumes-galeria-fonte">Fonte: Projeto Mapeamento Gastronômico, 2025.</p>
         </div>
     </div>
 </section>

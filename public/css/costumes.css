@@ -72,6 +72,11 @@ body.costumes .submenu a:hover {
     grid-template-columns: 1fr;
 }
 
+.costumes-midia {
+    display: flex;
+    flex-direction: column;
+}
+
 .costumes-hero-galeria--passagem .costumes-foto img {
     height: 380px;
 }
@@ -98,6 +103,15 @@ body.costumes .submenu a:hover {
 
 .costumes-foto img:hover {
     transform: scale(1.06);
+}
+
+.costumes-galeria-fonte {
+    margin-top: 12px;
+    font-size: 16px;
+    color: #6a4c4c;
+    font-style: italic;
+    text-align: center;
+    opacity: 0.85;
 }
 
 @media (max-width: 900px) {

@@ -32,13 +32,16 @@
 
         </div>
 
-        <div class="culinaria-hero-galeria culinaria-hero-galeria--vertical">
-            <div class="culinaria-foto"><span class="culinaria-foto-numero">01</span><img src="{{ asset('images/Aroeira/comida/p1.JPG') }}" alt="Aroeira 1"></div>
-            <div class="culinaria-foto"><span class="culinaria-foto-numero">02</span><img src="{{ asset('images/Aroeira/comida/r.jpg') }}" alt="Aroeira 2"></div>
-            <div class="culinaria-foto"><span class="culinaria-foto-numero">03</span><img src="{{ asset('images/Aroeira/comida/p8.jpg') }}" alt="Aroeira 3"></div>
-            <div class="culinaria-foto"><span class="culinaria-foto-numero">04</span><img src="{{ asset('images/Aroeira/comida/p4.JPG') }}" alt="Aroeira 4"></div>
-            <div class="culinaria-foto"><span class="culinaria-foto-numero">05</span><img src="{{ asset('images/Aroeira/comida/p9.png') }}" alt="Aroeira 5"></div>
-            <div class="culinaria-foto"><span class="culinaria-foto-numero">06</span><img src="{{ asset('images/Aroeira/comida/p6.jpg') }}" alt="Aroeira 6"></div>
+        <div class="culinaria-midia">
+            <div class="culinaria-hero-galeria culinaria-hero-galeria--vertical">
+                <div class="culinaria-foto"><span class="culinaria-foto-numero">01</span><img src="{{ asset('images/Aroeira/comida/p1.JPG') }}" alt="Aroeira 1"></div>
+                <div class="culinaria-foto"><span class="culinaria-foto-numero">02</span><img src="{{ asset('images/Aroeira/comida/r.jpg') }}" alt="Aroeira 2"></div>
+                <div class="culinaria-foto"><span class="culinaria-foto-numero">03</span><img src="{{ asset('images/Aroeira/comida/p8.jpg') }}" alt="Aroeira 3"></div>
+                <div class="culinaria-foto"><span class="culinaria-foto-numero">04</span><img src="{{ asset('images/Aroeira/comida/p4.JPG') }}" alt="Aroeira 4"></div>
+                <div class="culinaria-foto"><span class="culinaria-foto-numero">05</span><img src="{{ asset('images/Aroeira/comida/p9.png') }}" alt="Aroeira 5"></div>
+                <div class="culinaria-foto"><span class="culinaria-foto-numero">06</span><img src="{{ asset('images/Aroeira/comida/p6.jpg') }}" alt="Aroeira 6"></div>
+            </div>
+            <p class="culinaria-galeria-fonte">Fonte: Projeto Mapeamento Gastronômico, 2025.</p>
         </div>
     </div>
 </section>

@@ -20,11 +20,14 @@
 
         </div>
 
-        <div class="agricultura-hero-galeria">
-            <div class="agricultura-foto"><img src="{{ asset('images/Passagem/Agricultura/h1.jpeg') }}" alt="Passagem de Areia 1"></div>
-            <div class="agricultura-foto"><img src="{{ asset('images/Passagem/Agricultura/h2.jpeg') }}" alt="Passagem de Areia 2"></div>
-            <div class="agricultura-foto"><img src="{{ asset('images/Passagem/Agricultura/h3.jpeg') }}" alt="Passagem de Areia 3"></div>
-            <div class="agricultura-foto"><img src="{{ asset('images/Passagem/Agricultura/h4.jpeg') }}" alt="Passagem de Areia 4"></div>
+        <div class="agricultura-midia">
+            <div class="agricultura-hero-galeria">
+                <div class="agricultura-foto"><img src="{{ asset('images/Passagem/Agricultura/h1.jpeg') }}" alt="Passagem de Areia 1"></div>
+                <div class="agricultura-foto"><img src="{{ asset('images/Passagem/Agricultura/h2.jpeg') }}" alt="Passagem de Areia 2"></div>
+                <div class="agricultura-foto"><img src="{{ asset('images/Passagem/Agricultura/h3.jpeg') }}" alt="Passagem de Areia 3"></div>
+                <div class="agricultura-foto"><img src="{{ asset('images/Passagem/Agricultura/h4.jpeg') }}" alt="Passagem de Areia 4"></div>
+            </div>
+            <p class="agricultura-galeria-fonte">Fonte: Quilombo Passagem de Areia.</p>
         </div>
     </div>
 </section>
