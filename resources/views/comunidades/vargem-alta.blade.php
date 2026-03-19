@@ -2,6 +2,7 @@
 
 @section('titulo', 'Comunidade Vargem Alta')
 @section('nome-comunidade', 'COMUNIDADE VARGEM ALTA')
+@section('fonte-quilombo', 'Quilombo Vargem Alta')
 
 @section('conteudo')
 

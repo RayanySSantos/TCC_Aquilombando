@@ -2,6 +2,7 @@
 
 @section('titulo', 'Comunidade Aroeira')
 @section('nome-comunidade', 'COMUNIDADE AROEIRA')
+@section('fonte-quilombo', 'Quilombo Aroeira')
 
 @section('conteudo')
 

@@ -15,7 +15,7 @@
 
 </head>
 
-<body>
+<body data-fonte-quilombo="@yield('fonte-quilombo')">
 
     {{-- HEADER IGUAL AO DA HOME, SOMENTE TROCA A COR NO CSS --}}
     <header class="topo topo-interno">

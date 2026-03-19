@@ -2,6 +2,7 @@
 
 @section('titulo', 'Comunidade Quilombo de Boi')
 @section('nome-comunidade', 'COMUNIDADE QUILOMBO DE BOI')
+@section('fonte-quilombo', 'Quilombo de Boi')
 
 @section('conteudo')
 

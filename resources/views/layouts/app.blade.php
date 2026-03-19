@@ -25,7 +25,7 @@
     {{ Request::is('costumes/*') ? 'costumes' : '' }}
     {{ Request::is('agricultura/*') ? 'agricultura' : '' }}
     {{ Request::is('estatistica/*') ? 'estatistica' : '' }}
-    {{ (!Request::is('/') && !Request::is('sobre') && !Request::is('historia/*') && !Request::is('culinaria/*') && !Request::is('artesanato/*') && !Request::is('costumes/*') && !Request::is('agricultura/*') && !Request::is('estatistica/*')) ? 'interno' : '' }}">
+    {{ (!Request::is('/') && !Request::is('sobre') && !Request::is('projetos') && !Request::is('historia/*') && !Request::is('culinaria/*') && !Request::is('artesanato/*') && !Request::is('costumes/*') && !Request::is('agricultura/*') && !Request::is('estatistica/*')) ? 'interno' : '' }}">
 
 
 

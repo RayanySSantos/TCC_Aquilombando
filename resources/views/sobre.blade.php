@@ -48,12 +48,11 @@
 
              <div class="card-equipe">
                 <div class="avatar">
-                    <img src="/images/Equipe/Dani.jpeg" alt="Ana Oliveira">
+                    <img src="/images/Equipe/dani.jpeg" alt="Ana Oliveira">
                 </div>
                 <h3>Dra. Daniele de Brito Trindade</h3>
                 <span>Orientadora</span>
-                <p>Professora EBTT do Instituto Federal de Educação, Ciência e Tecnologia Baiano (IF Baiano) Campus Guanambi. Professora colaboradora do Mestrado Profissional em Produção Vegetal no Semiárido (MPPVS) e coordenadora substituta do Curso de Licenciatura em Ciências Biológicas. Líder do Grupo de Pesquisa HAFROQI e membro do NEABI. Doutora e Mestra em Estatística pela Universidade Federal de Pernambuco (UFPE), e graduada em Bacharelado em Estatística pela Universidade Federal da Bahia (UFBA).</p>
-            </div>
+                <p>Professora EBTT do Instituto Federal Baiano (IF Baiano) – Campus Guanambi, atua também como colaboradora no Mestrado Profissional em Produção Vegetal no Semiárido. É coordenadora substituta do curso de Licenciatura em Ciências Biológicas (Portaria 597/2024) e líder do grupo de pesquisa HAFROQI, voltado à história, memória e identidade afro-brasileira, quilombola e indígena no Sertão Produtivo. Coordena ainda o curso de extensão “Ciência e Ancestralidade”, com foco em agroecologia e saberes tradicionais sobre plantas medicinais. Foi membro do GPQUIF (2020–2025) e integrante da gestão do NEABI (2023–2024). Possui doutorado (2018) e mestrado (2014) em Estatística pela UFPE, além de graduação em Estatística pela UFBA (2011).</p>            </div>
 
             <div class="card-equipe">
                 <div class="avatar">
@@ -61,7 +60,7 @@
                 </div>
                 <h3>Me. George Gabriel Mendes Dourado</h3>
                 <span>Coorientador</span>
-                <p>Professor EBTT do Instituto Federal de Educação, Ciên-cia e Tecnologia Baiano (IF Baiano) Campus Guanambi. Mestre em Ciências da Computação e Matemática Computacional pelo Instituto de Ciências Matemáticas e de Computação da Universidade de São Paulo (ICMC/USP), em 2015. Graduado no curso de Bacha-relado em Ciência da Computação pela Universidade Estadual do Sudoeste da Bahia (UESB), em 2012.</p>
+                <p>Professor EBTT do Instituto Federal de Educação, Ciência e Tecnologia Baiano (IF Baiano) – Campus Guanambi. É membro do Grupo de Pesquisa HAFROQI – História, Memória e Identidade Afro-Brasileira, Quilombola e Indígena do Sertão Produtivo, onde desenvolve projetos voltados à valorização histórica e cultural, além de atuar no CETEIA. Participa também de projetos tecnológicos em parceria com o SAMU junto ao IF Baiano. Possui mestrado em Ciências da Computação e Matemática Computacional pelo Instituto de Ciências Matemáticas e de Computação da Universidade de São Paulo (ICMC/USP), concluído em 2015, e graduação em Bacharelado em Ciência da Computação pela Universidade Estadual do Sudoeste da Bahia (UESB), concluída em 2012.</p>
             </div>
 
         </div>
@@ -84,6 +83,7 @@
                     <img src="/images/Equipe/Dan.jpeg" alt="Daniela da Silva Aires">
                 </div>
                 <span class="pessoa-nome">Daniela da Silva Aires</span>
+                <span class="pessoa-cargo">Tecnologa em Agroindústria</span>
             </div>
 
             <div class="pessoa">
@@ -91,6 +91,7 @@
                     <img src="/images/Equipe/joao.jpeg" alt="João Vitor Lima Castro Teixeira">
                 </div>
                 <span class="pessoa-nome">João Vitor L. Castro Teixeira</span>
+                <span class="pessoa-cargo">Tecnologo em Analise e Desenvolvimento de Sistemas</span>
             </div>
 
             <div class="pessoa">
@@ -98,6 +99,7 @@
                     <img src="/images/Equipe/v1.jpeg" alt="João Vitor dos Santos Ramos">
                 </div>
                 <span class="pessoa-nome">João Vitor dos Santos Ramos</span>
+                <span class="pessoa-cargo">Cursando Licenciatura em Ciências Biológicas</span>
             </div>
 
             <div class="pessoa">
@@ -105,6 +107,7 @@
                     <img src="/images/Equipe/Luis.jpeg" alt="Luis Gustavo Cartoso da Silva">
                 </div>
                 <span class="pessoa-nome">Luis Gustavo Cartoso da Silva</span>
+                <span class="pessoa-cargo">Cursando Analise e Desenvolvimento de Sistemas</span>
             </div>
 
             <div class="pessoa">
@@ -112,6 +115,7 @@
                     <img src="/images/Equipe/tais.jpeg" alt="Tais Carolane Souza Almeida">
                 </div>
                 <span class="pessoa-nome">Tais Carolane Souza Almeida</span>
+                <span class="pessoa-cargo">Cursando Bacharelado em Engenharia Agronômica</span>
             </div>
 
 
@@ -151,6 +155,14 @@
                 </div>
                 <span class="pessoa-nome">Ivone Donato Neves</span>
                 <span class="pessoa-cargo">Agente Sócio Produtiva</span>
+            </div>
+
+            <div class="pessoa">
+                <div class="circulo">
+                    <img src="/images/Equipe/leile.jpeg" alt="Leiliane Azevêdo Aranha">
+                </div>
+                <span class="pessoa-nome">Leiliane Azevêdo Aranha</span>
+                <span class="pessoa-cargo">Secretária de Cultura, Esporte, Lazer e Turismo do município de Urandi-Ba</span>
             </div>
 
             <div class="pessoa">
@@ -263,7 +275,7 @@
                     <li>Consentimento informado</li>
                     <li>Reconhecimento dos saberes tradicionais</li>
                     <li>Devolução dos resultados às comunidades</li>
-                    <li>Representação respeitosa</li>
+                    <li>A pesquisa é financiada pela FAPESB (Edital 52/2024 – PIBIC) e foi aprovada pelo Comitê de Ética em Pesquisa (Parecer nº 7.352.907)</li>
                 </ul>
             </div>
         </div>
@@ -310,6 +322,41 @@
             <div class="trabalho-card">
                 <h4>Cartilhas Lagoa dos Anjos</h4>
                 <p class="trabalho-em-breve">Conteúdo em organização.</p>
+                <div class="trabalho-galeria">
+                    <img src="/images/ebook-aroeira/cartilha aroeira.png" alt="Capa da cartilha do projeto">
+                    <img src="/images/ebook-aroeira/01.png" alt="Capa do E-book do projeto">
+                    <img src="/images/ebook-aroeira/02.png" alt="Página interna da cartilha do projeto">
+                </div>
+            </div>
+
+            <div class="trabalho-card">
+                <h4>Cartilhas Vargem Alta</h4>
+                <p class="trabalho-em-breve">Conteúdo em organização.</p>
+                <div class="trabalho-galeria">
+                    <img src="/images/ebook-aroeira/cartilha aroeira.png" alt="Capa da cartilha do projeto">
+                    <img src="/images/ebook-aroeira/01.png" alt="Capa do E-book do projeto">
+                    <img src="/images/ebook-aroeira/02.png" alt="Página interna da cartilha do projeto">
+                </div>
+            </div>
+
+            <div class="trabalho-card">
+                <h4>Cartilhas Vargem Comprida</h4>
+                <p class="trabalho-em-breve">Conteúdo em organização.</p>
+                <div class="trabalho-galeria">
+                    <img src="/images/ebook-aroeira/cartilha aroeira.png" alt="Capa da cartilha do projeto">
+                    <img src="/images/ebook-aroeira/01.png" alt="Capa do E-book do projeto">
+                    <img src="/images/ebook-aroeira/02.png" alt="Página interna da cartilha do projeto">
+                </div>
+            </div>
+
+            <div class="trabalho-card">
+                <h4>Cartilhas de Boi</h4>
+                <p class="trabalho-em-breve">Conteúdo em organização.</p>
+                <div class="trabalho-galeria">
+                    <img src="/images/ebook-aroeira/cartilha aroeira.png" alt="Capa da cartilha do projeto">
+                    <img src="/images/ebook-aroeira/01.png" alt="Capa do E-book do projeto">
+                    <img src="/images/ebook-aroeira/02.png" alt="Página interna da cartilha do projeto">
+                </div>
             </div>
         </div>
 

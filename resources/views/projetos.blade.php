@@ -13,7 +13,7 @@
                 <h2>História, Memória e Identidade Afro-brasileira, Quilombola e Indígena do Sertão Produtivo</h2>
                 
                 <p>
-                O Grupo de Pesquisa e Extensão (HAFROQI) História, Memória e Identidade Afro-brasileira, Quilombola e Indígena do Sertão Produtivo, é composto por professores, pesquisadores, técnicos-administrativos e estudantes do Instituto Federal Baiano e de instituições parceiras. Suas atividades buscam promover espaços de produção científica, formação crítica e valorização das identidades que compõem o território do Sertão Produtivo. O grupo desenvolve estudos voltados à etnografia das comunidades quilombolas e indígenas, com foco no resgate e na valorização dos saberes, fazeres e tradições desses povos, além de reconhecer e difundir os movimentos culturais como expressões de resistência e transformação social. Suas ações são fundamentadas em metodologias teóricas, estatísticas, documentais e quali-quantitativas, promovendo o diálogo entre saberes locais e universais e ampliando a práxis educativa em diversos municípios baianos. Dessa forma, o HAFROQI reforça o compromisso do IF Baiano com a inclusão social, cultural e educacional. O grupo é liderado pelas professoras Dra. Daniele de Brito Trindade e Dra. Rosângela Figueiredo Miranda, que, juntamente com a equipe de pesquisadores e extensionistas, fortalecem o protagonismo das comunidades tradicionais e reafirmam o papel da educação como instrumento de transformação social.
+                O Grupo de Pesquisa e Extensão (HAFROQI) <strong>História, Memória e Identidade Afro-brasileira, Quilombola e Indígena do Sertão Produtivo</strong>, é composto por professores, pesquisadores, técnicos-administrativos e estudantes do Instituto Federal Baiano e de instituições parceiras. Suas atividades buscam promover espaços de produção científica, formação crítica e valorização das identidades que compõem o território do Sertão Produtivo. O grupo desenvolve estudos voltados à etnografia das comunidades quilombolas e indígenas, com foco no resgate e na valorização dos saberes, fazeres e tradições desses povos, além de reconhecer e difundir os movimentos culturais como expressões de resistência e transformação social. Suas ações são fundamentadas em metodologias teóricas, estatísticas, documentais e quali-quantitativas, promovendo o diálogo entre saberes locais e universais e ampliando a práxis educativa em diversos municípios baianos. Dessa forma, o HAFROQI reforça o compromisso do IF Baiano com a inclusão social, cultural e educacional. O grupo é liderado pelas professoras Dra. Daniele de Brito Trindade e Dra. Rosângela Figueiredo Miranda, que, juntamente com a equipe de pesquisadores e extensionistas, fortalecem o protagonismo das comunidades tradicionais e reafirmam o papel da educação como instrumento de transformação social.
                 </p>
             </div>
 
@@ -53,6 +53,23 @@
 
             <div class="projetos-logo-card">
                 <img src="{{ asset('images/Logo/culinaria.png') }}" alt="Logo do projeto Mapeamento Gastronômico">
+            </div>
+        </div>
+    </section>
+
+    <section class="secao projetos-pagina">
+
+        <div class="projetos-destaque">
+            <div class="projetos-texto">
+                <h2>Comunidades Rurais e Tradicionais do Território Sertão Produtivo e seu Ambiente: cultura, identidade e modos de vida</h2>
+                
+                <p>
+                A pesquisa <strong>Comunidades Rurais e Tradicionais do Território Sertão Produtivo e seu Ambiente: cultura, identidade e modos de vida</strong> priorizou a escuta sensível das narrativas orais, especialmente das pessoas mais velhas da comunidade quilombola Lagoa dos Anjos, reconhecidas como guardiãs da memória coletiva. Por meio de entrevistas e registros audiovisuais, o projeto dá visibilidade às histórias de vida, às tradições, às manifestações culturais e às experiências cotidianas, fortalecendo o reconhecimento da oralidade como elemento central na construção da identidade quilombola. O projeto foi desenvolvido no âmbito da Pró-Reitoria de Pesquisa, Inovação e Pós-Graduação (PROPES) do Instituto Federal Baiano, fomentado pelo CNPq e aprovado pelo Comitê de Ética em Pesquisa (parecer nº 7.473.380).
+                </p>
+            </div>
+
+            <div class="projetos-logo-card">
+                <img src="{{ asset('images/Logo/vozes.png') }}" alt="Logo do projeto Mapeamento Gastronômico">
             </div>
         </div>
     </section>

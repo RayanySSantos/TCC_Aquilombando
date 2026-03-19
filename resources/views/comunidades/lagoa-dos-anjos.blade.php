@@ -2,6 +2,7 @@
 
 @section('titulo', 'Comunidade Lagoa dos Anjos')
 @section('nome-comunidade', 'COMUNIDADE LAGOA DOS ANJOS')
+@section('fonte-quilombo', 'Quilombo Lagoa dos Anjos')
 
 @section('conteudo')
 
