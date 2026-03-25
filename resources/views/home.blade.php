@@ -11,7 +11,7 @@
             </p>
 
             <p>
-            No Alto Sertão Produtivo, as comunidades quilombolas mantêm vivas essas tradições por meio da culinária, do artesanato, dos festejos, dos costumes e das práticas agrícolas. A alimentação tradicional destaca-se como uma importante expressão cultural, pois carrega memórias, afetos e saberes transmitidos pela oralidade. É a partir desse contexto que se insere este website, cujo objetivo é valorizar e dar visibilidade às comunidades quilombolas do Sertão Produtivo Baiano, utilizando a tecnologia como ferramenta de registro, preservação e disseminação de seus saberes e histórias. Nesta apresentação, estão reunidas as comunidades de Aroeira (01), Boi (02), Lagoa dos Anjos (03), Passagem de Areia (04), Vargem Alta (05) e Vargem Comprida (06), também identificadas nas imagens ao lado.
+            No Sertão Produtivo, as comunidades quilombolas mantêm vivas essas tradições por meio da culinária, do artesanato, dos festejos, dos costumes e das práticas agrícolas. A alimentação tradicional destaca-se como uma importante expressão cultural, pois carrega memórias, afetos e saberes transmitidos pela oralidade. É a partir desse contexto que se insere este website, cujo objetivo é valorizar e dar visibilidade às comunidades quilombolas do Sertão Produtivo Baiano, utilizando a tecnologia como ferramenta de registro, preservação e disseminação de seus saberes e histórias. Nesta apresentação, estão reunidas as comunidades de Aroeira (01), Boi (02), Lagoa dos Anjos (03), Passagem de Areia (04), Vargem Alta (05) e Vargem Comprida (06), também identificadas nas imagens ao lado.
             </p>
         </div>
 
@@ -43,7 +43,7 @@
                 </div>
             </div>
 
-            <p class="hero-galeria-fonte">Fonte: Projetos Mapeamento Gastronômico; Culinária Ancestral; e Comunidades Rurais e Tradicionais (2025).</p>
+            <p class="hero-galeria-fonte">Fonte: Projetos Mapeamento Gastronômico, Culinária Ancestral e Comunidades Rurais e Tradicionais (2025).</p>
         </div>
     </div>
 </section>
@@ -114,7 +114,7 @@
 <!-- ==================== MAPA DO TERRITÓRIO ==================== -->
 <section class="mapa-section">
     <div class="mapa-cabecalho">
-        <h2 class="mapa-titulo">Território do Alto Sertão Produtivo</h2>
+        <h2 class="mapa-titulo">Território do Sertão Produtivo</h2>
         <p class="mapa-subtitulo">Comunidades quilombolas</p>
     </div>
 

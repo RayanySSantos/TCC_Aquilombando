@@ -1,7 +1,7 @@
 @extends('layouts.comunidade')
 
-@section('titulo', 'Comunidade Vargem Alta')
-@section('nome-comunidade', 'COMUNIDADE VARGEM ALTA')
+@section('titulo', 'Quilombo Vargem Alta')
+@section('nome-comunidade', 'QUILOMBO VARGEM ALTA')
 @section('fonte-quilombo', 'Quilombo Vargem Alta')
 
 @section('conteudo')

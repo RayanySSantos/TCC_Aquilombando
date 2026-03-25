@@ -2,7 +2,7 @@
 <html lang="pt-BR">
     <head>
         <meta charset="UTF-8">
-        <title>Comunidades Quilombolas do Alto Sertão Produtivo Baiano</title>
+        <title>Comunidades Quilombolas do Sertão Produtivo Baiano</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
     
         {{-- CSS GLOBAL --}}
@@ -138,7 +138,7 @@
             <div class="rodape-col">
                 <a href="/"><img src="{{ asset('images/Logo.png') }}" class="rodape-logo" alt="Logo Quilombola"></a>
                 <p class="rodape-descricao">
-                    Projeto de valorização e documentação das Comunidades Quilombolas do Alto Sertão Produtivo Baiano.
+                    Projeto de valorização e documentação das Comunidades Quilombolas do Sertão Produtivo Baiano.
                 </p>
             </div>
     
@@ -166,7 +166,7 @@
         </div>
     
         <div class="rodape-final">
-            © 2025 Comunidades Quilombolas do Alto Sertão Produtivo Baiano. Todos os direitos reservados.
+            © 2025 Comunidades Quilombolas do Sertão Produtivo Baiano. Todos os direitos reservados.
         </div>
     </footer>
     

@@ -49,7 +49,7 @@
                 <div class="historia-foto"><img src="{{ asset('images/Boi/comida/p1.jpeg') }}" alt="Quilombo de Boi 6"></div>
             </div>
             <div class="historia-galeria-fontes">
-                <p class="historia-galeria-fonte">Fonte: Quilombo Vargem Comprida; Projeto Mapeamento Gastronômico (2025).</p>
+                <p class="historia-galeria-fonte">Fonte: Quilombo de Boi; Projeto Mapeamento Gastronômico (2025).</p>
             </div>
         </div>
     </div>

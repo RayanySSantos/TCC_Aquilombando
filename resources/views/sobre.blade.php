@@ -7,7 +7,7 @@
     <section class="secao sobre-intro">
         <h1 class="titulo-pagina">Sobre Nós</h1>
         <p>
-        Este projeto nasceu do desejo de documentar, preservar e divulgar a rica herança cultural das comunidades quilombolas do Alto Sertão Produtivo. Por meio de uma pesquisa participativa, da documentação audiovisual e do trabalho colaborativo com os moradores das comunidades, buscou-se construir um registro abrangente dos saberes e fazeres culinários tradicionais. Esse material tem como finalidade preservar a memória coletiva e atuar como instrumento educativo, possibilitando a transmissão desses conhecimentos às novas gerações e ampliando a visibilidade da cultura quilombola.
+        Este projeto nasceu do desejo de documentar, preservar e divulgar a rica herança cultural das comunidades quilombolas do Sertão Produtivo. Por meio de uma pesquisa participativa, da documentação audiovisual e do trabalho colaborativo com os moradores das comunidades, buscou-se construir um registro abrangente dos saberes e fazeres culinários tradicionais. Esse material tem como finalidade preservar a memória coletiva e atuar como instrumento educativo, possibilitando a transmissão desses conhecimentos às novas gerações e ampliando a visibilidade da cultura quilombola.
         </p>
 
         <p>
@@ -83,7 +83,7 @@
                     <img src="/images/Equipe/Dan.jpeg" alt="Daniela da Silva Aires">
                 </div>
                 <span class="pessoa-nome">Daniela da Silva Aires</span>
-                <span class="pessoa-cargo">Tecnologa em Agroindústria</span>
+                <span class="pessoa-cargo">Tecnóloga em Agroindústria</span>
             </div>
 
             <div class="pessoa">
@@ -91,7 +91,7 @@
                     <img src="/images/Equipe/joao.jpeg" alt="João Vitor Lima Castro Teixeira">
                 </div>
                 <span class="pessoa-nome">João Vitor L. Castro Teixeira</span>
-                <span class="pessoa-cargo">Tecnologo em Analise e Desenvolvimento de Sistemas</span>
+                <span class="pessoa-cargo">Tecnólogo em Análise e Desenvolvimento de Sistemas</span>
             </div>
 
             <div class="pessoa">
@@ -107,7 +107,7 @@
                     <img src="/images/Equipe/Luis.jpeg" alt="Luis Gustavo Cartoso da Silva">
                 </div>
                 <span class="pessoa-nome">Luis Gustavo Cartoso da Silva</span>
-                <span class="pessoa-cargo">Cursando Analise e Desenvolvimento de Sistemas</span>
+                <span class="pessoa-cargo">Cursando Análise e Desenvolvimento de Sistemas</span>
             </div>
 
             <div class="pessoa">
@@ -122,7 +122,7 @@
         </div>
 
         {{-- ================= COLABORADORES EXTERNOS ================= --}}
-        <h3 class="categoria">Colaboradores Externos</h3>
+        <h3 class="categoria">Colaboradores Externos do CESOL (Centro Público de Economia Solidária)</h3>
         <div class="linha-circulos vermelho">
 
             <div class="pessoa">
@@ -130,7 +130,7 @@
                     <img src="/images/Equipe/bianca.jpeg" alt="Bianca de Carvalho Silva">
                 </div>
                 <span class="pessoa-nome">Bianca de Carvalho Silva</span>
-                <span class="pessoa-cargo">Agente Sócio Produtiva</span>
+                <span class="pessoa-cargo">Agente socioprodutiva</span>
             </div>
 
             <div class="pessoa">
@@ -146,7 +146,7 @@
                     <img src="/images/Equipe/ieda.jpeg" alt="Iêda da Silva Guimarães Soares">
                 </div>
                 <span class="pessoa-nome">Iêda da Silva Guimarães Soares</span>
-                <span class="pessoa-cargo">Agente Sócio Produtiva</span>
+                <span class="pessoa-cargo">Agente socioprodutiva</span>
             </div>
 
             <div class="pessoa">
@@ -154,7 +154,7 @@
                     <img src="/images/Equipe/ivone.jpeg" alt="Ivone Donato Neves">
                 </div>
                 <span class="pessoa-nome">Ivone Donato Neves</span>
-                <span class="pessoa-cargo">Agente Sócio Produtiva</span>
+                <span class="pessoa-cargo">Agente socioprodutiva</span>
             </div>
 
             <div class="pessoa">
@@ -162,7 +162,7 @@
                     <img src="/images/Equipe/leile.jpeg" alt="Leiliane Azevêdo Aranha">
                 </div>
                 <span class="pessoa-nome">Leiliane Azevêdo Aranha</span>
-                <span class="pessoa-cargo">Secretária de Cultura, Esporte, Lazer e Turismo do município de Urandi-Ba</span>
+                <span class="pessoa-cargo">Ex-coordenadora do CESOL e secretária de Cultura, Esporte, Lazer e Turismo do município de Urandi-BA</span>
             </div>
 
             <div class="pessoa">
@@ -170,7 +170,7 @@
                     <img src="/images/Equipe/linda.jpeg" alt="Lindaberg da Rocha Macedo">
                 </div>
                 <span class="pessoa-nome">Lindaberg da Rocha Macedo</span>
-                <span class="pessoa-cargo">Agente Sócio Produtiva</span>
+                <span class="pessoa-cargo">Agente socioprodutiva</span>
             </div>
 
             <div class="pessoa">
@@ -178,7 +178,7 @@
                     <img src="/images/Equipe/lucelia.jpeg" alt="Lucélia Amorim da Silva">
                 </div>
                 <span class="pessoa-nome">Lucélia Amorim da Silva</span>
-                <span class="pessoa-cargo">Agente de comercialização </span>
+                <span class="pessoa-cargo">Agente de comercialização</span>
             </div>
 
             <div class="pessoa">
@@ -186,7 +186,7 @@
                     <img src="/images/Equipe/ramon.jpeg" alt="Ramon Lima Silva">
                 </div>
                 <span class="pessoa-nome">Ramon Lima Silva</span>
-                <span class="pessoa-cargo">Coordenador </span>
+                <span class="pessoa-cargo">Coordenador</span>
             </div>
         </div>
 
@@ -280,7 +280,7 @@
             </div>
         </div>
 
-        <h2 class="trabalhos-titulo">Trabalhos desenvolvidos através do projeto Mapeamento Gastronômico</h2>
+        <h2 class="trabalhos-titulo">Trabalhos desenvolvidos por meio do projeto Mapeamento Gastronômico</h2>
 
         <div class="trabalhos-grid">
             <div class="trabalho-card">
