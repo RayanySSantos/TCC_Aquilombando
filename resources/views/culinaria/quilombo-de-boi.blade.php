@@ -35,7 +35,7 @@
                 <div class="culinaria-foto"><span class="culinaria-foto-numero">03</span><img src="{{ asset('images/Boi/comida/p3.jpeg') }}" alt="Quilombo de Boi 3"></div>
                 <div class="culinaria-foto"><span class="culinaria-foto-numero">04</span><img src="{{ asset('images/Boi/comida/p4.jpeg') }}" alt="Quilombo de Boi 4"></div>
             </div>
-            <p class="culinaria-galeria-fonte">Fonte: Projeto Mapeamento Gastronômico, 2025.</p>
+            <p class="culinaria-galeria-fonte">Fonte: Quilombo de Boi; Projeto Mapeamento Gastronômico (2025).</p>
         </div>
     </div>
 </section>

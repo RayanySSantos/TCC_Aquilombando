@@ -26,7 +26,7 @@
                 <div class="artesanato-foto"><img src="{{ asset('images/Passagem/artesanato/a3.jpeg') }}" alt="Passagem de Areia 3"></div>
                 <div class="artesanato-foto"><img src="{{ asset('images/Passagem/artesanato/a2.jpeg') }}" alt="Passagem de Areia 2"></div>
             </div>
-            <p class="artesanato-galeria-fonte">Fonte: Quilombo Passagem de Areia.</p>
+            <p class="artesanato-galeria-fonte">Fonte: Quilombo Passagem de Areia; Projeto Mapeamento Gastronômico (2025).</p>
         </div>
     </div>
 </section>

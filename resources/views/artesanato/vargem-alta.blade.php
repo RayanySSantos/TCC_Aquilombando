@@ -28,7 +28,7 @@
                 <div class="artesanato-foto"><img src="{{ asset('images/Vargem Alta/artesanato/a4.jpeg') }}" alt="Vargem Alta 4"></div>
                 <div class="artesanato-foto"><img src="{{ asset('images/Vargem Alta/artesanato/a5.jpeg') }}" alt="Vargem Alta 5"></div>
             </div>
-            <p class="artesanato-galeria-fonte">Fonte: Quilombo Vargem Alta.</p>
+            <p class="artesanato-galeria-fonte">Fonte: Quilombo Vargem Alta; Projeto Mapeamento Gastronômico (2025).</p>
         </div>
     </div>
 </section>

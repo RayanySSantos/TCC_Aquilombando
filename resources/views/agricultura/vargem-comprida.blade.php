@@ -27,7 +27,7 @@
                 <div class="agricultura-foto"><img src="{{ asset('images/Vargem Comprida/Agricultura/h3.jpeg') }}" alt="Vargem Comprida 3"></div>
                 <div class="agricultura-foto"><img src="{{ asset('images/Vargem Comprida/Agricultura/h4.jpeg') }}" alt="Vargem Comprida 4"></div>
             </div>
-            <p class="agricultura-galeria-fonte">Fonte: Quilombo Vargem Comprida.</p>
+            <p class="agricultura-galeria-fonte">Fonte: Quilombo Vargem Comprida; Projeto Mapeamento Gastronômico (2025).</p>
         </div>
     </div>
 </section>

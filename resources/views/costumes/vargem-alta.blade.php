@@ -29,7 +29,7 @@
                 <div class="costumes-foto"><img src="{{ asset('images/Vargem Alta/festejos/f5.jpeg') }}" alt="Vargem Alta 5"></div>
                 <div class="costumes-foto"><img src="{{ asset('images/Vargem Alta/festejos/f6.jpeg') }}" alt="Vargem Alta 6"></div>
             </div>
-            <p class="costumes-galeria-fonte">Fonte: Quilombo Vargem Alta.</p>
+            <p class="costumes-galeria-fonte">Fonte: Quilombo Vargem Alta; Projeto Mapeamento Gastronômico (2025).</p>
         </div>
     </div>
 </section>

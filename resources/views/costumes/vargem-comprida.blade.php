@@ -29,7 +29,7 @@
                 <div class="costumes-foto"><img src="{{ asset('images/Vargem Comprida/festejos/f5.jpeg') }}" alt="Vargem Comprida 5"></div>
                 <div class="costumes-foto"><img src="{{ asset('images/Vargem Comprida/festejos/f6.jpeg') }}" alt="Vargem Comprida 6"></div>
             </div>
-            <p class="costumes-galeria-fonte">Fonte: Projeto Mapeamento Gastronômico, 2025.</p>
+            <p class="costumes-galeria-fonte">Fonte: Quilombo Vargem Comprida; Projeto Mapeamento Gastronômico (2025).</p>
         </div>
     </div>
 </section>

@@ -41,7 +41,7 @@
                 <div class="culinaria-foto"><span class="culinaria-foto-numero">05</span><img src="{{ asset('images/Vargem Comprida/comida/p5.jpeg') }}" alt="Vargem Comprida 5"></div>
                 <div class="culinaria-foto"><span class="culinaria-foto-numero">06</span><img src="{{ asset('images/Vargem Comprida/comida/p6.jpeg') }}" alt="Vargem Comprida 6"></div>
             </div>
-            <p class="culinaria-galeria-fonte">Fonte: Projeto Mapeamento Gastronômico, 2025.</p>
+            <p class="culinaria-galeria-fonte">Fonte: Quilombo Vargem Comprida; Projeto Mapeamento Gastronômico (2025).</p>
         </div>
     </div>
 </section>

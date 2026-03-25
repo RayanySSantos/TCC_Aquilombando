@@ -26,7 +26,7 @@
                 <div class="artesanato-foto"><img src="{{ asset('images/Aroeira/artesanato/a2.jpeg') }}" alt="Aroeira 2"></div>
                 <div class="artesanato-foto"><img src="{{ asset('images/Aroeira/artesanato/a3.jpeg') }}" alt="Aroeira 3"></div>
             </div>
-            <p class="artesanato-galeria-fonte">Fonte: Quilombo Aroeira.</p>
+                <p class="artesanato-galeria-fonte">Fonte: Quilombo Aroeira; Projetos Mapeamento Gastronômico; Culinária Ancestral; e Comunidades Rurais e Tradicionais (2025).</p>
         </div>
     </div>
 </section>

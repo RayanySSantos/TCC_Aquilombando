@@ -50,8 +50,7 @@
                 <div class="historia-foto"><img src="{{ asset('images/Vargem Alta/comida/p4.jpeg') }}" alt="Vargem Alta 6"></div>
             </div>
             <div class="historia-galeria-fontes">
-                <p class="historia-galeria-fonte">Fonte: Quilombo Vargem Alta.</p>
-                <p class="historia-galeria-fonte">Fonte: Projeto Mapeamento Gastronômico, 2025.</p>
+                <p class="historia-galeria-fonte">Fonte: Quilombo Vargem Alta; Projeto Mapeamento Gastronômico (2025).</p>
             </div>
         </div>
     </div>

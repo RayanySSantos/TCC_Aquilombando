@@ -38,7 +38,7 @@
                 <div class="culinaria-foto"><span class="culinaria-foto-numero">04</span><img src="{{ asset('images/Passagem/comida/p4.jpeg') }}" alt="Passagem de Areia 4"></div>
                 <div class="culinaria-foto"><span class="culinaria-foto-numero">05</span><img src="{{ asset('images/Passagem/comida/p5.jpeg') }}" alt="Passagem de Areia 5"></div>
             </div>
-            <p class="culinaria-galeria-fonte">Fonte: Projeto Mapeamento Gastronômico, 2025.</p>
+            <p class="culinaria-galeria-fonte">Fonte: Quilombo Passagem de Areia; Projeto Mapeamento Gastronômico (2025).</p>
         </div>
     </div>
 </section>

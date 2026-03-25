@@ -41,7 +41,7 @@
                 <div class="culinaria-foto"><span class="culinaria-foto-numero">05</span><img src="{{ asset('images/Lagoa dos Anjos/comida/p5.jpeg') }}" alt="Lagoa dos Anjos 5"></div>
                 <div class="culinaria-foto"><span class="culinaria-foto-numero">06</span><img src="{{ asset('images/Lagoa dos Anjos/comida/p6.jpeg') }}" alt="Lagoa dos Anjos 6"></div>
             </div>
-            <p class="culinaria-galeria-fonte">Fonte: Projeto Mapeamento Gastronômico, 2025.</p>
+                <p class="culinaria-galeria-fonte">Fonte: Quilombo Lagoa dos Anjos; Projetos Mapeamento Gastronômico; Culinária Ancestral; e Comunidades Rurais e Tradicionais (2025).</p>
         </div>
     </div>
 </section>

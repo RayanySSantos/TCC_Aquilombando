@@ -50,8 +50,7 @@
                 <div class="historia-foto"><img src="{{ asset('images/Vargem Comprida/comida/p7.jpeg') }}" alt="Vargem Comprida 6"></div>
             </div>
             <div class="historia-galeria-fontes">
-                <p class="historia-galeria-fonte">Fonte: Quilombo Vargem Comprida.</p>
-                <p class="historia-galeria-fonte">Fonte: Projeto Mapeamento Gastronômico, 2025.</p>
+                <p class="historia-galeria-fonte">Fonte: Quilombo Vargem Comprida; Projeto Mapeamento Gastronômico (2025).</p>
             </div>
         </div>
     </div>

@@ -48,8 +48,7 @@
                 <div class="historia-foto"><img src="{{ asset('images/Aroeira/comida/p7.jpg') }}" alt="Aroeira 6"></div>
             </div>
             <div class="historia-galeria-fontes">
-                <p class="historia-galeria-fonte">Fonte: Quilombo Aroeira.</p>
-                <p class="historia-galeria-fonte">Fonte: Projeto Mapeamento Gastronômico, 2025.</p>
+                <p class="historia-galeria-fonte">Fonte: Quilombo Aroeira; Projetos Mapeamento Gastronômico; Culinária Ancestral; e Comunidades Rurais e Tradicionais (2025).</p>
             </div>
         </div>
     </div>

@@ -43,7 +43,7 @@
                 </div>
             </div>
 
-            <p class="hero-galeria-fonte">Fonte: Projeto Mapeamento Gastronômico, 2025.</p>
+            <p class="hero-galeria-fonte">Fonte: Projetos Mapeamento Gastronômico; Culinária Ancestral; e Comunidades Rurais e Tradicionais (2025).</p>
         </div>
     </div>
 </section>

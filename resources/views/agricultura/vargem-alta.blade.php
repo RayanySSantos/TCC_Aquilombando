@@ -27,7 +27,7 @@
                 <div class="agricultura-foto"><img src="{{ asset('images/Vargem Alta/Agricultura/h3.jpeg') }}" alt="Vargem Alta 3"></div>
                 <div class="agricultura-foto"><img src="{{ asset('images/Vargem Alta/Agricultura/h4.jpeg') }}" alt="Vargem Alta 4"></div>
             </div>
-            <p class="agricultura-galeria-fonte">Fonte: Quilombo Vargem Alta.</p>
+            <p class="agricultura-galeria-fonte">Fonte: Quilombo Vargem Alta; Projeto Mapeamento Gastronômico (2025).</p>
         </div>
     </div>
 </section>

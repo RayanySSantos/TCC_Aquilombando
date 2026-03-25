@@ -29,7 +29,7 @@
                 <div class="artesanato-foto"><img src="{{ asset('images/Boi/artesanato/a5.jpeg') }}" alt="Quilombo de Boi 5"></div>
                 <div class="artesanato-foto"><img src="{{ asset('images/Boi/artesanato/a6.jpeg') }}" alt="Quilombo de Boi 6"></div>
             </div>
-            <p class="artesanato-galeria-fonte">Fonte: Quilombo de Boi.</p>
+            <p class="artesanato-galeria-fonte">Fonte: Quilombo de Boi; Projeto Mapeamento Gastronômico (2025).</p>
         </div>
     </div>
 </section>

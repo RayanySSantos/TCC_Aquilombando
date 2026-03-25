@@ -25,7 +25,7 @@
                 <div class="costumes-foto"><img src="{{ asset('images/Passagem/festejos/f1.jpeg') }}" alt="Passagem de Areia 1"></div>
                 <div class="costumes-foto"><img src="{{ asset('images/Passagem/festejos/f2.jpeg') }}" alt="Passagem de Areia 2"></div>
             </div>
-            <p class="costumes-galeria-fonte">Fonte: Quilombo Passagem de Areia.</p>
+            <p class="costumes-galeria-fonte">Fonte: Quilombo Passagem de Areia; Projeto Mapeamento Gastronômico (2025).</p>
         </div>
     </div>
 </section>

@@ -29,7 +29,7 @@
                 <div class="artesanato-foto"><img src="{{ asset('images/Vargem Comprida/Artesanato/a5.jpeg') }}" alt="Vargem Comprida 5"></div>
                 <div class="artesanato-foto"><img src="{{ asset('images/Vargem Comprida/Artesanato/a6.jpeg') }}" alt="Vargem Comprida 6"></div>
             </div>
-            <p class="artesanato-galeria-fonte">Fonte: Quilombo Vargem Comprida.</p>
+            <p class="artesanato-galeria-fonte">Fonte: Quilombo Vargem Comprida; Projeto Mapeamento Gastronômico (2025).</p>
         </div>
     </div>
 </section>

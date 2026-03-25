@@ -41,7 +41,7 @@
                 <div class="culinaria-foto"><span class="culinaria-foto-numero">05</span><img src="{{ asset('images/Aroeira/comida/p9.png') }}" alt="Aroeira 5"></div>
                 <div class="culinaria-foto"><span class="culinaria-foto-numero">06</span><img src="{{ asset('images/Aroeira/comida/p6.jpg') }}" alt="Aroeira 6"></div>
             </div>
-            <p class="culinaria-galeria-fonte">Fonte: Projeto Mapeamento Gastronômico, 2025.</p>
+                <p class="culinaria-galeria-fonte">Fonte: Quilombo Aroeira; Projetos Mapeamento Gastronômico; Culinária Ancestral; e Comunidades Rurais e Tradicionais (2025).</p>
         </div>
     </div>
 </section>

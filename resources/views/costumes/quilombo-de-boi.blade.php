@@ -29,7 +29,7 @@
                 <div class="costumes-foto"><img src="{{ asset('images/Boi/festejos/f5.jpeg') }}" alt="Quilombo de Boi 5"></div>
                 <div class="costumes-foto"><img src="{{ asset('images/Boi/festejos/f6.jpeg') }}" alt="Quilombo de Boi 6"></div>
             </div>
-            <p class="costumes-galeria-fonte">Fonte: Quilombo de Boi.</p>
+            <p class="costumes-galeria-fonte">Fonte: Quilombo de Boi; Projeto Mapeamento Gastronômico (2025).</p>
         </div>
     </div>
 </section>

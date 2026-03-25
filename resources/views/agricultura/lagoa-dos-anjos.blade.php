@@ -27,7 +27,7 @@
                 <div class="agricultura-foto"><img src="{{ asset('images/Lagoa dos Anjos/Agricultura/h3.jpeg') }}" alt="Lagoa dos Anjos 3"></div>
                 <div class="agricultura-foto"><img src="{{ asset('images/Lagoa dos Anjos/Agricultura/h4.jpeg') }}" alt="Lagoa dos Anjos 4"></div>
             </div>
-            <p class="agricultura-galeria-fonte">Fonte: Quilombo Lagoa dos Anjos.</p>
+                <p class="agricultura-galeria-fonte">Fonte: Quilombo Lagoa dos Anjos; Projetos Mapeamento Gastronômico; Culinária Ancestral; e Comunidades Rurais e Tradicionais (2025).</p>
         </div>
     </div>
 </section>
