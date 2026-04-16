@@ -298,26 +298,53 @@
         </div>
 
         <div class="carrossel-pequeno">
-            <div class="tres-imagens">
-        
-                <img src="{{ asset('images/Passagem/guardia/g1.JPG') }}">
-                <img src="{{ asset('images/Passagem/guardia/g2.JPG') }}">
-                <img src="{{ asset('images/Passagem/guardia/g3.jpeg') }}">
-                <img src="{{ asset('images/Passagem/guardia/g4.jpeg') }}">
-                <img src="{{ asset('images/Passagem/guardia/g5.jpeg') }}">
-                <img src="{{ asset('images/Passagem/guardia/g6.jpeg') }}">
-                <img src="{{ asset('images/Passagem/guardia/g7.jpeg') }}">
-        
+            <div class="tres-imagens guardioes-enumeradas">
+
+                <figure class="guardiao-item">
+                    <span class="guardiao-numero">1</span>
+                    <img src="{{ asset('images/Passagem/guardia/g1.JPG') }}" alt="Guardiões da memória - imagem 1">
+                </figure>
+                <figure class="guardiao-item">
+                    <span class="guardiao-numero">2</span>
+                    <img src="{{ asset('images/Passagem/guardia/g2.JPG') }}" alt="Guardiões da memória - imagem 2">
+                </figure>
+                <figure class="guardiao-item">
+                    <span class="guardiao-numero">3</span>
+                    <img src="{{ asset('images/Passagem/guardia/g3.jpeg') }}" alt="Guardiões da memória - imagem 3">
+                </figure>
+                <figure class="guardiao-item">
+                    <span class="guardiao-numero">4</span>
+                    <img src="{{ asset('images/Passagem/guardia/g5.jpeg') }}" alt="Guardiões da memória - imagem 4">
+                </figure>
+                <figure class="guardiao-item">
+                    <span class="guardiao-numero">5</span>
+                    <img src="{{ asset('images/Passagem/guardia/g8.jpeg') }}" alt="Guardiões da memória - imagem 5">
+                </figure>
+
                 <!-- loop -->
-                <img src="{{ asset('images/Passagem/guardia/g1.JPG') }}">
-                <img src="{{ asset('images/Passagem/guardia/g2.JPG') }}">
-                <img src="{{ asset('images/Passagem/guardia/g3.jpeg') }}">
-                <img src="{{ asset('images/Passagem/guardia/g4.jpeg') }}">
-                <img src="{{ asset('images/Passagem/guardia/g5.jpeg') }}">
-                <img src="{{ asset('images/Passagem/guardia/g6.jpeg') }}">
-                <img src="{{ asset('images/Passagem/guardia/g7.jpeg') }}">
-        
+                <figure class="guardiao-item">
+                    <span class="guardiao-numero">1</span>
+                    <img src="{{ asset('images/Passagem/guardia/g1.JPG') }}" alt="Guardiões da memória - imagem 1">
+                </figure>
+                <figure class="guardiao-item">
+                    <span class="guardiao-numero">2</span>
+                    <img src="{{ asset('images/Passagem/guardia/g2.JPG') }}" alt="Guardiões da memória - imagem 2">
+                </figure>
+                <figure class="guardiao-item">
+                    <span class="guardiao-numero">3</span>
+                    <img src="{{ asset('images/Passagem/guardia/g3.jpeg') }}" alt="Guardiões da memória - imagem 3">
+                </figure>
+                <figure class="guardiao-item">
+                    <span class="guardiao-numero">4</span>
+                    <img src="{{ asset('images/Passagem/guardia/g5.jpeg') }}" alt="Guardiões da memória - imagem 4">
+                </figure>
+                <figure class="guardiao-item">
+                    <span class="guardiao-numero">5</span>
+                    <img src="{{ asset('images/Passagem/guardia/g8.jpeg') }}" alt="Guardiões da memória - imagem 5">
+                </figure>
+
             </div>
+
         </div>
         
 

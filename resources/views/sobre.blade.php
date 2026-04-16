@@ -75,7 +75,7 @@
         <h2 class="subtitulo">Nossos Voluntários</h2>
 
         {{-- ================= DISCENTES ================= --}}
-        <h3 class="categoria">Discentes</h3>
+        <h3 class="categoria">Discentes do IF Baiano Campus Guanambi</h3>
         <div class="linha-circulos amarelo">
 
             <div class="pessoa">

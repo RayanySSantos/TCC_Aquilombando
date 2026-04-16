@@ -345,32 +345,53 @@
         </div>
 
         <div class="carrossel-pequeno">
-            <div class="tres-imagens">
-        
-                <img src="{{ asset('images/Boi/guardia/g1.jpeg') }}">
-                <img src="{{ asset('images/Boi/guardia/g2.jpeg') }}">
-                <img src="{{ asset('images/Boi/guardia/g3.jpeg') }}">
-                <img src="{{ asset('images/Boi/guardia/g4.jpeg') }}">
-                <img src="{{ asset('images/Boi/guardia/g5.jpeg') }}">
-                <img src="{{ asset('images/Boi/guardia/g6.jpeg') }}">
-                <img src="{{ asset('images/Boi/guardia/g7.jpeg') }}">
-                <img src="{{ asset('images/Boi/guardia/g8.jpeg') }}">
-                <img src="{{ asset('images/Boi/guardia/g9.jpeg') }}">
-                <img src="{{ asset('images/Boi/guardia/g10.jpeg') }}">
-        
+            <div class="tres-imagens guardioes-enumeradas">
+
+                <figure class="guardiao-item">
+                    <span class="guardiao-numero">1</span>
+                    <img src="{{ asset('images/Boi/guardia/g5.jpeg') }}" alt="Guardiões da memória - imagem 1">
+                </figure>
+                <figure class="guardiao-item">
+                    <span class="guardiao-numero">2</span>
+                    <img src="{{ asset('images/Boi/guardia/g6.jpeg') }}" alt="Guardiões da memória - imagem 2">
+                </figure>
+                <figure class="guardiao-item">
+                    <span class="guardiao-numero">3</span>
+                    <img src="{{ asset('images/Boi/guardia/g7.jpeg') }}" alt="Guardiões da memória - imagem 3">
+                </figure>
+                <figure class="guardiao-item">
+                    <span class="guardiao-numero">4</span>
+                    <img src="{{ asset('images/Boi/guardia/g9.jpeg') }}" alt="Guardiões da memória - imagem 4">
+                </figure>
+                <figure class="guardiao-item">
+                    <span class="guardiao-numero">5</span>
+                    <img src="{{ asset('images/Boi/guardia/g10.jpeg') }}" alt="Guardiões da memória - imagem 5">
+                </figure>
+
                 <!-- loop -->
-                <img src="{{ asset('images/Boi/guardia/g1.jpeg') }}">
-                <img src="{{ asset('images/Boi/guardia/g2.jpeg') }}">
-                <img src="{{ asset('images/Boi/guardia/g3.jpeg') }}">
-                <img src="{{ asset('images/Boi/guardia/g4.jpeg') }}">
-                <img src="{{ asset('images/Boi/guardia/g5.jpeg') }}">
-                <img src="{{ asset('images/Boi/guardia/g6.jpeg') }}">
-                <img src="{{ asset('images/Boi/guardia/g7.jpeg') }}">
-                <img src="{{ asset('images/Boi/guardia/g8.jpeg') }}">
-                <img src="{{ asset('images/Boi/guardia/g9.jpeg') }}">
-                <img src="{{ asset('images/Boi/guardia/g10.jpeg') }}">
-        
+                <figure class="guardiao-item">
+                    <span class="guardiao-numero">1</span>
+                    <img src="{{ asset('images/Boi/guardia/g5.jpeg') }}" alt="Guardiões da memória - imagem 1">
+                </figure>
+                <figure class="guardiao-item">
+                    <span class="guardiao-numero">2</span>
+                    <img src="{{ asset('images/Boi/guardia/g6.jpeg') }}" alt="Guardiões da memória - imagem 2">
+                </figure>
+                <figure class="guardiao-item">
+                    <span class="guardiao-numero">3</span>
+                    <img src="{{ asset('images/Boi/guardia/g7.jpeg') }}" alt="Guardiões da memória - imagem 3">
+                </figure>
+                <figure class="guardiao-item">
+                    <span class="guardiao-numero">4</span>
+                    <img src="{{ asset('images/Boi/guardia/g9.jpeg') }}" alt="Guardiões da memória - imagem 4">
+                </figure>
+                <figure class="guardiao-item">
+                    <span class="guardiao-numero">5</span>
+                    <img src="{{ asset('images/Boi/guardia/g10.jpeg') }}" alt="Guardiões da memória - imagem 5">
+                </figure>
+
             </div>
+
         </div>        
 
     </section>

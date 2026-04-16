@@ -301,36 +301,85 @@
         </div>
 
         <div class="carrossel-pequeno">
-            <div class="tres-imagens">
-        
-                <img src="{{ asset('images/Lagoa dos Anjos/guardia/g1.jpeg') }}">
-                <img src="{{ asset('images/Lagoa dos Anjos/guardia/g2.jpeg') }}">
-                <img src="{{ asset('images/Lagoa dos Anjos/guardia/g3.jpeg') }}">
-                <img src="{{ asset('images/Lagoa dos Anjos/guardia/g4.jpeg') }}">
-                <img src="{{ asset('images/Lagoa dos Anjos/guardia/g5.jpeg') }}">
-                <img src="{{ asset('images/Lagoa dos Anjos/guardia/g6.jpeg') }}">
-                <img src="{{ asset('images/Lagoa dos Anjos/guardia/g7.jpeg') }}">
-                <img src="{{ asset('images/Lagoa dos Anjos/guardia/g8.jpeg') }}">
-                <img src="{{ asset('images/Lagoa dos Anjos/guardia/g9.jpeg') }}">
-                <img src="{{ asset('images/Lagoa dos Anjos/guardia/g10.jpeg') }}">
-                <img src="{{ asset('images/Lagoa dos Anjos/guardia/g11.jpg') }}">
-                <img src="{{ asset('images/Lagoa dos Anjos/guardia/g12.jpg') }}">
-        
+            <div class="tres-imagens guardioes-enumeradas">
+
+                <figure class="guardiao-item">
+                    <span class="guardiao-numero">1</span>
+                    <img src="{{ asset('images/Lagoa dos Anjos/guardia/g1.jpeg') }}" alt="Guardiões da memória - imagem 1">
+                </figure>
+                <figure class="guardiao-item">
+                    <span class="guardiao-numero">2</span>
+                    <img src="{{ asset('images/Lagoa dos Anjos/guardia/g4.jpeg') }}" alt="Guardiões da memória - imagem 2">
+                </figure>
+                <figure class="guardiao-item">
+                    <span class="guardiao-numero">3</span>
+                    <img src="{{ asset('images/Lagoa dos Anjos/guardia/g5.jpeg') }}" alt="Guardiões da memória - imagem 3">
+                </figure>
+                <figure class="guardiao-item">
+                    <span class="guardiao-numero">4</span>
+                    <img src="{{ asset('images/Lagoa dos Anjos/guardia/g7.jpeg') }}" alt="Guardiões da memória - imagem 4">
+                </figure>
+                <figure class="guardiao-item">
+                    <span class="guardiao-numero">5</span>
+                    <img src="{{ asset('images/Lagoa dos Anjos/guardia/g8.jpeg') }}" alt="Guardiões da memória - imagem 5">
+                </figure>
+                <figure class="guardiao-item">
+                    <span class="guardiao-numero">6</span>
+                    <img src="{{ asset('images/Lagoa dos Anjos/guardia/g9.jpeg') }}" alt="Guardiões da memória - imagem 6">
+                </figure>
+                <figure class="guardiao-item">
+                    <span class="guardiao-numero">7</span>
+                    <img src="{{ asset('images/Lagoa dos Anjos/guardia/g10.jpeg') }}" alt="Guardiões da memória - imagem 7">
+                </figure>
+                <figure class="guardiao-item">
+                    <span class="guardiao-numero">8</span>
+                    <img src="{{ asset('images/Lagoa dos Anjos/guardia/g11.jpg') }}" alt="Guardiões da memória - imagem 8">
+                </figure>
+                <figure class="guardiao-item">
+                    <span class="guardiao-numero">9</span>
+                    <img src="{{ asset('images/Lagoa dos Anjos/guardia/g12.jpg') }}" alt="Guardiões da memória - imagem 9">
+                </figure>
+
                 <!-- loop -->
-                <img src="{{ asset('images/Lagoa dos Anjos/guardia/g1.jpeg') }}">
-                <img src="{{ asset('images/Lagoa dos Anjos/guardia/g2.jpeg') }}">
-                <img src="{{ asset('images/Lagoa dos Anjos/guardia/g3.jpeg') }}">
-                <img src="{{ asset('images/Lagoa dos Anjos/guardia/g4.jpeg') }}">
-                <img src="{{ asset('images/Lagoa dos Anjos/guardia/g5.jpeg') }}">
-                <img src="{{ asset('images/Lagoa dos Anjos/guardia/g6.jpeg') }}">
-                <img src="{{ asset('images/Lagoa dos Anjos/guardia/g7.jpeg') }}">
-                <img src="{{ asset('images/Lagoa dos Anjos/guardia/g8.jpeg') }}">
-                <img src="{{ asset('images/Lagoa dos Anjos/guardia/g9.jpeg') }}">
-                <img src="{{ asset('images/Lagoa dos Anjos/guardia/g10.jpeg') }}">
-                <img src="{{ asset('images/Lagoa dos Anjos/guardia/g11.jpg') }}">
-                <img src="{{ asset('images/Lagoa dos Anjos/guardia/g12.jpg') }}">
-        
+                <figure class="guardiao-item">
+                    <span class="guardiao-numero">1</span>
+                    <img src="{{ asset('images/Lagoa dos Anjos/guardia/g1.jpeg') }}" alt="Guardiões da memória - imagem 1">
+                </figure>
+                <figure class="guardiao-item">
+                    <span class="guardiao-numero">2</span>
+                    <img src="{{ asset('images/Lagoa dos Anjos/guardia/g4.jpeg') }}" alt="Guardiões da memória - imagem 2">
+                </figure>
+                <figure class="guardiao-item">
+                    <span class="guardiao-numero">3</span>
+                    <img src="{{ asset('images/Lagoa dos Anjos/guardia/g5.jpeg') }}" alt="Guardiões da memória - imagem 3">
+                </figure>
+                <figure class="guardiao-item">
+                    <span class="guardiao-numero">4</span>
+                    <img src="{{ asset('images/Lagoa dos Anjos/guardia/g7.jpeg') }}" alt="Guardiões da memória - imagem 4">
+                </figure>
+                <figure class="guardiao-item">
+                    <span class="guardiao-numero">5</span>
+                    <img src="{{ asset('images/Lagoa dos Anjos/guardia/g8.jpeg') }}" alt="Guardiões da memória - imagem 5">
+                </figure>
+                <figure class="guardiao-item">
+                    <span class="guardiao-numero">6</span>
+                    <img src="{{ asset('images/Lagoa dos Anjos/guardia/g9.jpeg') }}" alt="Guardiões da memória - imagem 6">
+                </figure>
+                <figure class="guardiao-item">
+                    <span class="guardiao-numero">7</span>
+                    <img src="{{ asset('images/Lagoa dos Anjos/guardia/g10.jpeg') }}" alt="Guardiões da memória - imagem 7">
+                </figure>
+                <figure class="guardiao-item">
+                    <span class="guardiao-numero">8</span>
+                    <img src="{{ asset('images/Lagoa dos Anjos/guardia/g11.jpg') }}" alt="Guardiões da memória - imagem 8">
+                </figure>
+                <figure class="guardiao-item">
+                    <span class="guardiao-numero">9</span>
+                    <img src="{{ asset('images/Lagoa dos Anjos/guardia/g12.jpg') }}" alt="Guardiões da memória - imagem 9">
+                </figure>
+
             </div>
+
         </div>
         
 

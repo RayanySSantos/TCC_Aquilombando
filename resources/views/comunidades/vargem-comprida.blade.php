@@ -356,29 +356,61 @@
         </div>
 
         <div class="carrossel-pequeno">
-            <div class="tres-imagens">
-        
-                <!-- GUARDIÕES – VARGEM COMPRIDA -->
-                <img src="{{ asset('images/Vargem Comprida/guardia/g1.jpeg') }}">
-                <img src="{{ asset('images/Vargem Comprida/guardia/g2.jpeg') }}">
-                <img src="{{ asset('images/Vargem Comprida/guardia/g3.jpeg') }}">
-                <img src="{{ asset('images/Vargem Comprida/guardia/g4.jpeg') }}">
-                <img src="{{ asset('images/Vargem Comprida/guardia/g5.jpeg') }}">
-                <img src="{{ asset('images/Vargem Comprida/guardia/g6.jpeg') }}">
-                <img src="{{ asset('images/Vargem Comprida/guardia/g7.jpeg') }}">
-                <img src="{{ asset('images/Vargem Comprida/guardia/g8.jpeg') }}">
-        
+            <div class="tres-imagens guardioes-enumeradas">
+
+                <figure class="guardiao-item">
+                    <span class="guardiao-numero">1</span>
+                    <img src="{{ asset('images/Vargem Comprida/guardia/g1w.jpeg') }}" alt="Guardiões da memória - imagem 1">
+                </figure>
+                <figure class="guardiao-item">
+                    <span class="guardiao-numero">2</span>
+                    <img src="{{ asset('images/Vargem Comprida/guardia/g3.jpeg') }}" alt="Guardiões da memória - imagem 2">
+                </figure>
+                <figure class="guardiao-item">
+                    <span class="guardiao-numero">3</span>
+                    <img src="{{ asset('images/Vargem Comprida/guardia/g4.jpeg') }}" alt="Guardiões da memória - imagem 3">
+                </figure>
+                <figure class="guardiao-item">
+                    <span class="guardiao-numero">4</span>
+                    <img src="{{ asset('images/Vargem Comprida/guardia/g5.jpeg') }}" alt="Guardiões da memória - imagem 4">
+                </figure>
+                <figure class="guardiao-item">
+                    <span class="guardiao-numero">5</span>
+                    <img src="{{ asset('images/Vargem Comprida/guardia/g7.jpeg') }}" alt="Guardiões da memória - imagem 5">
+                </figure>
+                <figure class="guardiao-item">
+                    <span class="guardiao-numero">6</span>
+                    <img src="{{ asset('images/Vargem Comprida/guardia/g8.jpeg') }}" alt="Guardiões da memória - imagem 6">
+                </figure>
+
                 <!-- DUPLICAÇÃO PARA LOOP INFINITO -->
-                <img src="{{ asset('images/Vargem Comprida/guardia/g1.jpeg') }}">
-                <img src="{{ asset('images/Vargem Comprida/guardia/g2.jpeg') }}">
-                <img src="{{ asset('images/Vargem Comprida/guardia/g3.jpeg') }}">
-                <img src="{{ asset('images/Vargem Comprida/guardia/g4.jpeg') }}">
-                <img src="{{ asset('images/Vargem Comprida/guardia/g5.jpeg') }}">
-                <img src="{{ asset('images/Vargem Comprida/guardia/g6.jpeg') }}">
-                <img src="{{ asset('images/Vargem Comprida/guardia/g7.jpeg') }}">
-                <img src="{{ asset('images/Vargem Comprida/guardia/g8.jpeg') }}">
-        
+                <figure class="guardiao-item">
+                    <span class="guardiao-numero">1</span>
+                    <img src="{{ asset('images/Vargem Comprida/guardia/g1.jpeg') }}" alt="Guardiões da memória - imagem 1">
+                </figure>
+                <figure class="guardiao-item">
+                    <span class="guardiao-numero">2</span>
+                    <img src="{{ asset('images/Vargem Comprida/guardia/g3.jpeg') }}" alt="Guardiões da memória - imagem 2">
+                </figure>
+                <figure class="guardiao-item">
+                    <span class="guardiao-numero">3</span>
+                    <img src="{{ asset('images/Vargem Comprida/guardia/g4.jpeg') }}" alt="Guardiões da memória - imagem 3">
+                </figure>
+                <figure class="guardiao-item">
+                    <span class="guardiao-numero">4</span>
+                    <img src="{{ asset('images/Vargem Comprida/guardia/g5.jpeg') }}" alt="Guardiões da memória - imagem 4">
+                </figure>
+                <figure class="guardiao-item">
+                    <span class="guardiao-numero">5</span>
+                    <img src="{{ asset('images/Vargem Comprida/guardia/g7.jpeg') }}" alt="Guardiões da memória - imagem 5">
+                </figure>
+                <figure class="guardiao-item">
+                    <span class="guardiao-numero">6</span>
+                    <img src="{{ asset('images/Vargem Comprida/guardia/g8.jpeg') }}" alt="Guardiões da memória - imagem 6">
+                </figure>
+
             </div>
+
         </div>        
 
     </section>
