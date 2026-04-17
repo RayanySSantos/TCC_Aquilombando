@@ -334,24 +334,11 @@
         <div class="linha-principal">
             <div class="texto">
                 <h2>👵 Guardiões da Memória</h2>
-                <p>A Comunidade Quilombola de Vargem Comprida mantém viva sua história por meio da força coletiva e, especialmente,
-                    do protagonismo das mulheres, que transmitem saberes, práticas culinárias, tradições e afetos entre gerações.
-                    É no cotidiano, entre o cultivo da terra, a preparação dos alimentos e os momentos de partilha, que a memória
-                    ancestral se renova e a identidade quilombola se fortalece.
-                </p>
+                <p>A Comunidade Quilombola de Vargem Comprida mantém viva sua história por meio da força coletiva e, especialmente, do protagonismo das mulheres, que transmitem saberes, práticas culinárias, tradições e afetos entre gerações. É no cotidiano, entre o cultivo da terra, a preparação dos alimentos e os momentos de partilha, que a memória ancestral se renova e a identidade quilombola se fortalece. Entre essas figuras, destacam-se (1) Maria Madalena de Oliveira Lima, 73 anos, Silvalina Maria de Oliveira, 90 anos, e Maria Helena de Oliveira Brito, 59 anos, referências de vivência, tradição e resistência cultural, representando a continuidade dos saberes transmitidos entre gerações na comunidade.</p>
 
-                <p>Entre essas mulheres, destacam-se Maria Elza Cândido de Oliveira, 61 anos, que aprendeu a cozinhar com a mãe e preserva
-                    os sabores tradicionais da comunidade por meio da culinária e da agricultura familiar; Maísa de Oliveira Brito, 29 anos,
-                    que se dedica ao preparo do requeijão e da farofa de gergelim, receitas carregadas de memória e ancestralidade;
-                    e Adriana Maria de Oliveira Brito, 32 anos, que associa a culinária à alegria, à vida comunitária e às celebrações coletivas.
-                    Cada uma delas atua como guardiã dos saberes culinários, mantendo viva a tradição por meio da oralidade e da prática cotidiana.
-                 </p>
+                <p>Também se destacam (2) Maria Helena de Oliveira Brito, 59 anos, moradora da Comunidade Quilombola de Vargem Comprida desde o nascimento, cuja principal ocupação é a agricultura familiar, contribuindo para a preservação do modo de vida tradicional; (3) Maísa de Oliveira Brito, 29 anos, que aprendeu a cozinhar observando a mãe e mantém forte ligação com a culinária tradicional, especialmente no preparo do requeijão e da farofa de gergelim; e (4) Maria Elza Cândido de Oliveira, 61 anos, amante da culinária quilombola, que aprendeu a cozinhar com a mãe e atua na agricultura familiar ao lado da família, fortalecendo os laços culturais e comunitários.</p>
 
-                 <p>Assim, Vargem Comprida se afirma como um território de resistência cultural, onde memória, trabalho e coletividade se entrelaçam.
-                    Esta cartilha constitui mais que um registro: é um testemunho da força cultural da comunidade e da importância de valorizar os
-                    saberes e fazeres tradicionais, garantindo que esses conhecimentos continuem sendo transmitidos às futuras gerações como parte
-                    fundamental da cultura quilombola e da história brasileira.
-                 </p>
+                <p>Somam-se a essas guardiãs da memória (5) Raimunda Lopes de Oliveira Brito, 46 anos, mulher preta, católica e moradora da comunidade desde o nascimento, que se dedica ao artesanato desde a infância, preservando práticas manuais e culturais tradicionais; e (6) Adriana Maria de Oliveira Brito, 32 anos, que associa a culinária à alegria e à vida comunitária, destacando-se na preparação de alimentos durante as festas de São João e nas celebrações do padroeiro. Assim, Vargem Comprida se afirma como um território de resistência cultural, onde memória, trabalho e coletividade se entrelaçam, reafirmando a importância de valorizar e transmitir os saberes tradicionais às futuras gerações.</p>
             </div>
         </div>
 

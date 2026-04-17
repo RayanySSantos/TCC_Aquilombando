@@ -322,24 +322,11 @@
         <div class="linha-principal">
             <div class="texto">
                 <h2>👵 Guardiões da Memória</h2>
-                <p>A Comunidade Quilombola de Boi é formada por homens e mulheres que atuam como verdadeiros guardiões da memória, da cultura e dos saberes
-                    ancestrais do território. No cotidiano, essas pessoas assumem a responsabilidade de preservar e transmitir práticas tradicionais ligadas à
-                    agricultura, ao artesanato, à culinária e às manifestações culturais, garantindo a continuidade da identidade quilombola. Cada participante
-                    da pesquisa contribuiu de forma singular para registrar e valorizar esses conhecimentos, evidenciando o papel fundamental dos indivíduos
-                    comprometidos com a memória coletiva.
-                </p>
+                <p>A Comunidade Quilombola de Boi é formada por homens e mulheres que atuam como verdadeiros guardiões da memória, da cultura e dos saberes ancestrais do território. No cotidiano, essas pessoas assumem a responsabilidade de preservar e transmitir práticas tradicionais ligadas à agricultura, ao artesanato, à culinária e às manifestações culturais, garantindo a continuidade da identidade quilombola. Entre esses guardiões destacam-se (1) Ednalva Moreira Santos, 39 anos, moradora da comunidade desde o nascimento, que cultiva o amor pela culinária tradicional, aprendida e transmitida entre gerações; (2) Nelsulino Lima Neres Santana, 78 anos, participante ativo do reisado, tocando e cantando, mantendo vivas as manifestações culturais e musicais; e (3) Lindauva Moraes Rodrigues, 53 anos, agricultora familiar que vive há mais de três décadas na comunidade, contribuindo para a preservação do modo de vida tradicional.</p>
 
-                <p>Entre esses guardiões destacam-se Alessandra Pereira de Souza Moreira, de 38 anos, moradora nativa da comunidade, que atua na agricultura,
-                    no artesanato e preserva os saberes culinários tradicionais; Lidinalva Rodrigues dos Santos Souza, de 42 anos, residente há cerca de cinco anos,
-                    dedicada à agricultura familiar; e Lindauva Moraes Rodrigues, de 53 anos, agricultora familiar que vive há mais de três décadas na comunidade,
-                    contribuindo para a manutenção do modo de vida tradicional e dos saberes ligados à terra.
-                </p>
+                <p>Também se destacam (4) Alessandra Pereira de Souza Moreira, 38 anos, moradora nativa, mulher preta e católica, que atua na agricultura e no artesanato, contribuindo para a preservação da cultura local; (5) Lidinalva Rodrigues dos Santos Souza, 42 anos, residente há cerca de cinco anos, cuja principal ocupação é a agricultura, atividade que fortalece a conexão com a terra e a subsistência das famílias; e (6) Jorge Souza Carvalho, 40 anos, agricultor familiar que aprendeu desde a infância o trabalho com a terra ao lado dos pais, mantendo vivas as práticas agrícolas tradicionais.</p>
 
-                <p>Também exercem papel importante na preservação cultural Angelica Lima Alves Santana, de 29 anos, que mantém viva a tradição artesanal por meio
-                    do crochê e da confecção de chapéus com fibra de bananeira; Marlene Neves dos Santos de Jesus, de 44 anos, dedicada à produção de flores e cestas
-                    com palha de milho; e Nelso Lima Neves Santana, de 78 anos, participante ativo do reisado, tocando e cantando. Juntos, esses moradores asseguram
-                    que os saberes, a música, o trabalho e a fé continuem sendo transmitidos às novas gerações, fortalecendo a identidade quilombola da Comunidade de Boi.
-                </p>
+                <p>Somam-se a esses guardiões da memória (7) Edmilson Moreira Santos, 29 anos, agricultor e atual liderança da Comunidade Quilombola de Boi, que participa ativamente das atividades agrícolas e organizativas; (8) Angélica Lima Alves Santana, 29 anos, artesã que aprendeu suas técnicas desde pequena e desenvolve trabalhos em crochê e chapéus com fibra de bananeira; e (9) Marlene Neves dos Santos de Jesus, 44 anos, que se dedica à produção de flores e cestas com palha de milho, valorizando os saberes tradicionais. Assim, a comunidade se afirma como um território de resistência cultural, onde memória, trabalho e coletividade se entrelaçam, garantindo a continuidade dos saberes e o fortalecimento da identidade quilombola.</p>
 
             </div>
         </div>
@@ -367,6 +354,22 @@
                     <span class="guardiao-numero">5</span>
                     <img src="{{ asset('images/Boi/guardia/g10.jpeg') }}" alt="Guardiões da memória - imagem 5">
                 </figure>
+                <figure class="guardiao-item">
+                    <span class="guardiao-numero">6</span>
+                    <img src="{{ asset('images/Boi/guardia/jorge.jpeg') }}" alt="Guardiões da memória - imagem 5">
+                </figure>
+                <figure class="guardiao-item">
+                    <span class="guardiao-numero">7</span>
+                    <img src="{{ asset('images/Boi/guardia/edmilson.jpeg') }}" alt="Guardiões da memória - imagem 5">
+                </figure>
+                <figure class="guardiao-item">
+                    <span class="guardiao-numero">8</span>
+                    <img src="{{ asset('images/Boi/guardia/angelica.jpeg') }}" alt="Guardiões da memória - imagem 5">
+                </figure>
+                <figure class="guardiao-item">
+                    <span class="guardiao-numero">9</span>
+                    <img src="{{ asset('images/Boi/guardia/marlene.jpeg') }}" alt="Guardiões da memória - imagem 5">
+                </figure>
 
                 <!-- loop -->
                 <figure class="guardiao-item">
@@ -388,6 +391,22 @@
                 <figure class="guardiao-item">
                     <span class="guardiao-numero">5</span>
                     <img src="{{ asset('images/Boi/guardia/g10.jpeg') }}" alt="Guardiões da memória - imagem 5">
+                </figure>
+                <figure class="guardiao-item">
+                    <span class="guardiao-numero">6</span>
+                    <img src="{{ asset('images/Boi/guardia/jorge.jpeg') }}" alt="Guardiões da memória - imagem 5">
+                </figure>
+                <figure class="guardiao-item">
+                    <span class="guardiao-numero">7</span>
+                    <img src="{{ asset('images/Boi/guardia/edmilson.jpeg') }}" alt="Guardiões da memória - imagem 5">
+                </figure>
+                <figure class="guardiao-item">
+                    <span class="guardiao-numero">8</span>
+                    <img src="{{ asset('images/Boi/guardia/angelica.jpeg') }}" alt="Guardiões da memória - imagem 5">
+                </figure>
+                <figure class="guardiao-item">
+                    <span class="guardiao-numero">9</span>
+                    <img src="{{ asset('images/Boi/guardia/marlene.jpeg') }}" alt="Guardiões da memória - imagem 5">
                 </figure>
 
             </div>

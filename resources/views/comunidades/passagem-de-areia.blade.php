@@ -276,23 +276,11 @@
         <div class="linha-principal">
             <div class="texto">
                 <h2>👵 Guardiões da Memória</h2>
-                <p>A Comunidade Quilombola de Passagem de Areia é formada por mulheres que atuam como verdadeiras guardiãs da memória, mantendo vivas as tradições,
-                    os saberes e o orgulho de pertencer ao território quilombola. Por meio do artesanato, da agricultura familiar e da culinária tradicional,
-                    essas mulheres transformam o cotidiano em resistência cultural, garantindo a continuidade de práticas construídas coletivamente ao longo das
-                    gerações.
-                </p>
+                <p>A Comunidade Quilombola de Passagem de Areia é formada por mulheres que atuam como verdadeiras guardiãs da memória, mantendo vivas as tradições, os saberes e o orgulho de pertencer ao território quilombola. Por meio do artesanato, da agricultura familiar e da culinária tradicional, essas mulheres transformam o cotidiano em resistência cultural, garantindo a continuidade de práticas construídas coletivamente ao longo das gerações. Entre essas guardiãs, destacam-se (1) Zelinda Maria da Silva, 59 anos, mulher preta e moradora desde sempre da comunidade, que se dedica à agricultura familiar e à culinária tradicional; (2) Fátima Maria da Silva, 34 anos, nascida e criada na comunidade, que atua no artesanato, nos cuidados com o lar e na agricultura familiar; e (3) Izabel Maria da Silva, 65 anos, moradora desde o nascimento, cuja principal ocupação é a agricultura familiar.</p>
 
-                <p>Entre essas guardiãs destacam-se Fátima Maria da Silva, de 34 anos, nascida e criada na comunidade, que atua no artesanato, nos cuidados com
-                    o lar e na agricultura familiar; Izabel Maria da Silva, de 65 anos, moradora desde o nascimento, cuja principal ocupação é a agricultura familiar;
-                    e Zelinda Maria da Silva, de 59 anos, que dedica sua vida à lavoura e à culinária tradicional, preservando receitas e sabores que definem a
-                    identidade cultural do quilombo.
-                </p>
+                <p>Também se destaca (4) Maria Francisca da Silva, 68 anos, nascida e criada na comunidade, que desde a infância vivenciou práticas tradicionais marcadas pela criatividade e simplicidade do viver quilombola, como a confecção de bonecas de sabugo de milho. Atualmente, atua como artesã, produzindo cestos e balaios, perpetuando saberes aprendidos ao longo da vida e transmitidos entre gerações. Sua trajetória evidencia a importância do conhecimento tradicional na construção da identidade cultural da comunidade.</p>
 
-                <p>Também integra esse conjunto de saberes Maria Francisca da Silva, nascida e criada na comunidade, que desde a infância vivenciou práticas
-                    tradicionais marcadas pela criatividade e simplicidade do viver quilombola. Hoje, como artesã, produz cestos e balaios, perpetuando conhecimentos
-                    aprendidos e transmitidos entre gerações. A trajetória dessas mulheres revela que a verdadeira riqueza de Passagem de Areia está na memória viva,
-                    na coletividade e na preservação dos saberes, que seguem fortalecendo a identidade, o orgulho e a resistência cultural da comunidade.
-                </p>
+                <p>Somando-se a essas guardiãs da memória, (5) Rosângela Maria da Silva, 41 anos, mulher negra, católica e nativa da Comunidade Quilombola de Passagem de Areia, exerce a liderança comunitária há cerca de dois anos. Com ensino médio completo, atua de forma comprometida na defesa dos direitos da comunidade e no fortalecimento da identidade quilombola, incentivando a valorização da cultura, da memória e do território. Assim, Passagem de Areia se afirma como um espaço de resistência cultural, onde memória, coletividade e tradição se entrelaçam, garantindo a continuidade dos saberes e o fortalecimento da identidade quilombola.</p>
 
             </div>
         </div>
@@ -320,6 +308,7 @@
                     <span class="guardiao-numero">5</span>
                     <img src="{{ asset('images/Passagem/guardia/g8.jpeg') }}" alt="Guardiões da memória - imagem 5">
                 </figure>
+                
 
                 <!-- loop -->
                 <figure class="guardiao-item">

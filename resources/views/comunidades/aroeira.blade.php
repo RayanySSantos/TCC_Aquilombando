@@ -280,24 +280,11 @@
         <div class="linha-principal">
             <div class="texto">
                 <h2>👵 Guardiões da Memória</h2>
-                <p>A Comunidade Quilombola de Aroeira carrega em suas raízes a força da ancestralidade e o orgulho de uma história marcada pela resistência e
-                    pela liberdade. Herdeiros do legado de :contentReference[oaicite:0]{index=0}, seus moradores mantêm viva a memória dos antepassados por meio
-                    dos costumes, da fé e dos saberes transmitidos entre gerações. Preservar essa herança significa reafirmar diariamente a identidade quilombola
-                    e o compromisso com a continuidade da história coletiva.
-                </p>
+                <p>A Comunidade Quilombola de Aroeira carrega em suas raízes a força da ancestralidade e o orgulho de uma história marcada pela resistência e pela liberdade. Seus moradores mantêm viva a memória dos antepassados por meio dos costumes, da fé e dos saberes transmitidos entre gerações, reafirmando diariamente a identidade quilombola e o compromisso com a continuidade da história coletiva. Entre esses guardiões da memória destacam-se (1) Rosalina Montalvão dos Santos, 44 anos, que sempre viveu na comunidade e mantém viva a tradição culinária aprendida com sua mãe e sua tia; (2) Lizenir Brito dos Santos Oliveira, 29 anos, que chegou à comunidade há dois anos trazendo saberes culinários herdados de sua mãe e avó; e (3) Maria da Conceição dos Santos, 72 anos, moradora há cerca de cinco décadas, que atua como lavradora e guardiã dos saberes culinários tradicionais.</p>
 
-                <p>Esta cartilha se constitui como um registro da força e da sabedoria do povo de Aroeira, evidenciando que a maior riqueza da comunidade
-                    está nas pessoas que guardam e compartilham seus saberes. Entre essas vozes estão Julio dos Santos, morador da comunidade há cinco décadas,
-                    participante ativo do reisado e profundo conhecedor de plantas medicinais; Rosalina Montalvão dos Santos, que preserva a tradição culinária
-                    aprendida com sua mãe e tia; Cleidimar Brito dos Santos, descendente de quilombolas, que desde a infância mantém vivo o amor pela culinária
-                    tradicional; e Osvaldina Lima Pereira, conhecida pelo preparo da feijoada e pela dedicação às festas comunitárias.
-                </p>
+                <p>Também se destacam (4) Júlio dos Santos, 68 anos, morador da comunidade há aproximadamente 50 anos, participante ativo do reisado e conhecedor de plantas medicinais, saberes que aprendeu com sua avó; (5) Osvaldina Lima Pereira, 51 anos, que vive há mais de 30 anos em Aroeira e é reconhecida pelo preparo da feijoada e pela participação nas festas comunitárias; e (6) Cleidmar Brito dos Santos, 32 anos, descendente de quilombolas, que desde a infância cultiva o amor pela culinária tradicional, participando ativamente das festividades locais.</p>
 
-                <p>Também integra esse conjunto de guardiões da memória Lizeni Brito dos Santos Oliveira, que trouxe para Aroeira saberes culinários aprendidos
-                    com sua mãe e avó, especialmente o preparo do caldo de frango associado ao cuidado com as mulheres no pós-parto. As histórias desses moradores
-                    revelam como cada gesto, receita, canto e ensinamento fortalece os laços comunitários e assegura a continuidade da cultura quilombola. Assim,
-                    Aroeira segue tecendo o fio de sua história, sustentada pela memória viva e pela dedicação de seu povo.
-                </p>
+                <p>Somando-se a esses guardiões da memória, (7) Nelci Conceição dos Santos, 46 anos, nascida na Comunidade Quilombola de Vargem Alta e atual líder e representante comunitária em Aroeira, atua como professora e defensora dos direitos quilombolas, contribuindo para o fortalecimento da identidade coletiva e da luta por reconhecimento. Assim, Aroeira se consolida como um território de resistência cultural, onde memória, tradição e coletividade se entrelaçam, garantindo que os saberes e práticas ancestrais continuem sendo transmitidos às futuras gerações.</p>
 
             </div>
         </div>

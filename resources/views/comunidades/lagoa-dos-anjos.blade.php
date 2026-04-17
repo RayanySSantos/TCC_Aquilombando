@@ -276,26 +276,11 @@
         <div class="linha-principal">
             <div class="texto">
                 <h2>👵 Guardiões da Memória</h2>
-                <p>Os moradores da Comunidade Quilombola de Lagoa dos Anjos são verdadeiros guardiões da história, da memória e das tradições do quilombo.
-                    Por meio da agricultura familiar, da culinária, do artesanato e das manifestações culturais, como o reisado, cada pessoa contribui para a
-                    preservação da identidade coletiva. Ao compartilhar saberes e manter vivas as práticas herdadas dos antepassados, fortalecem os laços comunitários
-                    e garantem que a história do povo quilombola continue sendo reconhecida, valorizada e transmitida às futuras gerações.
-                </p>
+                <p>Os moradores da Comunidade Quilombola de Lagoa dos Anjos são verdadeiros guardiões da história, da memória e das tradições do quilombo. Por meio da agricultura familiar, da culinária, do artesanato e de manifestações culturais, como o reisado, cada pessoa contribui para a preservação da identidade coletiva. Entre esses guardiões destacam-se (1) Claudivino Moreira Trindade, 61 anos, morador desde o nascimento, que atua na agricultura familiar, contribuindo para a continuidade das práticas tradicionais de cultivo; (2) João Alves dos Santos, 54 anos, professor e agricultor, que teve papel decisivo na certificação do quilombo, organizando acervos que comprovam a ancestralidade da comunidade; e (3) Judite Gonçalves de Amaral, que há mais de 35 anos se dedica ao artesanato, produzindo tapetes, bordados e ponto de cruz a partir de retalhos, preservando a tradição manual local.</p>
 
-                <p>Entre esses guardiões destacam-se moradores que preservam saberes tradicionais no cotidiano. Judite Gonçalves de Amaral dedica-se ao artesanato
-                    há mais de 35 anos, produzindo tapetes, bordados e ponto de cruz a partir de retalhos, mantendo viva a tradição manual da comunidade.
-                    Madalena Correia, de 66 anos, aprendeu o artesanato com a mãe ainda na infância e confecciona tapetes, toucas e turbantes, valorizando o
-                    reaproveitamento de materiais. Claudivino Moreira Trindade, de 61 anos, atua na agricultura familiar, contribuindo para a subsistência das
-                    famílias e a continuidade das práticas tradicionais de cultivo e cuidado com a terra.
-                </p>
+                <p>Também se destacam (4) Madalena Correia, 66 anos, que aprendeu o artesanato com a mãe ainda na infância e produz peças como tapetes, toucas e turbantes, valorizando o reaproveitamento de materiais; (5) Manoel Alves dos Santos, 58 anos, agricultor familiar e participante ativo do reisado, contribuindo para a manutenção das tradições culturais; e (6) Joana da Silva Santos, 59 anos, moradora desde o nascimento, que se dedica às práticas tradicionais, fortalecendo os saberes ancestrais da comunidade.</p>
 
-                <p>Outros moradores também desempenham papel fundamental na preservação da memória coletiva. João Alves dos Santos teve atuação decisiva no
-                    processo de certificação do quilombo, auxiliando na organização de acervos que comprovam a ancestralidade da comunidade. Izabel Rosa de Jesus
-                    preserva receitas tradicionais herdadas da mãe e das avós, como a paçoca de carne seca, enquanto Joana da Silva Santos e Lucilene Alves dos Santos
-                    Silva mantêm vivas as práticas da lavoura e da culinária tradicional. Manoel Alves dos Santos, por sua vez, alia o trabalho na agricultura à
-                    participação ativa no reisado. Juntos, esses moradores transformam saberes, trabalho e fé em resistência cultural, assegurando que a identidade
-                    quilombola de Lagoa dos Anjos permaneça viva no presente e no futuro.
-                </p>
+                <p>Somam-se a esses guardiões da memória (7) Lucilene Alves dos Santos Silva, 52 anos, lavradora que preserva as tradições da agricultura local; (8) Luciene Alves Santos Silva (Tia Iyô), 51 anos, que alia o trabalho na lavoura ao gosto pela culinária quilombola, reconhecendo-a como um importante resgate da memória ancestral; e (9) Izabel Rosa de Jesus, 58 anos, que herdou da mãe e das avós o talento culinário, preservando receitas tradicionais como a paçoca de carne seca. Assim, Lagoa dos Anjos se consolida como um território de resistência cultural, onde saberes, práticas e vivências são continuamente compartilhados, garantindo a preservação da identidade quilombola para as futuras gerações.</p>
 
             </div>
         </div>
