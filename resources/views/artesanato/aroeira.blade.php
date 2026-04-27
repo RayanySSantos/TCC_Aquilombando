@@ -12,11 +12,11 @@
     <div class="artesanato-hero-container artesanato-hero-container--top">
         <div class="artesanato-hero-texto">
 
-            <p>O artesanato da Comunidade Quilombola de Aroeira é uma expressão viva da criatividade e do legado cultural da comunidade. As peças produzidas incluem tapetes, flores, cestos de fibra de bananeira e trabalhos em crochê confeccionados com linha fiada no fuso de algodão, todos elaborados a partir de técnicas tradicionais transmitidas de geração em geração. Cada criação reflete a memória ancestral e o saber das mulheres da comunidade, mantendo viva a história e a identidade quilombola.</p>
+            <p>O artesanato da Comunidade Quilombola de Aroeira representa uma manifestação viva da criatividade e do legado cultural da comunidade. As peças produzidas incluem tapetes, flores, cestos feitos com fibra de bananeira e trabalhos em crochê confeccionados com linha fiada no fuso de algodão, todos elaborados a partir de técnicas tradicionais transmitidas entre gerações. Cada criação expressa a memória ancestral e o conhecimento das mulheres da comunidade, mantendo preservadas a história e a identidade quilombola.</p>
 
-            <p>O aprendizado dessas técnicas ocorre, principalmente, no âmbito familiar, sendo repassado pelas mulheres, que desempenham papel central na preservação dos saberes artesanais. Esse processo fortalece os laços entre as gerações e mantém a cultura presente no cotidiano da comunidade, fazendo do artesanato um espaço de convivência, troca de conhecimentos e afirmação identitária.</p>
+            <p>O aprendizado dessas técnicas ocorre, principalmente, no contexto familiar, sendo repassado pelas mulheres, que exercem papel fundamental na preservação dos saberes artesanais. Esse processo fortalece os vínculos entre as gerações e mantém a cultura presente no cotidiano da comunidade, fazendo do artesanato um espaço de convivência, troca de conhecimentos e afirmação identitária.</p>
 
-        <p>Além de seu valor cultural, o artesanato também contribui para a economia local, pois as peças produzidas são comercializadas em feiras e eventos, complementando a renda das famílias e incentivando a autonomia financeira. Cada objeto carrega uma história e simboliza a continuidade das tradições, tornando o artesanato de Aroeira não apenas uma atividade produtiva, mas também uma forma de resistência cultural e valorização da memória coletiva.</p>
+            <p>Além de sua importância cultural, o artesanato também contribui para a economia local, uma vez que as peças produzidas são comercializadas em feiras e eventos, complementando a renda das famílias e incentivando a autonomia financeira. Cada objeto carrega uma história e simboliza a continuidade das tradições, tornando o artesanato de Aroeira não apenas uma atividade produtiva, mas também uma forma de resistência cultural e valorização da memória coletiva.</p>
 
         </div>
 

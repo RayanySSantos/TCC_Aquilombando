@@ -12,12 +12,12 @@
     <div class="artesanato-hero-container artesanato-hero-container--top">
         <div class="artesanato-hero-texto">
 
-             <p>O artesanato da Comunidade Quilombola de Vargem Alta é uma expressão concreta da tradição, da criatividade e da identidade cultural local. Entre as práticas mais valorizadas estão a produção de peças em crochê, o fiar do algodão, a tecelagem no tear de roda, o ponto cruz, a marambaia, o vagonite, a costura e outros trabalhos manuais realizados com materiais disponíveis no território. Cada peça produzida carrega a memória coletiva e os saberes transmitidos ao longo das gerações.</p>
+            <p>O artesanato da Comunidade Quilombola de Vargem Alta representa uma manifestação concreta da tradição, da criatividade e da identidade cultural do território. Entre as práticas mais valorizadas destacam-se a confecção de peças em crochê, o processo de fiar o algodão, a tecelagem no tear de roda, o ponto cruz, a marambaia, o vagonite, a costura e outros trabalhos manuais desenvolvidos com materiais disponíveis na própria comunidade. Cada peça produzida carrega consigo a memória coletiva e os saberes transmitidos ao longo das gerações.</p>
 
-            <p>As mulheres desempenham papel central na preservação dessas técnicas artesanais, sendo responsáveis por ensinar aos mais jovens os modos tradicionais de produção e garantir a continuidade da cultura local. O aprendizado ocorre no convívio familiar e comunitário, fortalecendo os laços sociais e valorizando o trabalho manual como parte essencial da identidade quilombola. Por meio do artesanato, os saberes ancestrais permanecem vivos no cotidiano da comunidade.</p>
+            <p>As mulheres exercem um papel fundamental na preservação dessas técnicas artesanais, sendo responsáveis por repassar aos mais jovens os modos tradicionais de produção e assegurar a continuidade da cultura local. Esse aprendizado ocorre no contexto familiar e comunitário, fortalecendo os vínculos sociais e valorizando o trabalho manual como parte essencial da identidade quilombola. Por meio do artesanato, os conhecimentos ancestrais permanecem presentes no cotidiano da comunidade.</p>
 
-            <p>Além de seu valor cultural, o artesanato também contribui para a economia local, pois muitas peças são comercializadas em feiras e eventos regionais, promovendo renda e autonomia financeira para as famílias. Essa atividade incentiva o empoderamento feminino, valoriza o território e reafirma o artesanato como forma de resistência cultural e pertencimento. Mais do que objetos, cada criação mantém viva a história da comunidade e reforça a importância de preservar as tradições para as futuras gerações.</p>
-           
+            <p>Além de sua importância cultural, o artesanato também contribui para a economia local, uma vez que muitas peças são comercializadas em feiras e eventos regionais, gerando renda e promovendo autonomia financeira para as famílias. Essa atividade favorece o empoderamento feminino, valoriza o território e reafirma o artesanato como uma forma de resistência cultural e pertencimento. Mais do que simples objetos, cada criação preserva a história da comunidade e reforça a necessidade de manter vivas as tradições para as futuras gerações.</p>
+
         </div>
 
         <div class="artesanato-midia">

@@ -13,29 +13,29 @@
         <div class="historia-hero-texto">
 
             <p>
-                A Comunidade Quilombola de Vargem Alta, localizada na zona rural do município de Palmas de Monte Alto, Bahia,
-                possui uma trajetória marcada pela força, resistência e união de seus antepassados. Os primeiros moradores enfrentaram
-                inúmeros desafios para garantir a permanência no território e manter vivas suas tradições culturais. A agricultura
-                sempre foi o principal alicerce econômico e social da comunidade, com destaque para o cultivo de feijão, mandioca,
-                umbu-cajá, manga, goiaba, acerola, tamarindo e laranja, alimentos que sustentam as famílias e preservam o modo de vida
-                tradicional quilombola.
+                A Comunidade Quilombola de Vargem Alta, situada na área rural do município de Palmas de Monte Alto, Bahia,
+                carrega uma história construída a partir da luta, da resistência e da união de seus ancestrais. Os primeiros
+                habitantes enfrentaram diversas dificuldades para assegurar sua permanência no território e preservar suas
+                tradições culturais. A agricultura sempre desempenhou papel central na economia e na vida social da comunidade,
+                destacando-se o cultivo de feijão, mandioca, umbu-cajá, manga, goiaba, acerola, tamarindo e laranja, alimentos
+                que garantem a subsistência das famílias e mantêm vivo o modo de vida tradicional quilombola.
             </p>
 
             <p>
-                O reconhecimento oficial como comunidade quilombola ocorreu em 31 de dezembro de 2008, por meio da certificação
-                concedida pela Fundação Cultural Palmares, com apoio da Secretaria de Educação. Esse marco representou um avanço
-                significativo para Vargem Alta, possibilitando o acesso a benefícios como cestas básicas, atendimento médico,
-                caixas d’água, cisternas e programas voltados ao meio rural. Além disso, o reconhecimento fortaleceu a identidade
-                quilombola e ampliou a visibilidade das demandas sociais e culturais da comunidade.
+                O reconhecimento oficial como comunidade quilombola foi concedido em 31 de dezembro de 2008, por meio da certificação
+                emitida pela Fundação Cultural Palmares, com o apoio da Secretaria de Educação. Esse momento representou um avanço
+                importante para Vargem Alta, possibilitando o acesso a benefícios como cestas básicas, assistência médica, caixas d’água,
+                cisternas e programas voltados ao desenvolvimento rural. Além disso, essa certificação contribuiu para o fortalecimento da
+                identidade quilombola e ampliou a visibilidade das demandas sociais e culturais da comunidade.
             </p>
 
             <p>
-                No âmbito da organização comunitária, a liderança foi exercida inicialmente por Manoel José de Lima, que esteve à
-                frente da comunidade por quatro anos. Posteriormente, a função passou a ser desempenhada por Sidália Montalvão de Brito,
-                que, a pedido dos moradores, atua como líder há quase dois anos. Sua gestão tem buscado fortalecer a união entre os
-                moradores e promover melhorias por meio de projetos culturais e sociais. Entre as conquistas recentes destacam-se a
-                chegada da energia elétrica, a criação da Associação Comunitária, o acesso à internet e a implementação da fábrica de
-                farinha, marcos que reforçam a autonomia, a organização coletiva e a identidade quilombola de Vargem Alta.
+                No que diz respeito à organização interna, a liderança foi inicialmente assumida por Manoel José de Lima, que esteve à frente
+                da comunidade durante quatro anos. Em seguida, a responsabilidade passou para Sidália Montalvão de Brito, que, a pedido dos
+                moradores, exerce a função há quase dois anos. Sua atuação tem sido voltada para o fortalecimento da união entre os moradores
+                e para a promoção de melhorias por meio de iniciativas culturais e sociais. Entre os avanços recentes, destacam-se a chegada
+                da energia elétrica, a criação da Associação Comunitária, o acesso à internet e a implantação da fábrica de farinha, conquistas
+                que reforçam a autonomia, a organização coletiva e a identidade quilombola de Vargem Alta.
             </p>
 
         </div>

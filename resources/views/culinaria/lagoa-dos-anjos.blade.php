@@ -12,7 +12,7 @@
     <div class="culinaria-hero-container culinaria-hero-container--top">
         <div class="culinaria-hero-texto">
 
-            <p>A culinária da Comunidade Quilombola de Lagoa dos Anjos é uma expressão viva de sua cultura e da relação profunda com o território. Os alimentos produzidos na agricultura familiar, como frutas, raízes, hortaliças e grãos, compõem a base das receitas tradicionais e revelam a ligação entre a terra e a mesa. A alimentação reflete a identidade coletiva e o cuidado com o ambiente, preservando saberes construídos ao longo das gerações.</p>
+            <p>A culinária da Comunidade Quilombola de Lagoa dos Anjos representa uma manifestação viva de sua cultura e da profunda relação com o território. Os alimentos provenientes da agricultura familiar, como frutas, raízes, hortaliças e grãos, formam a base das receitas tradicionais e evidenciam a conexão entre a terra e a mesa. A alimentação expressa a identidade coletiva e o cuidado com o meio ambiente, preservando saberes construídos ao longo das gerações.</p>
 
             <p>Entre os pratos mais apreciados estão o bolo frito (01), o chá de “bicha” (02), a paçoca de gergelim (03), o beiju de coco com rapadura (04), o pirão de frango caipira (05) e a paçoca de carne seca (06). Essas receitas são transmitidas de geração em geração e carregam memórias afetivas que reforçam o convívio familiar e a prática da partilha nos lares quilombolas. Cada preparo representa um gesto de valorização da tradição e da ancestralidade.</p>
 

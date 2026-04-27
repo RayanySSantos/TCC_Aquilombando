@@ -13,29 +13,29 @@
         <div class="historia-hero-texto">
 
             <p>
-                A Comunidade Quilombola de Vargem Comprida está localizada na zona rural do município de Palmas de Monte Alto, no estado
-                da Bahia, e preserva com orgulho a memória e os costumes herdados de seus antepassados. Segundo os relatos dos moradores,
-                os primeiros habitantes vieram da região de Macaúbas, fugindo da escravidão em busca de liberdade, segurança e terras para
-                viver. Desde sua formação, a comunidade se fortaleceu por meio da valorização de suas raízes, da união entre as famílias
-                e do esforço coletivo para manter viva a cultura quilombola e o vínculo com o território.
+                A Comunidade Quilombola de Vargem Comprida está situada na zona rural do município de Palmas de Monte Alto, no estado
+                da Bahia, e mantém viva, com orgulho, a memória e os costumes herdados de seus antepassados. De acordo com os relatos
+                dos moradores, os primeiros habitantes vieram da região de Macaúbas, fugindo da escravidão em busca de liberdade,
+                proteção e terras onde pudessem viver. Desde sua origem, a comunidade se consolidou por meio da valorização de suas
+                raízes, da união entre as famílias e do esforço coletivo para preservar a cultura quilombola e o vínculo com o território.
             </p>
 
             <p>
-                O reconhecimento oficial enquanto comunidade quilombola ocorreu em 15 de maio de 2016, por meio da certificação concedida
-                pela Fundação Cultural Palmares. Esse processo envolveu a coleta de relatos orais, registros audiovisuais e a participação
-                ativa das lideranças e matriarcas da comunidade, que contribuíram para a consolidação da identidade quilombola local.
-                A certificação representou um marco histórico para Vargem Comprida, fortalecendo o sentimento de pertencimento e ampliando
-                o acesso a políticas públicas e programas de apoio voltados às populações tradicionais.
+                O reconhecimento oficial como comunidade quilombola ocorreu em 15 de maio de 2016, por meio da certificação concedida
+                pela Fundação Cultural Palmares. Esse processo contou com a coleta de relatos orais, registros audiovisuais e a
+                participação ativa das lideranças e matriarcas da comunidade, que tiveram papel fundamental na consolidação da identidade
+                quilombola local. A certificação representou um marco histórico para Vargem Comprida, fortalecendo o sentimento de
+                pertencimento e ampliando o acesso a políticas públicas e programas de apoio direcionados às populações tradicionais.
             </p>
 
             <p>
-                Atualmente, a comunidade é liderada por Leonardo, morador que sempre viveu em Vargem Comprida e exerce a função com
-                dedicação há cerca de três anos. Católico, formado no ensino superior e agricultor, ele defende a preservação cultural
-                como caminho fundamental para fortalecer as novas gerações. Entre as figuras mais importantes da comunidade destaca-se
-                Dona Silvalina Maria de Oliveira, carinhosamente chamada de “Vó”, reconhecida como matriarca e guardiã dos saberes
-                tradicionais. Sua trajetória simboliza a continuidade da memória coletiva, sendo responsável por transmitir às novas
-                gerações histórias, práticas de artesanato e conhecimentos culinários que sustentam a identidade quilombola de
-                Vargem Comprida.
+                Atualmente, a comunidade é liderada por Leonardo, morador que sempre residiu em Vargem Comprida e que exerce a função
+                com dedicação há aproximadamente três anos. Católico, com formação em ensino superior e atuante na agricultura, ele
+                defende a preservação cultural como um caminho essencial para fortalecer as novas gerações. Entre as figuras de maior
+                relevância na comunidade, destaca-se Dona Silvalina Maria de Oliveira, conhecida carinhosamente como “Vó”, reconhecida
+                como matriarca e guardiã dos saberes tradicionais. Sua trajetória representa a continuidade da memória coletiva, sendo
+                responsável por transmitir às novas gerações histórias, práticas de artesanato e conhecimentos culinários que sustentam
+                a identidade quilombola de Vargem Comprida.
             </p>
 
         </div>

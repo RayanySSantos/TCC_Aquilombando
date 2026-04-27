@@ -13,31 +13,30 @@
         <div class="historia-hero-texto">
 
             <p>
-                A Comunidade Quilombola de Passagem de Areia teve sua origem por volta da década de 1950, quando os primeiros moradores
-                chegaram à região e passaram a desenvolver atividades agrícolas como principal forma de subsistência. O nome da comunidade
-                está relacionado à presença marcante de areia no território, característica natural que acabou por nomear o local.
-                Vindos de diferentes regiões, esses moradores se estabeleceram, formaram famílias e construíram vínculos profundos com
-                a terra, dando início a uma trajetória coletiva marcada pelo trabalho, pela resistência e pelo sentimento de pertencimento
+                A Comunidade Quilombola de Passagem de Areia tem sua origem situada por volta da década de 1950, período em que os primeiros
+                moradores chegaram à região e passaram a desenvolver a agricultura como principal meio de subsistência. O nome da comunidade
+                está diretamente associado à grande presença de areia no território, uma característica natural que deu identidade ao local.
+                Vindos de diferentes localidades, esses moradores se fixaram na área, constituíram famílias e estabeleceram fortes vínculos
+                com a terra, iniciando uma trajetória coletiva marcada pelo trabalho, pela resistência e pelo sentimento de pertencimento
                 ao território.
             </p>
 
             <p>
-                O reconhecimento oficial como comunidade quilombola ocorreu em 2011, por meio da certificação concedida pela
-                Fundação Cultural Palmares, após um processo que envolveu levantamento documental, relatos orais e estudos sobre a
-                ancestralidade local. Esse processo representou um marco importante para a consolidação da identidade quilombola de
-                Passagem de Areia, ao mesmo tempo em que evidenciou desafios internos relacionados ao pertencimento e à organização
-                coletiva. Ainda assim, a certificação ampliou a visibilidade da comunidade e possibilitou o acesso a políticas públicas,
-                como a participação em editais e a implantação de infraestruturas básicas, contribuindo para a melhoria das condições de
-                vida dos moradores.
+                O reconhecimento oficial como comunidade quilombola aconteceu em 2011, por meio da certificação concedida pela Fundação
+                Cultural Palmares, após um processo que envolveu a coleta de documentos, relatos orais e estudos sobre a ancestralidade da
+                população local. Esse momento representou um marco relevante para a afirmação da identidade quilombola de Passagem de Areia,
+                ao mesmo tempo em que evidenciou desafios internos relacionados ao pertencimento e à organização coletiva. Ainda assim, a
+                certificação ampliou a visibilidade da comunidade e possibilitou o acesso a políticas públicas, como a participação em editais
+                e a implantação de infraestruturas básicas, contribuindo para a melhoria das condições de vida dos moradores.
             </p>
 
             <p>
-                Atualmente, a liderança comunitária é exercida por Rosângela, mulher negra, católica, de 41 anos, nativa do território
-                e com ensino médio completo, que atua na função há cerca de dois anos. Sua gestão é marcada pelo compromisso com a
-                valorização da identidade quilombola, a defesa dos direitos coletivos e a preservação das tradições culturais.
-                Sob sua liderança, são articuladas ações voltadas ao fortalecimento da participação comunitária, à proteção do
-                território e à continuidade dos saberes ancestrais, mantendo viva a memória coletiva e reforçando a união entre
-                os moradores de Passagem de Areia.
+                Atualmente, a liderança da comunidade é exercida por Rosângela, mulher negra, católica, de 41 anos, nascida no próprio
+                território e com ensino médio completo, que desempenha essa função há aproximadamente dois anos. Sua atuação é pautada no
+                compromisso com a valorização da identidade quilombola, a defesa dos direitos coletivos e a preservação das tradições culturais.
+                Durante sua gestão, são desenvolvidas ações voltadas ao fortalecimento da participação comunitária, à proteção do território e
+                à continuidade dos saberes ancestrais, mantendo viva a memória coletiva e reforçando os laços de união entre os moradores de
+                Passagem de Areia.
             </p>
 
         </div>

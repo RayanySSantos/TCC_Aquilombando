@@ -15,7 +15,7 @@
                 <li><a href="#">Vargem Alta</a></li>
                 <li><a href="#">Passagem de Areia</a></li>
                 <li><a href="#">Vargem Comprida</a></li>
-                <li><a href="#">Quilombo de Boi</a></li>
+                <li><a href="#">Quilombo Boi</a></li>
                 <li><a href="#">Lagoa dos Anjos</a></li>
                 <li><a href="#">Aroeira</a></li>
             </ul>

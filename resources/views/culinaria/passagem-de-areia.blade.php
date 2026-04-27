@@ -12,7 +12,7 @@
     <div class="culinaria-hero-container culinaria-hero-container--top">
         <div class="culinaria-hero-texto">
 
-            <p>A culinária da Comunidade Quilombola de Passagem de Areia é uma expressão direta da agricultura familiar e da ancestralidade que sustenta o modo de vida local. Os ingredientes cultivados no próprio território, como palma, mandioca, manga, caju e batata-doce, são transformados em pratos que atravessam gerações, preservando a memória coletiva e reafirmando a profunda relação entre alimentação, território e identidade cultural. Cada alimento carrega saberes acumulados ao longo do tempo e reflete a história de resistência e pertencimento da comunidade.</p>
+            <p>A culinária da Comunidade Quilombola de Passagem de Areia representa uma expressão direta da agricultura familiar e da ancestralidade que sustenta o modo de vida local. Os ingredientes cultivados no próprio território, como palma, mandioca, manga, caju e batata-doce, são transformados em preparações que atravessam gerações, preservando a memória coletiva e reafirmando a estreita relação entre alimentação, território e identidade cultural. Cada alimento reúne saberes acumulados ao longo do tempo e reflete a história de resistência e pertencimento da comunidade.</p>
 
             <p>Entre os pratos mais tradicionais destacam-se o chimango (01), a farofa de frango (02), a maniçoba (03), a farofa de boi (04) e o cortado de palma (05), preparados a partir de técnicas transmitidas oralmente, sobretudo pelas mulheres mais velhas. Esses modos de preparo preservam sabores característicos e também significados simbólicos e afetivos, ligados às vivências familiares, às celebrações comunitárias e à memória dos antepassados.</p>
 

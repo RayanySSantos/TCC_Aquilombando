@@ -13,27 +13,28 @@
         <div class="historia-hero-texto">
 
             <p>
-                A Comunidade Quilombola de Lagoa dos Anjos está localizada no município de Candiba, no estado da Bahia, e possui uma
-                trajetória marcada pela união, pela solidariedade e pela luta coletiva de seus moradores. A história da comunidade remonta
-                aos primeiros habitantes que, movidos pelo espírito comunitário, doaram terrenos para a construção dos salões coletivos.
-                Esses espaços tornaram-se fundamentais para encontros, celebrações e fortalecimento dos laços sociais, estruturando uma
-                vida comunitária baseada na coletividade, no respeito mútuo e na preservação das tradições culturais.
+                A Comunidade Quilombola de Lagoa dos Anjos está situada no município de Candiba, no estado da Bahia, e apresenta uma
+                trajetória construída a partir da união, da solidariedade e da luta coletiva de seus moradores. A origem da comunidade
+                remonta aos primeiros habitantes que, guiados pelo espírito comunitário, cederam terrenos para a construção de salões
+                coletivos. Esses espaços tornaram-se essenciais para a realização de encontros, celebrações e para o fortalecimento dos
+                vínculos sociais, estruturando uma vida comunitária baseada na coletividade, no respeito mútuo e na preservação das
+                tradições culturais.
             </p>
 
             <p>
-                O reconhecimento oficial de Lagoa dos Anjos como comunidade quilombola foi resultado de um processo de intensa mobilização
-                interna. Dois sobrinhos tiveram papel essencial ao incentivar a participação dos moradores e a busca pelos direitos
-                coletivos, fortalecendo o sentimento de pertencimento e identidade. Esse esforço culminou, em 2011, na certificação
-                concedida pela Fundação Cultural Palmares, marco histórico que consolidou a identidade quilombola da comunidade e ampliou
-                o acesso a políticas públicas e projetos voltados ao seu fortalecimento social e cultural.
+                O reconhecimento oficial de Lagoa dos Anjos como comunidade quilombola foi resultado de um processo marcado por forte
+                mobilização interna. Dois sobrinhos tiveram papel fundamental ao incentivar a participação dos moradores e a busca pelos
+                direitos coletivos, fortalecendo o sentimento de pertencimento e a identidade da comunidade. Esse movimento resultou,
+                em 2011, na certificação concedida pela Fundação Cultural Palmares, um marco histórico que consolidou a identidade
+                quilombola local e ampliou o acesso a políticas públicas e projetos voltados ao fortalecimento social e cultural.
             </p>
 
             <p>
-                Nesse percurso, a liderança comunitária exerceu papel decisivo, com destaque para a atuação de Luciene Alves Santos Silva,
-                que por anos esteve à frente das iniciativas locais, articulando apoios e buscando recursos que resultaram em melhorias
-                na infraestrutura e na valorização cultural. Atualmente, a liderança é exercida por Jorge Auto dos Santos, que dá
-                continuidade a esse legado, trabalhando para manter vivas as tradições e assegurar que as novas gerações compreendam a
-                importância da história, da resistência e da identidade quilombola de Lagoa dos Anjos.
+                Ao longo desse processo, a liderança comunitária desempenhou papel essencial, destacando-se a atuação de Luciene Alves
+                Santos Silva, que por anos esteve à frente das iniciativas locais, articulando parcerias e buscando recursos que
+                contribuíram para melhorias na infraestrutura e na valorização cultural. Atualmente, a liderança é exercida por Jorge
+                Auto dos Santos, que dá continuidade a esse trabalho, atuando para manter vivas as tradições e garantir que as novas
+                gerações compreendam a importância da história, da resistência e da identidade quilombola de Lagoa dos Anjos.
             </p>
 
         </div>

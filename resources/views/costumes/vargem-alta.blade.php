@@ -12,12 +12,11 @@
     <div class="costumes-hero-container costumes-hero-container--top">
         <div class="costumes-hero-texto">
 
-            <p>Os costumes e tradições da Comunidade Quilombola de Vargem Alta são construídos e fortalecidos a partir de práticas culturais, saberes tradicionais e experiências compartilhadas no cotidiano. Esses elementos são transmitidos entre as gerações, principalmente por meio da oralidade e da vivência coletiva, permitindo que a memória ancestral permaneça viva e significativa. Dessa forma, a cultura se manifesta como base da identidade quilombola e da organização comunitária.</p>
+            <p>Os costumes e tradições da Comunidade Quilombola de Vargem Alta são formados e fortalecidos por meio de práticas culturais, saberes tradicionais e experiências compartilhadas no cotidiano. Esses elementos são transmitidos entre as gerações, principalmente através da oralidade e da vivência coletiva, permitindo que a memória ancestral permaneça ativa e significativa. Dessa maneira, a cultura se apresenta como base da identidade quilombola e da organização da comunidade.</p>
 
-            <p>Na comunidade, as manifestações culturais seguem presentes no dia a dia e desempenham papel central na preservação da identidade local. Rezas, o reisado, as festas juninas e as comemorações do Dia da Consciência Negra reúnem moradores de diferentes idades, fortalecendo o sentimento de pertencimento, união e valorização da ancestralidade. Esses momentos coletivos reafirmam os vínculos comunitários e mantêm vivas práticas herdadas dos antepassados.</p>
+            <p>Na comunidade, as manifestações culturais permanecem presentes no dia a dia e desempenham papel fundamental na preservação da identidade local. Rezas, o reisado, as festas juninas e as celebrações do Dia da Consciência Negra reúnem moradores de diferentes faixas etárias, fortalecendo o sentimento de pertencimento, união e valorização da ancestralidade. Esses momentos coletivos reafirmam os laços comunitários e mantêm vivas práticas herdadas dos antepassados.</p>
 
-            <p>Além das celebrações, oficinas de artesanato e atividades culturais contribuem de forma significativa para a transmissão dos saberes tradicionais. Essas iniciativas possibilitam que crianças e jovens aprendam, valorizem e deem continuidade às práticas culturais da comunidade. Assim, os costumes e tradições de Vargem Alta se mantêm vivos, fortalecidos pela participação coletiva e pela valorização da memória e da identidade quilombola.</p>
-
+            <p>Além das celebrações, oficinas de artesanato e atividades culturais contribuem de forma significativa para a transmissão dos saberes tradicionais. Essas iniciativas permitem que crianças e jovens aprendam, valorizem e deem continuidade às práticas culturais da comunidade. Assim, os costumes e tradições de Vargem Alta permanecem vivos, fortalecidos pela participação coletiva e pela valorização da memória e da identidade quilombola.</p>
         </div>
 
         <div class="costumes-midia">

@@ -12,7 +12,7 @@
     <div class="culinaria-hero-container culinaria-hero-container--top">
         <div class="culinaria-hero-texto">
 
-            <p>A culinária da Comunidade Quilombola de Vargem Comprida é uma expressão viva de sua história, identidade e ancestralidade. Os ingredientes cultivados localmente, como mandioca, umbu-cajá, feijão, manga e outros frutos nativos, são transformados em pratos que atravessam gerações, mantendo viva a memória coletiva e fortalecendo a relação entre a terra e a alimentação. Esses alimentos refletem o modo de vida tradicional da comunidade e revelam saberes transmitidos ao longo do tempo.</p>
+            <p>A culinária da Comunidade Quilombola de Vargem Comprida representa uma manifestação viva de sua história, identidade e ancestralidade. Os ingredientes cultivados localmente, como mandioca, umbu-cajá, feijão, manga e outros frutos nativos, são transformados em preparações que atravessam gerações, mantendo presente a memória coletiva e fortalecendo a relação entre a terra e a alimentação. Esses alimentos expressam o modo de vida tradicional da comunidade e evidenciam saberes transmitidos ao longo do tempo.</p>
 
             <p>Entre os pratos mais tradicionais destacam-se a canjica (01), o cortado de maxixe com nata (02), a paçoca de gergelim (03) e a pamonha (04), além da produção de doces e geleias artesanais. A fábrica de farinha ocupa papel central nesse processo, funcionando como espaço de trabalho coletivo, colaboração comunitária e autonomia produtiva. É nesse ambiente que técnicas tradicionais são preservadas e compartilhadas, fortalecendo os vínculos sociais e culturais da comunidade.</p>
 

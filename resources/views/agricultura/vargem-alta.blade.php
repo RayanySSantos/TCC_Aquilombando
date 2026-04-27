@@ -11,13 +11,11 @@
 <section class="agricultura-hero">
     <div class="agricultura-hero-container">
         <div class="agricultura-hero-texto">
+            <p>A agricultura familiar representa a base da subsistência e do modo de vida da Comunidade Quilombola de Vargem Alta. Os moradores cultivam feijão, mandioca, umbu-cajá, manga, goiaba, acerola, tamarindo, laranja e diversas hortaliças, assegurando alimentos frescos para o consumo das famílias. Esses cultivos são realizados por meio de práticas tradicionais e sustentáveis, que respeitam os ciclos naturais e fortalecem a relação histórica da comunidade com o território.</p>
 
-            <p>A agricultura familiar constitui a base da subsistência e do modo de vida da Comunidade Quilombola de Vargem Alta. Os moradores cultivam feijão, mandioca, umbu-cajá, manga, goiaba, acerola, tamarindo, laranja e diversas hortaliças, garantindo alimentos frescos para o consumo das famílias. Esses cultivos são realizados a partir de práticas tradicionais e sustentáveis, que respeitam os ciclos da natureza e fortalecem a relação histórica da comunidade com o território.</p>
+            <p>O trabalho agrícola é desenvolvido de forma coletiva, envolvendo diferentes gerações da comunidade. Pais, filhos e netos compartilham o cotidiano da roça, possibilitando a transmissão de conhecimentos, técnicas e valores relacionados ao cuidado com a terra. Essa convivência contribui para a educação ambiental, reforça a solidariedade comunitária e valoriza a herança cultural quilombola.</p>
 
-            <p>O trabalho agrícola é desenvolvido de forma coletiva, envolvendo diferentes gerações da comunidade. Pais, filhos e netos compartilham o cotidiano da roça, o que possibilita a transmissão de conhecimentos, técnicas e valores associados ao cuidado com a terra. Essa convivência favorece a educação ambiental, reforça a solidariedade comunitária e contribui para a valorização da herança cultural quilombola.</p>
-
-            <p>Além de assegurar o sustento das famílias, a produção agrícola também possibilita a geração de renda por meio da comercialização dos excedentes em feiras e mercados locais. Essa prática fortalece a autonomia econômica dos moradores, estimula a economia solidária e valoriza o trabalho coletivo. Para a comunidade, a agricultura vai além da produção de alimentos, representando um elo com a ancestralidade, a memória coletiva e a resistência cultural que sustentam a identidade quilombola.</p>
-
+            <p>Além de garantir o sustento das famílias, a produção agrícola também permite a geração de renda por meio da comercialização dos excedentes em feiras e mercados locais. Essa prática fortalece a autonomia econômica dos moradores, estimula a economia solidária e valoriza o trabalho coletivo. Para a comunidade, a agricultura vai além da produção de alimentos, representando um elo com a ancestralidade, a memória coletiva e a resistência cultural que sustentam a identidade quilombola.</p>
         </div>
 
         <div class="agricultura-midia">

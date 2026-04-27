@@ -1,8 +1,8 @@
 @extends('layouts.comunidade')
 
-@section('titulo', 'Quilombo de Boi')
-@section('nome-comunidade', 'QUILOMBO DE BOI')
-@section('fonte-quilombo', 'Quilombo de Boi')
+@section('titulo', 'Quilombo Boi')
+@section('nome-comunidade', 'QUILOMBO BOI')
+@section('fonte-quilombo', 'Quilombo Boi')
 
 @section('conteudo')
 
@@ -16,7 +16,7 @@
             
             <div class="texto">
                 <h2>📜 História</h2>
-                <p>A Comunidade Quilombola de Boi está localizada na zona rural do município de Pindaí, Bahia, sendo formada majoritariamente por moradores
+                <p>A Comunidade Quilombola Boi está localizada na zona rural do município de Pindaí, Bahia, sendo formada majoritariamente por moradores
                     nativos que nasceram e cresceram no território. Sua história é marcada pela luta por autonomia, dignidade e reconhecimento, remontando à
                     trajetória de descendentes de pessoas escravizadas. Desde suas origens, a comunidade mantém vivas tradições culturais e familiares por meio da
                     agricultura, da religiosidade, da música e das festas locais, fortalecendo a memória coletiva e o sentimento de pertencimento.
@@ -30,7 +30,7 @@
 
                 <p>A certificação oficial concedida pela Fundação Palmares, em 03 de fevereiro de 2017, consolidou o reconhecimento institucional
                     da comunidade e ampliou o acesso a políticas públicas e programas de desenvolvimento rural e social. A partir desse reconhecimento, a
-                    comunidade de Boi fortaleceu iniciativas voltadas à valorização cultural, à agricultura familiar e à preservação dos saberes tradicionais.
+                    comunidade Boi fortaleceu iniciativas voltadas à valorização cultural, à agricultura familiar e à preservação dos saberes tradicionais.
                     O termo “negos do Boi”, antes utilizado de forma preconceituosa, foi ressignificado como símbolo de resistência, orgulho e afirmação identitária.
                 </p>
 
@@ -76,7 +76,7 @@
         <div class="linha-principal">
             <div class="texto">
                 <h2>🎶 Festejos</h2>
-                <p>Os festejos ocupam um lugar central na vida comunitária da Comunidade Quilombola de Boi, funcionando como momentos de celebração da história,
+                <p>Os festejos ocupam um lugar central na vida comunitária da Comunidade Quilombola Boi, funcionando como momentos de celebração da história,
                     da cultura e do pertencimento coletivo. O Festival Quilombola destaca-se como um evento importante, no qual os moradores reafirmam valores,
                     práticas e memórias que unem diferentes gerações e evidenciam a diversidade cultural presente no território.
                 </p>
@@ -133,7 +133,7 @@
         <div class="linha-principal">
             <div class="texto">
                 <h2>🧶 Artesanato</h2>
-                <p>No cotidiano da Comunidade Quilombola de Boi, o artesanato manifesta-se como expressão de sustentabilidade, criatividade e preservação dos
+                <p>No cotidiano da Comunidade Quilombola Boi, o artesanato manifesta-se como expressão de sustentabilidade, criatividade e preservação dos
                     saberes tradicionais. Utilizando materiais naturais e técnicas ancestrais transmitidas ao longo das gerações, as mulheres, principais
                     guardiãs desse conhecimento, produzem cestos, flores de bananeira, bonecas de pano, pinturas e outras peças que revelam profundo vínculo
                     com os recursos locais e com a história da comunidade. O uso da fibra da bananeira, de folhas secas e de materiais reaproveitados demonstra
@@ -148,7 +148,7 @@
                 <p>Além de seu valor cultural e simbólico, o artesanato desempenha função econômica relevante, pois muitas peças são comercializadas em feiras e
                     eventos locais, contribuindo para a geração de renda e a sustentabilidade da comunidade. Mais do than simples objetos, os trabalhos manuais
                     representam resistência cultural, orgulho e continuidade das tradições, mantendo viva a história e fortalecendo a identidade quilombola da
-                    Comunidade de Boi.
+                    Comunidade Boi.
                 </p>
 
             </div>
@@ -201,7 +201,7 @@
         <div class="linha-principal">
             <div class="texto">
                 <h2>🌱 Agricultura Familiar</h2>
-                <p>A agricultura familiar é a base da vida cotidiana na Comunidade Quilombola de Boi, estruturando o modo de vida e a organização social local.
+                <p>A agricultura familiar é a base da vida cotidiana na Comunidade Quilombola Boi, estruturando o modo de vida e a organização social local.
                     Os moradores cultivam milho, feijão, mandioca, maxixe, coco, frutas e hortaliças em pequenos roçados próximos às casas, garantindo alimento
                     fresco e fortalecendo a autonomia alimentar. Essas práticas seguem métodos tradicionais e sustentáveis, respeitando os ciclos naturais e mantendo
                     a relação direta da comunidade com a terra.
@@ -256,7 +256,7 @@
         <div class="linha-principal">
             <div class="texto">
                 <h2>🍲 Culinária</h2>
-                <p>A culinária da Comunidade Quilombola de Boi ocupa um lugar central na vida comunitária, refletindo a ancestralidade e a forte ligação com
+                <p>A culinária da Comunidade Quilombola Boi ocupa um lugar central na vida comunitária, refletindo a ancestralidade e a forte ligação com
                     a agricultura familiar. Os ingredientes cultivados localmente são transformados em receitas que atravessam gerações, fortalecendo os vínculos
                     familiares e reafirmando a identidade cultural do território. A alimentação é compreendida como patrimônio cultural e elemento de afirmação
                     identitária, conectando práticas produtivas, memória e modos de vida tradicionais.
@@ -322,11 +322,11 @@
         <div class="linha-principal">
             <div class="texto">
                 <h2>👵 Guardiões da Memória</h2>
-                <p>A Comunidade Quilombola de Boi é formada por homens e mulheres que atuam como verdadeiros guardiões da memória, da cultura e dos saberes ancestrais do território. No cotidiano, essas pessoas assumem a responsabilidade de preservar e transmitir práticas tradicionais ligadas à agricultura, ao artesanato, à culinária e às manifestações culturais, garantindo a continuidade da identidade quilombola. Entre esses guardiões destacam-se (1) Ednalva Moreira Santos, 39 anos, moradora da comunidade desde o nascimento, que cultiva o amor pela culinária tradicional, aprendida e transmitida entre gerações; (2) Nelsulino Lima Neres Santana, 78 anos, participante ativo do reisado, tocando e cantando, mantendo vivas as manifestações culturais e musicais; e (3) Lindauva Moraes Rodrigues, 53 anos, agricultora familiar que vive há mais de três décadas na comunidade, contribuindo para a preservação do modo de vida tradicional.</p>
+                <p>A Comunidade Quilombola Boi é formada por homens e mulheres que atuam como verdadeiros guardiões da memória, da cultura e dos saberes ancestrais do território. No cotidiano, essas pessoas assumem a responsabilidade de preservar e transmitir práticas tradicionais ligadas à agricultura, ao artesanato, à culinária e às manifestações culturais, garantindo a continuidade da identidade quilombola. Entre esses guardiões destacam-se (1) Ednalva Moreira Santos, 39 anos, moradora da comunidade desde o nascimento, que cultiva o amor pela culinária tradicional, aprendida e transmitida entre gerações; (2) Nelsulino Lima Neres Santana, 78 anos, participante ativo do reisado, tocando e cantando, mantendo vivas as manifestações culturais e musicais; e (3) Lindauva Moraes Rodrigues, 53 anos, agricultora familiar que vive há mais de três décadas na comunidade, contribuindo para a preservação do modo de vida tradicional.</p>
 
                 <p>Também se destacam (4) Alessandra Pereira de Souza Moreira, 38 anos, moradora nativa, mulher preta e católica, que atua na agricultura e no artesanato, contribuindo para a preservação da cultura local; (5) Lidinalva Rodrigues dos Santos Souza, 42 anos, residente há cerca de cinco anos, cuja principal ocupação é a agricultura, atividade que fortalece a conexão com a terra e a subsistência das famílias; e (6) Jorge Souza Carvalho, 40 anos, agricultor familiar que aprendeu desde a infância o trabalho com a terra ao lado dos pais, mantendo vivas as práticas agrícolas tradicionais.</p>
 
-                <p>Somam-se a esses guardiões da memória (7) Edmilson Moreira Santos, 29 anos, agricultor e atual liderança da Comunidade Quilombola de Boi, que participa ativamente das atividades agrícolas e organizativas; (8) Angélica Lima Alves Santana, 29 anos, artesã que aprendeu suas técnicas desde pequena e desenvolve trabalhos em crochê e chapéus com fibra de bananeira; e (9) Marlene Neves dos Santos de Jesus, 44 anos, que se dedica à produção de flores e cestas com palha de milho, valorizando os saberes tradicionais. Assim, a comunidade se afirma como um território de resistência cultural, onde memória, trabalho e coletividade se entrelaçam, garantindo a continuidade dos saberes e o fortalecimento da identidade quilombola.</p>
+                <p>Somam-se a esses guardiões da memória (7) Edmilson Moreira Santos, 29 anos, agricultor e atual liderança da Comunidade Quilombola Boi, que participa ativamente das atividades agrícolas e organizativas; (8) Angélica Lima Alves Santana, 29 anos, artesã que aprendeu suas técnicas desde pequena e desenvolve trabalhos em crochê e chapéus com fibra de bananeira; e (9) Marlene Neves dos Santos de Jesus, 44 anos, que se dedica à produção de flores e cestas com palha de milho, valorizando os saberes tradicionais. Assim, a comunidade se afirma como um território de resistência cultural, onde memória, trabalho e coletividade se entrelaçam, garantindo a continuidade dos saberes e o fortalecimento da identidade quilombola.</p>
 
             </div>
         </div>

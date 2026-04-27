@@ -83,9 +83,9 @@
         </div>
 
         <div class="card">
-            <img src="{{ asset('images/Logo/Boi.jpeg') }}" alt="Quilombo de Boi">
+            <img src="{{ asset('images/Logo/Boi.jpeg') }}" alt="Quilombo Boi">
             <div class="card-info">
-                <h3>Quilombo de Boi</h3>
+                <h3>Quilombo Boi</h3>
                 <p>Uma comunidade marcada por práticas culturais que atravessam gerações.</p>
                 <a href="{{ url('/historia/quilombo-de-boi') }}" class="card-link">Conhecer mais →</a>
             </div>

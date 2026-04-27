@@ -199,7 +199,7 @@
                     <img src="/images/Equipe/edmilson.jpeg" alt="Edmilson Moreira Santos">
                 </div>
                 <span class="pessoa-nome">Edmilson Moreira Santos</span>
-                <span class="pessoa-cargo">Líder do Quilombo de Boi</span>
+                <span class="pessoa-cargo">Líder do Quilombo Boi</span>
             </div>
 
             <div class="pessoa">

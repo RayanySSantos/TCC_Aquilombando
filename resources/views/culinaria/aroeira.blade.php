@@ -12,7 +12,7 @@
     <div class="culinaria-hero-container culinaria-hero-container--top">
         <div class="culinaria-hero-texto">
 
-            <p>A culinária da Comunidade Quilombola de Aroeira reflete diretamente a agricultura familiar praticada no território, utilizando ingredientes frescos e diversificados produzidos localmente. Esses alimentos dão origem a pratos que carregam histórias, tradições e saberes construídos ao longo do tempo, revelando a profunda relação entre a terra, a alimentação e a identidade cultural da comunidade.</p>
+            <p>A culinária da Comunidade Quilombola de Aroeira expressa diretamente a agricultura familiar desenvolvida no território, utilizando ingredientes frescos e variados produzidos localmente. Esses alimentos dão origem a preparações que carregam histórias, tradições e saberes construídos ao longo do tempo, evidenciando a profunda relação entre a terra, a alimentação e a identidade cultural da comunidade.</p>
 
             <p>Entre os pratos mais valorizados estão o frango caipira (01), o pirão de frango (02), o bolo de puba (03), o frango cheio (04), o caldo de frango (05) e o bolo de aipim (06). Todas essas receitas são transmitidas de geração em geração e representam um elo entre o passado e o presente, preservando modos de preparo, sabores e significados que fazem parte da memória coletiva do quilombo.</p>
 

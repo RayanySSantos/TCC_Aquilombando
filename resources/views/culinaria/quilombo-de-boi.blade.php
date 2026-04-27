@@ -3,7 +3,7 @@
 @section('content')
 <section class="secao-capa" style="background-image: linear-gradient(rgba(58, 15, 15, 0.80), rgba(58, 15, 15, 0.35)), url('{{ asset('images/Boi/comida/bolo.png') }}');">
     <div class="secao-capa-conteudo">
-        <h1>Quilombo de Boi: Receitas que Mantêm a Resistência</h1>
+        <h1>Quilombo Boi: Receitas que Mantêm a Resistência</h1>
         <span>Culinária</span>
     </div>
 </section>
@@ -12,7 +12,7 @@
     <div class="culinaria-hero-container">
         <div class="culinaria-hero-texto">
 
-            <p>A culinária da Comunidade Quilombola de Boi reflete diretamente a agricultura familiar e a forte presença da ancestralidade no cotidiano dos moradores. Os alimentos cultivados nos roçados da própria comunidade constituem a base das receitas tradicionais, garantindo uma alimentação saudável e profundamente conectada ao território. Esses saberes culinários, construídos ao longo do tempo, atravessam gerações e fortalecem a identidade cultural, revelando a relação entre alimento, memória e pertencimento.</p>
+            <p>A culinária da Comunidade Quilombola Boi expressa diretamente a agricultura familiar e a forte presença da ancestralidade no cotidiano dos moradores. Os alimentos cultivados nos roçados da própria comunidade formam a base das receitas tradicionais, garantindo uma alimentação saudável e profundamente ligada ao território. Esses saberes culinários, construídos ao longo do tempo, atravessam gerações e fortalecem a identidade cultural, evidenciando a relação entre alimento, memória e pertencimento.</p>
 
             <p>Entre os pratos mais representativos destacam-se o bolo de milho (01), o doce de umbu (02), a feijoada (03) e o cortado de palma (04), preparações que carregam histórias, afetos e significados culturais profundos. As receitas são transmitidas, principalmente, pela oralidade, pelas mulheres mais velhas da comunidade, que ensinam não apenas os ingredientes e os modos de preparo, mas também os tempos, os rituais e os sentidos que envolvem cada prato. Dessa forma, os sabores preservam a história e a resistência do povo quilombola.</p>
 
@@ -30,12 +30,12 @@
 
         <div class="culinaria-midia">
             <div class="culinaria-hero-galeria culinaria-hero-galeria--vertical">
-                <div class="culinaria-foto"><span class="culinaria-foto-numero">01</span><img src="{{ asset('images/Boi/comida/p1.jpeg') }}" alt="Quilombo de Boi 1"></div>
-                <div class="culinaria-foto"><span class="culinaria-foto-numero">02</span><img src="{{ asset('images/Boi/comida/p2.jpeg') }}" alt="Quilombo de Boi 2"></div>
-                <div class="culinaria-foto"><span class="culinaria-foto-numero">03</span><img src="{{ asset('images/Boi/comida/p3.jpeg') }}" alt="Quilombo de Boi 3"></div>
-                <div class="culinaria-foto"><span class="culinaria-foto-numero">04</span><img src="{{ asset('images/Boi/comida/p4.jpeg') }}" alt="Quilombo de Boi 4"></div>
+                <div class="culinaria-foto"><span class="culinaria-foto-numero">01</span><img src="{{ asset('images/Boi/comida/p1.jpeg') }}" alt="Quilombo Boi 1"></div>
+                <div class="culinaria-foto"><span class="culinaria-foto-numero">02</span><img src="{{ asset('images/Boi/comida/p2.jpeg') }}" alt="Quilombo Boi 2"></div>
+                <div class="culinaria-foto"><span class="culinaria-foto-numero">03</span><img src="{{ asset('images/Boi/comida/p3.jpeg') }}" alt="Quilombo Boi 3"></div>
+                <div class="culinaria-foto"><span class="culinaria-foto-numero">04</span><img src="{{ asset('images/Boi/comida/p4.jpeg') }}" alt="Quilombo Boi 4"></div>
             </div>
-            <p class="culinaria-galeria-fonte">Fonte: Quilombo de Boi; Projeto Mapeamento Gastronômico (2025).</p>
+            <p class="culinaria-galeria-fonte">Fonte: Quilombo Boi; Projeto Mapeamento Gastronômico (2025).</p>
         </div>
     </div>
 </section>

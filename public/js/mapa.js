@@ -9,7 +9,7 @@ document.addEventListener("DOMContentLoaded", () => {
     const comunidades = {
         "Caetité": ["Passagem de Areia"],
         "Palmas de Monte Alto": ["Vargem Alta", "Vargem Comprida", "Aroeira"],
-        "Pindaí": ["Quilombo de Boi"],
+        "Pindaí": ["Quilombo Boi"],
         "Candiba": ["Lagoa dos Anjos"]
     };
 

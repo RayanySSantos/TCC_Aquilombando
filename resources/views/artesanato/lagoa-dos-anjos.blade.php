@@ -12,12 +12,12 @@
     <div class="artesanato-hero-container artesanato-hero-container--top">
         <div class="artesanato-hero-texto">
 
-            <p>O artesanato da Comunidade Quilombola de Lagoa dos Anjos é uma das expressões mais autênticas da criatividade e da resistência cultural de seus moradores. Entre os principais trabalhos produzidos estão toucas, peças de crochê com linha de algodão, panos confeccionados a partir de retalhos, bolsas, colheres de pau e pilões de madeira. Cada peça carrega parte da história e da identidade local, reafirmando a importância da preservação dos saberes manuais tradicionais.</p>
+            <p>O artesanato da Comunidade Quilombola de Lagoa dos Anjos representa uma das manifestações mais genuínas da criatividade e da resistência cultural de seus moradores. Entre os principais produtos confeccionados estão toucas, peças em crochê com linha de algodão, panos feitos a partir de retalhos, bolsas, colheres de pau e pilões de madeira. Cada item produzido carrega parte da história e da identidade local, reafirmando a importância de preservar os saberes manuais tradicionais.</p>
 
-            <p>As técnicas artesanais são repassadas de geração em geração, fortalecendo a transmissão do conhecimento ancestral. As mulheres da comunidade exercem papel central nesse processo, sendo responsáveis por ensinar e manter vivas as práticas de confecção. O aprendizado ocorre, sobretudo, em momentos coletivos, como rodas de conversa e atividades compartilhadas, fortalecendo os laços familiares e comunitários.</p>
+            <p>As técnicas artesanais são transmitidas de geração em geração, fortalecendo a continuidade do conhecimento ancestral. As mulheres da comunidade desempenham papel essencial nesse processo, sendo responsáveis por ensinar e manter vivas as práticas de produção. O aprendizado acontece, principalmente, em momentos coletivos, como rodas de conversa e atividades compartilhadas, contribuindo para o fortalecimento dos laços familiares e comunitários.</p>
 
-            <p>Além de seu valor cultural, o artesanato desempenha função importante na complementação da renda das famílias, pois as peças produzidas são comercializadas em feiras, eventos e encontros comunitários. Preservar o artesanato significa também preservar a memória da comunidade, já que cada objeto produzido representa continuidade cultural, identidade quilombola e resistência. Dessa forma, os trabalhos manuais garantem que as futuras gerações conheçam e valorizem o legado deixado pelos ancestrais.</p>
-
+            <p>Além de seu valor cultural, o artesanato também exerce um papel relevante na complementação da renda das famílias, já que as peças produzidas são comercializadas em feiras, eventos e encontros comunitários. Preservar o artesanato é também preservar a memória da comunidade, pois cada objeto produzido representa continuidade cultural, identidade quilombola e resistência. Dessa maneira, os trabalhos manuais asseguram que as futuras gerações conheçam e valorizem o legado deixado pelos ancestrais.</p>
+        
         </div>
 
         <div class="artesanato-midia">
