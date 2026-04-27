@@ -1,52 +1,29 @@
-FROM node:20 AS frontend
-
-WORKDIR /app
-
-COPY package.json package-lock.json ./
-RUN npm ci
-
-COPY resources ./resources
-COPY public ./public
-COPY vite.config.js ./
-RUN npm run build
-
-
-FROM composer:2 AS vendor
-
-WORKDIR /app
-
-COPY composer.json composer.lock ./
-RUN composer install --no-dev --optimize-autoloader --no-interaction --no-scripts
-
-COPY . .
-RUN composer dump-autoload --optimize --no-dev
-
-
-FROM php:8.3-apache
-
-WORKDIR /var/www/html
+FROM php:8.2-cli
 
 RUN apt-get update && apt-get install -y \
-    libzip-dev \
     unzip \
-    && docker-php-ext-install pdo pdo_sqlite \
-    && a2enmod rewrite \
+    git \
+    curl \
+    libzip-dev \
+    zip \
+    libsqlite3-dev \
+    pkg-config \
+    && docker-php-ext-install zip pdo pdo_sqlite \
     && rm -rf /var/lib/apt/lists/*
 
-ENV APACHE_DOCUMENT_ROOT=/var/www/html/public
+RUN curl -fsSL https://deb.nodesource.com/setup_20.x | bash - \
+    && apt-get install -y nodejs
 
-RUN sed -ri -e 's!/var/www/html!${APACHE_DOCUMENT_ROOT}!g' /etc/apache2/sites-available/000-default.conf \
-    && sed -ri -e 's!/var/www/!${APACHE_DOCUMENT_ROOT}!g' /etc/apache2/apache2.conf /etc/apache2/conf-available/*.conf
+COPY --from=composer:latest /usr/bin/composer /usr/bin/composer
 
-COPY docker/apache-vhost.conf /etc/apache2/sites-available/000-default.conf
-COPY --from=vendor /app /var/www/html
-COPY --from=frontend /app/public/build /var/www/html/public/build
-COPY docker/entrypoint.sh /usr/local/bin/render-entrypoint
+WORKDIR /app
 
-RUN chmod +x /usr/local/bin/render-entrypoint \
-    && mkdir -p storage/framework/cache storage/framework/sessions storage/framework/views storage/logs bootstrap/cache \
-    && chown -R www-data:www-data /var/www/html/storage /var/www/html/bootstrap/cache
+COPY . .
 
-EXPOSE 10000
+RUN composer install --no-dev --optimize-autoloader
 
-CMD ["render-entrypoint"]
+RUN npm install && npm run build
+
+ENV PORT=10000
+
+CMD php artisan config:clear && php artisan route:clear && php -S 0.0.0.0:$PORT -t public
