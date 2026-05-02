@@ -11,7 +11,11 @@
             </p>
 
             <p>
-            No Sertão Produtivo, as comunidades quilombolas mantêm vivas essas tradições por meio da culinária, do artesanato, dos festejos, dos costumes e das práticas agrícolas. A alimentação tradicional destaca-se como uma importante expressão cultural, pois carrega memórias, afetos e saberes transmitidos pela oralidade. É a partir desse contexto que se insere este website, cujo objetivo é valorizar e dar visibilidade às comunidades quilombolas do Sertão Produtivo Baiano, utilizando a tecnologia como ferramenta de registro, preservação e disseminação de seus saberes e histórias. Nesta apresentação, estão reunidas as comunidades de Aroeira (01), Boi (02), Lagoa dos Anjos (03), Passagem de Areia (04), Vargem Alta (05) e Vargem Comprida (06), também identificadas nas imagens ao lado.
+            No Território Sertão Produtivo, as comunidades quilombolas mantêm vivos seus modos de vida por meio da culinária, do artesanato, dos festejos, dos costumes e das práticas agrícolas. A alimentação tradicional se destaca como uma potente expressão cultural, por reunir memórias, afetos e saberes que atravessam gerações, transmitidos, sobretudo, pela oralidade.
+            </p>
+
+            <p>
+            É nesse horizonte que se insere este website, concebido como um espaço de valorização, registro e circulação dos saberes e fazeres quilombolas, utilizando a tecnologia como aliada na preservação das histórias e identidades dessas comunidades. Nesta apresentação, estão reunidos os Quilombos Aroeira (01), Boi (02), Lagoa dos Anjos (03), Passagem de Areia (04), Vargem Alta (05) e Vargem Comprida (06), também identificadas nas imagens ao lado.
             </p>
         </div>
 
@@ -43,7 +47,7 @@
                 </div>
             </div>
 
-            <p class="hero-galeria-fonte">Fonte: Projetos Mapeamento Gastronômico, Culinária Ancestral e Comunidades Rurais e Tradicionais (2025).</p>
+            <p class="hero-galeria-fonte">Fonte: Projetos “Mapeamento Gastronômico”, “Culinária Ancestral” e “Vozes do Sertão” (2025).</p>
         </div>
     </div>
 </section>

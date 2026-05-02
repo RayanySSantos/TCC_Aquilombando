@@ -49,7 +49,7 @@
                 <div class="historia-foto"><img src="{{ asset('images/Lagoa dos Anjos/comida/p4.jpeg') }}" alt="Lagoa dos Anjos 6"></div>
             </div>
             <div class="historia-galeria-fontes">
-                <p class="historia-galeria-fonte">Fonte: Quilombo Lagoa dos Anjos; Projetos Mapeamento Gastronômico; Culinária Ancestral; e Comunidades Rurais e Tradicionais (2025).</p>
+                <p class="historia-galeria-fonte">Fonte: Quilombo Lagoa dos Anjos; Projetos “Mapeamento Gastronômico”; “Culinária Ancestral”; e “Vozes do Sertão” (2025).</p>
             </div>
         </div>
     </div>

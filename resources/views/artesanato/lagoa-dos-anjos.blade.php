@@ -25,7 +25,7 @@
                 <div class="artesanato-foto"><img src="{{ asset('images/Lagoa dos Anjos/artesanato/a1.jpeg') }}" alt="Lagoa dos Anjos 1"></div>
                 <div class="artesanato-foto"><img src="{{ asset('images/Lagoa dos Anjos/artesanato/a2.jpeg') }}" alt="Lagoa dos Anjos 2"></div>
             </div>
-                <p class="artesanato-galeria-fonte">Fonte: Quilombo Lagoa dos Anjos; Projetos Mapeamento Gastronômico; Culinária Ancestral; e Comunidades Rurais e Tradicionais (2025).</p>
+                <p class="artesanato-galeria-fonte">Fonte: Quilombo Lagoa dos Anjos; Projetos “Mapeamento Gastronômico”; “Culinária Ancestral”; e “Vozes do Sertão” (2025).</p>
         </div>
     </div>
 </section>

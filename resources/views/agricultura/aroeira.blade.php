@@ -25,7 +25,7 @@
                 <div class="agricultura-foto"><img src="{{ asset('images/Aroeira/Agricultura/h2.jpeg') }}" alt="Aroeira 2"></div>
                 <div class="agricultura-foto"><img src="{{ asset('images/Aroeira/Agricultura/h3.jpeg') }}" alt="Aroeira 3"></div>
             </div>
-                <p class="agricultura-galeria-fonte">Fonte: Quilombo Aroeira; Projetos Mapeamento Gastronômico; Culinária Ancestral; e Comunidades Rurais e Tradicionais (2025).</p>
+                <p class="agricultura-galeria-fonte">Fonte: Quilombo Aroeira; Projetos “Mapeamento Gastronômico”; “Culinária Ancestral”; e “Vozes do Sertão” (2025).</p>
         </div>
     </div>
 </section>

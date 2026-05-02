@@ -16,21 +16,13 @@
             
             <div class="texto">
                 <h2>📜 História</h2>
-                <p> A Comunidade Quilombola de Vargem Comprida, localizada na zona rural de Palmas de Monte Alto–BA,
-                    preserva com orgulho a memória e os costumes herdados de seus antepassados. Segundo os moradores,
-                    os primeiros habitantes vieram da região de Macaúbas, fugindo da escravidão em busca de liberdade
-                    e terras para viver. Desde então, a comunidade se fortaleceu pela valorização das raízes e pelo
-                    esforço coletivo de manter viva a cultura quilombola.
+                <p> A Comunidade Quilombola de Vargem Comprida, localizada na zona rural de Palmas de Monte Alto-BA, mantém vivos os saberes e modos de vida herdados de seus antepassados. Segundo relatos dos moradores, seus primeiros habitantes vieram da região de Macaúbas, em busca de liberdade e de um território onde pudessem viver e construir suas próprias trajetórias. Desde então, a comunidade se fortalece na partilha de memórias, no trabalho coletivo e na continuidade dos ensinamentos que atravessam gerações..
                 </p>
 
-                <p>A certificação oficial pela Fundação Cultural Palmares foi obtida em 
-                    <strong>15 de maio de 2016</strong>, resultado de um processo que reuniu relatos,
-                    registros audiovisuais e a participação ativa de lideranças e matriarcas da comunidade.
-                    Esse reconhecimento reforçou o sentimento de pertencimento e ampliou o acesso a políticas públicas
-                    voltadas para povos tradicionais.
+                <p>A certificação pela Fundação Cultural Palmares foi obtida em <strong>15 de maio de 2016</strong>, resultado de um processo construído a partir de relatos, registros audiovisuais e da participação ativa de lideranças e matriarcas da comunidade. Esse reconhecimento fortaleceu os vínculos com o território e ampliou o acesso a políticas públicas voltadas aos povos tradicionais.
                 </p>
 
-                <p>Atualmente, Vargem Comprida é liderada por <strong>Leonardo</strong>, morador que sempre viveu na
+                <p>Atualmente, Vargem Comprida é liderada por <strong>Leonardo de Oliveira Brito</strong>, morador que sempre viveu na
                     comunidade e desempenha seu papel com dedicação há três anos. Católico e formado no ensino superior,
                     trabalha com agricultura e defende a preservação cultural como caminho para fortalecer as novas
                     gerações. Entre as figuras de maior importância está <strong>Dona Silvalina Maria de Oliveira</strong>,
@@ -74,25 +66,19 @@
         <div class="linha-principal">
             <div class="texto">
                 <h2>🎶 Festejos</h2>
-                <p>O Reisado é uma das manifestações culturais mais significativas da Comunidade Quilombola de Vargem Comprida,
+                <p>O Reisado é uma das manifestações mais significativas da Comunidade Quilombola de Vargem Comprida,
                     configurando-se como uma expressão coletiva de fé, memória e identidade. A tradição reúne moradores em um
                     cortejo marcado por cantos, versos e danças conduzidas por instrumentos simples, que dão ritmo e sentido à celebração.
                     Mais do que um evento religioso, o Reisado representa um momento de encontro e fortalecimento dos laços comunitários,
                     no qual a ancestralidade é celebrada e reafirmada por meio da participação ativa dos diferentes grupos da comunidade.
                 </p>
 
-                <p>Transmitido de geração em geração, o Reisado mantém viva a ligação da comunidade com suas raízes culturais e espirituais.
-                    Crianças, jovens e adultos participam conjuntamente da festividade, aprendendo, na prática, os cantos, os versos e os
-                    significados que envolvem essa manifestação cultural. Esse processo de transmissão oral e vivencial contribui para a preservação
-                    dos saberes tradicionais e para a continuidade da identidade quilombola, reforçando o sentimento de pertencimento e respeito à
-                    história coletiva de Vargem Comprida.
+               <p>
+                Transmitido entre gerações, o Reisado mantém viva a ligação da comunidade com seus modos de viver e com a espiritualidade. Crianças, jovens e adultos participam conjuntamente da festividade, aprendendo, na prática, os cantos, os versos e os significados que a envolvem. Esse processo de partilha, baseado na experiência e na oralidade, contribui para a continuidade dos saberes e fortalece o sentimento de pertencimento e respeito à história coletiva de Vargem Comprida.
                 </p>
 
-                <p>Inserido no cotidiano cultural da comunidade, o Reisado dialoga com outras práticas tradicionais que também fortalecem a vida
-                     comunitária, como as danças de roda, as vias sacras, a missa do padroeiro, o Natal e as celebrações de São João. Conjuntamente,
-                     essas manifestações reafirmam valores como união, espiritualidade e ancestralidade, funcionando como mecanismos de resistência
-                     cultural frente ao passar do tempo. Assim, o Reisado se consolida não apenas como uma festividade, mas como um elemento central
-                     na preservação da memória, da cultura e da identidade quilombola de Vargem Comprida.
+                <p>
+                Presente no cotidiano da comunidade, o Reisado dialoga com outras práticas que também fortalecem a vida coletiva, como as danças de roda, as vias sacras, a missa do padroeiro, o Natal e as celebrações de São João. Em conjunto, esses momentos reafirmam valores como união, espiritualidade e ancestralidade, atuando como formas de permanência e resistência ao longo do tempo. Assim, o Reisado se consolida não apenas como uma festividade, mas como um elemento central na continuidade das memórias, dos saberes e das formas de vida da comunidade.
                 </p>
             </div>
         </div>
@@ -132,18 +118,12 @@
         <div class="linha-principal">
             <div class="texto">
                 <h2>🧶 Artesanato</h2>
-                <p>O artesanato na Comunidade Quilombola de Vargem Comprida constitui uma expressão viva da tradição, da criatividade
-                    e da identidade cultural local. Desenvolvido principalmente pelas mulheres da comunidade, o trabalho artesanal envolve
-                    a produção de peças em algodão no tear de roda, além da utilização de técnicas como crochê, ponto cruz, marambaia,
-                    vagonite e costura. Cada peça produzida carrega saberes transmitidos de geração em geração, representando a memória
-                    coletiva e reforçando o vínculo entre passado e presente na construção da identidade quilombola.
+                <p>
+                O artesanato na Comunidade Quilombola de Vargem Comprida expressa saberes, criatividade e modos próprios de fazer, sendo desenvolvido principalmente pelas mulheres da comunidade. A produção envolve peças em algodão no tear de roda, além de técnicas como crochê, ponto cruz, marambaia, vagonite e costura. Cada peça carrega conhecimentos partilhados entre gerações, mantendo em circulação memórias e fortalecendo os vínculos entre passado e presente no cotidiano da comunidade.
                 </p>
-                
-                <p>O algodão ocupa um lugar central nesse processo artesanal, simbolizando um elo ancestral com os conhecimentos herdados
-                    dos antepassados. O ato de <strong>fiar o algodão </strong> e transformá-lo em fios é cuidadosamente preservado pelas mulheres, que dominam
-                    técnicas aprendidas desde a infância. Esses fios são utilizados no tear de roda para confeccionar toalhas, cachecóis e
-                    outras peças que atendem tanto às necessidades cotidianas quanto à comercialização. O trabalho manual com o algodão
-                    representa resistência cultural, continuidade dos saberes tradicionais e respeito ao tempo e aos ritmos da natureza.
+
+                <p>
+                O algodão ocupa um lugar central nesse fazer, constituindo um elo com os conhecimentos herdados. O processo de fiar e transformar o algodão em fios é preservado pelas mulheres, que dominam técnicas aprendidas desde cedo. Esses fios são utilizados no tear de roda para a confecção de toalhas, cachecóis e outras peças, destinadas tanto ao uso cotidiano quanto à comercialização. O trabalho manual com o algodão reafirma a continuidade dos saberes, o cuidado com o tempo de produção e a relação respeitosa com os ritmos da natureza.
                 </p>
                 
                 <p>Nesse contexto, destaca-se a trajetória de Dona Silvalina Maria de Oliveira, reconhecida como guardiã desses conhecimentos
@@ -164,7 +144,7 @@
         </div>
 
         <div class="carrossel-pequeno">
-            <div class="tres-imagens">
+            <div class="tres-imagens" style="animation-duration: 70s;">
         
                 <!-- ARTESANATO – VARGEM COMPRIDA -->
                 <img src="{{ asset('images/Vargem Comprida/Artesanato/a1.jpeg') }}">
@@ -281,13 +261,12 @@
                 <p>Os ingredientes utilizados na culinária local, como feijão, milho, mandioca, batata-doce, maxixe, frutas e hortaliças, são provenientes,
                     em sua maioria, da própria comunidade, garantindo frescor e valorização da produção local. Cada prato representa um conhecimento
                     transmitido oralmente ao longo das gerações, preservando técnicas de preparo e combinações de sabores que expressam a memória coletiva.
-                    Dessa forma, a culinária de Vargem Comprida se consolida como um patrimônio cultural que conecta passado e presente por meio do alimento.
+                    Dessa forma, a culinária de Vargem Comprida se consolida como um patrimônio imaterial que conecta passado e presente por meio do alimento.
                  </p>
 
                  <p>O preparo dos alimentos ocorre, muitas vezes, de forma coletiva, envolvendo famílias inteiras em momentos de troca, aprendizado e celebração.
                     Cozinhar é, para os moradores, uma forma de manter viva a memória dos antepassados, fortalecer os laços familiares e reafirmar a identidade
-                    quilombola. Mais do que sustento, a culinária representa resistência cultural e pertencimento, assegurando que os saberes tradicionais
-                    continuem vivos e sejam transmitidos às futuras gerações.
+                    quilombola. Mais do que sustento, a culinária representa tradição, resistência e pertencimento, assegurando que os saberes tradicionais continuem vivos e sejam transmitidos às futuras gerações.
                 </p>
             </div>
         </div>
@@ -334,11 +313,54 @@
         <div class="linha-principal">
             <div class="texto">
                 <h2>👵 Guardiões da Memória</h2>
-                <p>A Comunidade Quilombola de Vargem Comprida mantém viva sua história por meio da força coletiva e, especialmente, do protagonismo das mulheres, que transmitem saberes, práticas culinárias, tradições e afetos entre gerações. É no cotidiano, entre o cultivo da terra, a preparação dos alimentos e os momentos de partilha, que a memória ancestral se renova e a identidade quilombola se fortalece. Entre essas figuras, destacam-se (1) Maria Madalena de Oliveira Lima, 73 anos, Silvalina Maria de Oliveira, 90 anos, e Maria Helena de Oliveira Brito, 59 anos, referências de vivência, tradição e resistência cultural, representando a continuidade dos saberes transmitidos entre gerações na comunidade.</p>
+                <p>
+                O Quilombo de Vargem Comprida mantém viva sua história por meio da força coletiva e, especialmente, do protagonismo das mulheres, que transmitem saberes, práticas culinárias, tradições e afetos entre gerações. É no cotidiano, entre o cultivo da terra, a preparação dos alimentos e os momentos de partilha, que a memória ancestral se renova e a identidade quilombola se fortalece. Entre os guardiões, destacam-se:
+                </p>
 
-                <p>Também se destacam (2) Maria Helena de Oliveira Brito, 59 anos, moradora da Comunidade Quilombola de Vargem Comprida desde o nascimento, cuja principal ocupação é a agricultura familiar, contribuindo para a preservação do modo de vida tradicional; (3) Maísa de Oliveira Brito, 29 anos, que aprendeu a cozinhar observando a mãe e mantém forte ligação com a culinária tradicional, especialmente no preparo do requeijão e da farofa de gergelim; e (4) Maria Elza Cândido de Oliveira, 61 anos, amante da culinária quilombola, que aprendeu a cozinhar com a mãe e atua na agricultura familiar ao lado da família, fortalecendo os laços culturais e comunitários.</p>
+                <p>
+                Silvalina Maria de Oliveira, 90 anos, é reconhecida como matriarca da Comunidade Quilombola de Vargem Comprida. Moradora do território desde sempre, é guardiã de saberes e tradições transmitidos entre gerações, especialmente por meio das histórias, da culinária e do artesanato. Destaca-se pelo trabalho no tear, onde produz peças carregadas de significado cultural, preservando técnicas ancestrais e mantendo viva a memória coletiva da comunidade. Sua trajetória simboliza a continuidade da identidade quilombola e o fortalecimento dos laços familiares e culturais. (1)
+                </p>
 
-                <p>Somam-se a essas guardiãs da memória (5) Raimunda Lopes de Oliveira Brito, 46 anos, mulher preta, católica e moradora da comunidade desde o nascimento, que se dedica ao artesanato desde a infância, preservando práticas manuais e culturais tradicionais; e (6) Adriana Maria de Oliveira Brito, 32 anos, que associa a culinária à alegria e à vida comunitária, destacando-se na preparação de alimentos durante as festas de São João e nas celebrações do padroeiro. Assim, Vargem Comprida se afirma como um território de resistência cultural, onde memória, trabalho e coletividade se entrelaçam, reafirmando a importância de valorizar e transmitir os saberes tradicionais às futuras gerações.</p>
+                <p>
+                Maria Helena de Oliveira Brito, 59 anos, moradora do Quilombo desde o nascimento, é agricultora e contribui para a preservação do modo de vida tradicional (2).
+                </p>
+
+                <p>
+                Maísa de Oliveira Brito, 29 anos, que aprendeu a cozinhar observando a mãe e mantém forte ligação com a culinária tradicional, especialmente no preparo do requeijão e da farofa de gergelim (3).
+                </p>
+
+                <p>
+                Maria Elza Cândido de Oliveira, 61 anos, amante da culinária quilombola, que aprendeu a cozinhar com a mãe e atua na agricultura familiar ao lado da família, fortalecendo os laços culturais e comunitários (4).
+                </p>
+
+                <p>
+                Raimunda Lopes de Oliveira Brito, 46 anos, mulher preta, católica e moradora da comunidade desde o nascimento, que se dedica ao artesanato desde a infância, preservando práticas manuais e culturais tradicionais (5).
+                </p>
+
+                <p>
+                Adriana Maria de Oliveira Brito, 32 anos, que associa a culinária à alegria e à vida comunitária, destacando-se na preparação de alimentos durante as festas de São João e nas celebrações do padroeiro (6).
+                </p>
+
+                <p>
+                Maria Madalena de Oliveira Lima, 73 anos, é artesã da comunidade e dedica-se ao trabalho no tear, saber que aprendeu com sua mãe ainda jovem. Por meio de suas mãos, mantém vivas técnicas tradicionais transmitidas entre gerações (7).
+                </p>
+
+                <p>
+                Natalice de Oliveira Brito Lopes, atua no artesanato e construiu seus saberes a partir do aprendizado com diferentes pessoas da comunidade. Ela desenvolve trabalhos em crochê e ponto cruz, técnica aprendida com sua mãe e que também constitui uma importante fonte de renda (8).
+                </p>
+
+                <p>
+                José Humberto de Oliveira, 71 anos, aprendeu a tecer com sua mãe e é reconhecido como um dos guardiões dos saberes da comunidade. Morador do território há muitos anos, carrega consigo conhecimentos ancestrais que fortalecem a memória coletiva e reafirmam a importância da tradição no cotidiano quilombola (9).
+                </p>
+
+                <p>
+                Leonardo de Oliveira Brito, 36 anos, é morador do território e exerce a liderança da comunidade há três anos. Agricultor e técnico em Agropecuária, atua com dedicação no fortalecimento da organização comunitária, valorizando a preservação das tradições quilombolas e a continuidade cultural das futuras gerações (10).
+                </p>
+
+                <p>
+                Assim, Vargem Comprida se afirma como um território de resistência cultural, onde memória, trabalho e coletividade se entrelaçam, reafirmando a importância de valorizar e transmitir os saberes tradicionais às futuras gerações.
+                </p>
+
             </div>
         </div>
 
@@ -347,7 +369,7 @@
 
                 <figure class="guardiao-item">
                     <span class="guardiao-numero">1</span>
-                    <img src="{{ asset('images/Vargem Comprida/guardia/g1w.jpeg') }}" alt="Guardiões da memória - imagem 1">
+                    <img src="{{ asset('images/Vargem Comprida/guardia/g1.jpeg') }}" alt="Guardiões da memória - imagem 1">
                 </figure>
                 <figure class="guardiao-item">
                     <span class="guardiao-numero">2</span>
@@ -368,6 +390,22 @@
                 <figure class="guardiao-item">
                     <span class="guardiao-numero">6</span>
                     <img src="{{ asset('images/Vargem Comprida/guardia/g8.jpeg') }}" alt="Guardiões da memória - imagem 6">
+                </figure>
+                <figure class="guardiao-item">
+                    <span class="guardiao-numero">7</span>
+                    <img src="{{ asset('images/Vargem Comprida/guardia/g11.jpeg') }}" alt="Guardiões da memória - imagem 6">
+                </figure>
+                <figure class="guardiao-item">
+                    <span class="guardiao-numero">8</span>
+                    <img src="{{ asset('images/Vargem Comprida/guardia/g12.jpeg') }}" alt="Guardiões da memória - imagem 6">
+                </figure>
+                <figure class="guardiao-item">
+                    <span class="guardiao-numero">9</span>
+                    <img src="{{ asset('images/Vargem Comprida/guardia/g13.jpeg') }}" alt="Guardiões da memória - imagem 6">
+                </figure>
+                <figure class="guardiao-item">
+                    <span class="guardiao-numero">10</span>
+                    <img src="{{ asset('images/Vargem Comprida/guardia/leo.jpeg') }}" alt="Guardiões da memória - imagem 6">
                 </figure>
 
                 <!-- DUPLICAÇÃO PARA LOOP INFINITO -->
@@ -394,6 +432,22 @@
                 <figure class="guardiao-item">
                     <span class="guardiao-numero">6</span>
                     <img src="{{ asset('images/Vargem Comprida/guardia/g8.jpeg') }}" alt="Guardiões da memória - imagem 6">
+                </figure>
+                <figure class="guardiao-item">
+                    <span class="guardiao-numero">7</span>
+                    <img src="{{ asset('images/Vargem Comprida/guardia/g11.jpeg') }}" alt="Guardiões da memória - imagem 6">
+                </figure>
+                <figure class="guardiao-item">
+                    <span class="guardiao-numero">8</span>
+                    <img src="{{ asset('images/Vargem Comprida/guardia/g12.jpeg') }}" alt="Guardiões da memória - imagem 6">
+                </figure>
+                <figure class="guardiao-item">
+                    <span class="guardiao-numero">9</span>
+                    <img src="{{ asset('images/Vargem Comprida/guardia/g13.jpeg') }}" alt="Guardiões da memória - imagem 6">
+                </figure>
+                <figure class="guardiao-item">
+                    <span class="guardiao-numero">10</span>
+                    <img src="{{ asset('images/Vargem Comprida/guardia/leo.jpeg') }}" alt="Guardiões da memória - imagem 6">
                 </figure>
 
             </div>
