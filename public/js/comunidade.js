@@ -3,9 +3,9 @@ document.addEventListener("DOMContentLoaded", () => {
     const fontePadrao = `Fonte: ${nomeQuilombo}; Projeto Mapeamento Gastronômico (2025).`;
     const fontesEspecificas = {
         "Quilombo Aroeira":
-            "Fonte: Quilombo Aroeira; Projetos Mapeamento Gastronômico; Culinária Ancestral; e Comunidades Rurais e Tradicionais (2025).",
+            "Fonte: Quilombo Aroeira; Projetos Mapeamento Gastronômico; Culinária Ancestral; e Vozes do Sertão (2025).",
         "Quilombo Lagoa dos Anjos":
-            "Fonte: Quilombo Lagoa dos Anjos; Projetos Mapeamento Gastronômico; Culinária Ancestral; e Comunidades Rurais e Tradicionais (2025).",
+            "Fonte: Quilombo Lagoa dos Anjos; Projetos Mapeamento Gastronômico; Culinária Ancestral; e Vozes do Sertão (2025).",
     };
 
     if (!nomeQuilombo) {

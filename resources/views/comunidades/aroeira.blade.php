@@ -18,20 +18,18 @@
                 <h2>📜 História</h2>
                 <p>O Quilombo Aroeira está localizado na zona rural do município de Palmas de Monte Alto, Bahia, e tem suas origens ligadas à história de Vitor Brito,
                     um homem livre que foi escravizado e posteriormente recebeu sua carta de alforria. Seu legado se espalhou por diversos quilombos nos territórios
-                    do Sertão Produtivo e do Velho Chico, deixando marcas profundas na formação histórica e na identidade cultural da região. Essa trajetória de
+                    do Sertão Produtivo e do Velho Chico, deixando marcas profundas na formação histórica e na identidade quilombola da região. Essa trajetória de
                     resistência e luta constitui a base da memória coletiva que sustenta a Comunidade Quilombola de Aroeira.
                 </p>
 
-                <p>Na Comunidade Quilombola de Aroeira, a matriarca Dona Maria da Conceição dos Santos, tataraneta de Vitor Brito, exerce papel fundamental na
-                    preservação da história e das tradições locais. Com 72 anos de idade e cerca de cinquenta anos vivendo no quilombo, ela mantém viva a herança
+                <p>Em Aroeira, a matriarca <strong>Dona Maria da Conceição dos Santos</strong>, tataraneta de Vitor Brito, exerce papel fundamental na preservação da história e das tradições locais Com 72 anos de idade e cerca de cinquenta anos vivendo no quilombo, ela mantém viva a herança
                     de seus antepassados. Aprendeu a cozinhar com a avó e a mãe, preservando receitas transmitidas ao longo das gerações, que simbolizam a memória,
                     a resistência e o pertencimento do seu povo. Além do trabalho com a terra, dedica-se ao artesanato, transformando em arte os saberes herdados das
                     mulheres de sua família.
                 </p>
 
-                <p>Essa continuidade histórica contribuiu para que, em 02 de abril de 2016, a comunidade recebeu a certificação oficial da
-                    Fundação Palmares, consolidando a identidade quilombola e ampliando a visibilidade de suas práticas culturais.
-                    Atualmente, a liderança da comunidade é exercida por Nelci Conceição dos Santos, nascida no próprio quilombo e com 46 anos de idade,
+                <p>Essa trajetória contribuiu para que, em <strong>02 de abril de 2016</strong>, a comunidade obtivesse a certificação da Fundação Cultural Palmares, fortalecendo seus vínculos com o território e ampliando a visibilidade de seus modos de vida e saberes.
+                    Atualmente, a liderança da comunidade é exercida por <strong>Nelci Conceição dos Santos</strong>, nascida no próprio quilombo e com 46 anos de idade,
                     que atua na defesa dos direitos da população local e na articulação de projetos voltados à valorização cultural. Sua atuação reforça a
                     força das mulheres quilombolas e a luta contínua para manter viva a história, os valores e a identidade do Quilombo Aroeira.
                 </p>
@@ -68,20 +66,24 @@
         <div class="linha-principal">
             <div class="texto">
                 <h2>🎶 Festejos</h2>
-                <p>A Comunidade Quilombola de Aroeira mantém vivas diversas manifestações culturais que fortalecem os laços comunitários e reafirmam a
-                    memória coletiva. Entre essas práticas destacam-se o reisado, o samba de roda, as festas de São João, o Natal e a celebração de Santa Luzia,
-                    além de tradições familiares transmitidas oralmente. Esses festejos reúnem moradores de diferentes gerações em momentos de fé, música, dança e
-                    convivência, preservando valores culturais profundamente enraizados na história da comunidade.
+                <p>
+                A Comunidade Quilombola de Aroeira mantém vivas diversas práticas que fortalecem os vínculos comunitários e atualizam as memórias partilhadas. Entre elas, destacam-se o reisado, o samba de roda, as festas de São João, o Natal e a celebração de Santa Luzia, além de costumes familiares transmitidos pela oralidade. Esses momentos reúnem moradores de diferentes gerações em vivências marcadas pela fé, pela música, pela dança e pela convivência, mantendo em circulação saberes e valores que atravessam a história da comunidade.
                 </p>
 
-                <p>As celebrações desempenham papel central na transmissão dos saberes ancestrais, permitindo que crianças, jovens e adultos compartilhem
-                    experiências e aprendizados construídos ao longo do tempo. Por meio dessas práticas culturais, a comunidade mantém viva a religiosidade,
-                    a oralidade e os costumes herdados dos antepassados, garantindo que a memória coletiva continue sendo reconhecida e valorizada no cotidiano.
+                <p>
+                As celebrações desempenham papel central na transmissão dos saberes ancestrais, permitindo que crianças, jovens e adultos compartilhem experiências e aprendizados construídos ao longo do tempo. Por meio dessas práticas culturais, a comunidade mantém viva a religiosidade, a oralidade e os costumes herdados dos antepassados, garantindo que a memória coletiva continue sendo reconhecida e valorizada no cotidiano.
                 </p>
 
-                <p>O reisado, em especial, ocupa lugar de destaque na identidade cultural de Aroeira, sendo vivenciado como expressão de devoção, alegria e resistência.
-                    Essas manifestações culturais asseguram a continuidade das tradições e reforçam o sentimento de pertencimento ao território quilombola, mantendo
-                    viva a história, os saberes e a identidade da comunidade para o presente e para as futuras gerações.
+                <p>
+                O reisado, em especial, ocupa lugar de destaque na identidade cultural de Aroeira, sendo vivenciado como expressão de devoção, alegria e resistência. Essas manifestações culturais asseguram a continuidade das tradições e reforçam o sentimento de pertencimento ao território quilombola, mantendo viva a história, os saberes e a identidade da comunidade para o presente e para as futuras gerações.
+                </p>
+
+                <p>
+                Nas celebrações da comunidade, os instrumentos musicais assumem papel fundamental, pois, além de conduzirem o ritmo das festividades, são portadores de memórias e valores herdados dos ancestrais. A sanfona, com seu som marcante, acompanha danças e cantos, criando um ambiente de alegria, encontro e coletividade. O bumba dos reis, por sua vez, imprime força e cadência ao reisado, orientando os versos e transformando a celebração em um momento de espiritualidade, resistência cultural e pertencimento.
+                </p>
+
+                <p>
+                O tamborim artesanal, também conhecido em algumas tradições como caixa de folia, é presença constante nas festas populares, especialmente no reisado e nas folias de reis. Suas batidas ritmadas marcam o compasso das músicas e reforçam a energia coletiva do ritual. Assim, cada instrumento, seja de corda, sopro ou percussão, ultrapassa a função sonora e se afirma como símbolo de continuidade cultural, elo entre gerações e elemento essencial para o fortalecimento da identidade da comunidade. Nesse contexto, destaca-se Seu Júlio, que apresenta e toca instrumentos tradicionais utilizados nas celebrações do quilombo Aroeira, como o bumba dos reis, a sanfona e o tamborim, contribuindo para a preservação e transmissão desses saberes culturais.
                 </p>
 
             </div>
@@ -118,20 +120,16 @@
         <div class="linha-principal">
             <div class="texto">
                 <h2>🧶 Artesanato</h2>
-                <p>O artesanato da Comunidade Quilombola de Aroeira é uma expressão viva da criatividade, da memória ancestral e do legado cultural da comunidade.
-                    Entre as peças produzidas estão tapetes, flores, cestos confeccionados com fibra de bananeira e trabalhos em crochê feitos com linha fiada no
-                    fuso de algodão, todos elaborados a partir de técnicas tradicionais transmitidas de geração em geração. Cada criação reflete o saber das mulheres
-                    da comunidade e reafirma a identidade quilombola por meio do trabalho manual.
+                <p>
+                O artesanato do Quilombo Aroeira expressa criatividade, memória e saberes herdados, materializados em peças como tapetes, flores, cestos confeccionados com fibra de bananeira e trabalhos em crochê feitos com linha fiada no fuso de algodão. Produzidas a partir de técnicas tradicionais, essas criações revelam o conhecimento das mulheres da comunidade e mantêm em circulação modos de fazer transmitidos entre gerações.
                 </p>
 
-                <p>O aprendizado dessas técnicas ocorre, principalmente, no interior das famílias, sendo repassado pelas mulheres, que desempenham papel central
-                    na preservação e continuidade dos saberes artesanais. O artesanato torna-se, assim, um elo entre as gerações, fortalecendo os laços familiares
-                    e comunitários, além de garantir que os conhecimentos tradicionais permaneçam vivos e valorizados pelas novas gerações.
+                <p>
+                Esse aprendizado ocorre, sobretudo, no âmbito familiar, onde as mulheres desempenham papel central na partilha e continuidade desses saberes. Assim, o artesanato se constitui como um elo entre gerações, fortalecendo vínculos e assegurando que esses conhecimentos permaneçam presentes no cotidiano da comunidade.
                 </p>
 
-                <p>Além de seu valor cultural e simbólico, o artesanato também contribui para a economia local, uma vez que as peças são comercializadas em feiras
-                    e eventos, complementando a renda das famílias e promovendo maior autonomia financeira. Mais do que uma atividade produtiva, o artesanato de
-                    Aroeira representa resistência cultural, pertencimento e valorização da memória coletiva, assegurando a continuidade das tradições quilombolas.
+                <p>
+                Para além de seu valor simbólico, o artesanato também contribui para a economia local, sendo comercializado em feiras e eventos, o que complementa a renda das famílias e amplia sua autonomia. Dessa forma, mais do que uma atividade produtiva, ele se consolida como uma prática que fortalece pertencimentos, valoriza memórias e garante a continuidade dos modos de fazer da comunidade.
                 </p>
 
             </div>
@@ -179,8 +177,7 @@
                 </p>
 
                 <p>O excedente da produção agrícola é comercializado em feiras e mercados locais, contribuindo para a renda das famílias e fortalecendo a autonomia
-                    econômica da comunidade. Dessa forma, a agricultura familiar em Aroeira não se limita à produção de alimentos, mas se consolida como prática
-                    cultural e de resistência, preservando tradições, fortalecendo laços comunitários e reafirmando a identidade quilombola.
+                    econômica da comunidade. Dessa forma, a agricultura familiar em Aroeira vai além da produção de alimentos, constituindo-se como um modo de vida que preserva saberes, fortalece os laços comunitários e assegura a continuidade das práticas e relações construídas no território.
                 </p>
 
             </div>
@@ -218,11 +215,8 @@
         <div class="linha-principal">
             <div class="texto">
                 <h2>🍲 Culinária</h2>
-                <p>A culinária da Comunidade Quilombola de Aroeira reflete diretamente a agricultura familiar e os saberes transmitidos entre gerações,
-                    sendo compreendida como elemento central da identidade cultural e da memória social do grupo. Os ingredientes produzidos localmente dão
-                    origem a pratos tradicionais que carregam história e identidade cultural, como o bolo de puba, o bolo de aipim, o caldo de frango, o pirão
-                    de frango caipira, o frango cheio e o frango caipira, evidenciando a forte relação entre o cultivo da terra e os modos tradicionais de preparo
-                    dos alimentos.
+                <p>
+                A culinária do Quilombo Aroeira está diretamente ligada à agricultura familiar e aos saberes partilhados entre gerações, constituindo um elemento central das memórias e dos modos de vida da comunidade. Os ingredientes cultivados no próprio território dão origem a preparações que carregam histórias e significados, como o bolo de puba, o bolo de aipim, o caldo de frango, o pirão de frango caipira, o frango cheio e o frango caipira, evidenciando a forte relação entre o cultivo da terra e as formas tradicionais de preparo dos alimentos.
                 </p>
 
                 <p>O preparo dos alimentos ocorre, muitas vezes, de forma coletiva, especialmente em encontros familiares e celebrações comunitárias,
@@ -231,9 +225,8 @@
                     da tradição culinária quilombola.
                 </p>
 
-                <p>Mais do que alimento, a culinária de Aroeira simboliza resistência cultural e afirmação identitária. O compartilhamento das receitas e dos momentos
-                    à mesa reafirma o orgulho, a história e os valores ancestrais da comunidade, demonstrando que a preservação dos saberes tradicionais está
-                    diretamente ligada à continuidade da identidade quilombola e à resistência histórica frente aos desafios contemporâneos.
+                <p>
+                Mais do que alimento, a culinária de Aroeira expressa resistência, pertencimento e formas próprias de se reconhecer no território. A partilha das receitas e dos momentos à mesa fortalece vínculos, atualiza memórias e mantém em circulação os saberes herdados, evidenciando que sua continuidade está diretamente ligada à permanência desses modos de viver frente aos desafios do presente.
                 </p>
 
             </div>
