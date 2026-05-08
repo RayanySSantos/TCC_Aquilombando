@@ -31,7 +31,6 @@
                 <p>A certificação oficial concedida pela Fundação Palmares, em 03 de fevereiro de 2017, consolidou o reconhecimento institucional
                     da comunidade e ampliou o acesso a políticas públicas e programas de desenvolvimento rural e social. A partir desse reconhecimento, a
                     comunidade Boi fortaleceu iniciativas voltadas à valorização cultural, à agricultura familiar e à preservação dos saberes tradicionais.
-                    O termo “negos do Boi”, antes utilizado de forma preconceituosa, foi ressignificado como símbolo de resistência, orgulho e afirmação identitária.
                 </p>
 
             </div>
@@ -76,22 +75,11 @@
         <div class="linha-principal">
             <div class="texto">
                 <h2>🎶 Festejos</h2>
-                <p>Os festejos ocupam um lugar central na vida comunitária da Comunidade Quilombola Boi, funcionando como momentos de celebração da história,
-                    da cultura e do pertencimento coletivo. O Festival Quilombola destaca-se como um evento importante, no qual os moradores reafirmam valores,
-                    práticas e memórias que unem diferentes gerações e evidenciam a diversidade cultural presente no território.
-                </p>
+                <p>No Quilombo Boi, os festejos ocupam um papel importante no cotidiano da comunidade, reunindo moradores em momentos de celebração das memórias, dos vínculos e das formas de vida compartilhadas. O Festival Quilombola destaca-se como um desses encontros, no qual diferentes gerações se reúnem para fortalecer práticas, valores e lembranças que contribuem para a continuidade da vida comunitária.</p>
 
-                <p>Além do festival, as manifestações culturais se expressam por meio de festejos tradicionais que fortalecem os vínculos sociais e preservam a
-                    memória coletiva. Entre essas celebrações estão a Festa de Reis, as festas juninas, os encontros religiosos e outros momentos comemorativos
-                    que reúnem famílias e reforçam o sentimento de pertencimento ao território quilombola. Esses eventos atuam como espaços de transmissão cultural,
-                    nos quais os saberes e tradições são compartilhados de forma coletiva.
-                </p>
+                <p>Além do festival, outras celebrações fazem parte do calendário da comunidade, como a Festa de Reis, as festas juninas e os encontros religiosos, que aproximam famílias e reforçam os laços com o território. Esses momentos funcionam como espaços de convivência e partilha, nos quais saberes e experiências são compartilhados coletivamente.</p>
 
-                <p>Entre as expressões culturais, destaca-se a dança de roda, prática transmitida entre gerações que reúne os moradores em torno da música,
-                    do canto e do movimento circular, simbolizando união, espiritualidade e continuidade cultural. Os festejos em Boi constituem espaços de convivência,
-                    troca de saberes e reafirmação da identidade quilombola, expressando resistência, vitalidade e a riqueza cultural que sustentam o modo de vida
-                    da comunidade.
-                </p>
+                <p>Entre as práticas presentes nessas celebrações, a dança de roda se destaca por integrar música, canto e movimento, promovendo interação e continuidade entre as gerações. Dessa forma, os festejos em Boi configuram-se como espaços de convivência e troca, mantendo vivos os saberes e fortalecendo os vínculos que sustentam o cotidiano da comunidade.</p>
 
             </div>
         </div>
@@ -133,23 +121,9 @@
         <div class="linha-principal">
             <div class="texto">
                 <h2>🧶 Artesanato</h2>
-                <p>No cotidiano da Comunidade Quilombola Boi, o artesanato manifesta-se como expressão de sustentabilidade, criatividade e preservação dos
-                    saberes tradicionais. Utilizando materiais naturais e técnicas ancestrais transmitidas ao longo das gerações, as mulheres, principais
-                    guardiãs desse conhecimento, produzem cestos, flores de bananeira, bonecas de pano, pinturas e outras peças que revelam profundo vínculo
-                    com os recursos locais e com a história da comunidade. O uso da fibra da bananeira, de folhas secas e de materiais reaproveitados demonstra
-                    habilidade manual e respeito ao meio ambiente.
-                </p>
+                <p>As técnicas artesanais são transmitidas entre gerações, fortalecendo os vínculos familiares e comunitários e garantindo a continuidade dos saberes tradicionais. O aprendizado ocorre de maneira coletiva, permitindo que crianças e jovens conheçam e valorizem os modos tradicionais de produção. Dessa forma, o artesanato integra diferentes dimensões do cotidiano, mantendo vivas memórias e práticas construídas ao longo do tempo.</p>
 
-                <p>As técnicas artesanais são ensinadas de geração em geração, fortalecendo os laços familiares e comunitários e garantindo a continuidade das
-                    práticas ancestrais. O aprendizado ocorre de forma coletiva, permitindo que crianças e jovens conheçam e valorizem os modos tradicionais de
-                    produção. Dessa forma, o artesanato integra cultura, arte e identidade, reafirmando o pertencimento quilombola e a valorização da memória coletiva.
-                </p>
-
-                <p>Além de seu valor cultural e simbólico, o artesanato desempenha função econômica relevante, pois muitas peças são comercializadas em feiras e
-                    eventos locais, contribuindo para a geração de renda e a sustentabilidade da comunidade. Mais do than simples objetos, os trabalhos manuais
-                    representam resistência cultural, orgulho e continuidade das tradições, mantendo viva a história e fortalecendo a identidade quilombola da
-                    Comunidade Boi.
-                </p>
+                <p>Além de seu valor simbólico, o artesanato também desempenha papel importante na economia local, sendo comercializado em feiras e eventos, o que contribui para a geração de renda e para a sustentabilidade da comunidade. Mais do que objetos, os trabalhos manuais expressam pertencimento e continuidade, preservando a história e fortalecendo os vínculos que sustentam a vida na Comunidade Boi.</p>
 
             </div>
         </div>
@@ -322,11 +296,28 @@
         <div class="linha-principal">
             <div class="texto">
                 <h2>👵 Guardiões da Memória</h2>
-                <p>A Comunidade Quilombola Boi é formada por homens e mulheres que atuam como verdadeiros guardiões da memória, da cultura e dos saberes ancestrais do território. No cotidiano, essas pessoas assumem a responsabilidade de preservar e transmitir práticas tradicionais ligadas à agricultura, ao artesanato, à culinária e às manifestações culturais, garantindo a continuidade da identidade quilombola. Entre esses guardiões destacam-se (1) Ednalva Moreira Santos, 39 anos, moradora da comunidade desde o nascimento, que cultiva o amor pela culinária tradicional, aprendida e transmitida entre gerações; (2) Nelsulino Lima Neres Santana, 78 anos, participante ativo do reisado, tocando e cantando, mantendo vivas as manifestações culturais e musicais; e (3) Lindauva Moraes Rodrigues, 53 anos, agricultora familiar que vive há mais de três décadas na comunidade, contribuindo para a preservação do modo de vida tradicional.</p>
 
-                <p>Também se destacam (4) Alessandra Pereira de Souza Moreira, 38 anos, moradora nativa, mulher preta e católica, que atua na agricultura e no artesanato, contribuindo para a preservação da cultura local; (5) Lidinalva Rodrigues dos Santos Souza, 42 anos, residente há cerca de cinco anos, cuja principal ocupação é a agricultura, atividade que fortalece a conexão com a terra e a subsistência das famílias; e (6) Jorge Souza Carvalho, 40 anos, agricultor familiar que aprendeu desde a infância o trabalho com a terra ao lado dos pais, mantendo vivas as práticas agrícolas tradicionais.</p>
+                <p>O Quilombo Boi é formado por homens e mulheres que atuam como verdadeiros guardiões da memória, da cultura e dos saberes ancestrais do território. No cotidiano, essas pessoas assumem a responsabilidade de preservar e transmitir práticas tradicionais relacionadas à agricultura, ao artesanato, à culinária e às manifestações culturais, assegurando a continuidade da identidade quilombola. Entre esses guardiões destacam-se:</p>
 
-                <p>Somam-se a esses guardiões da memória (7) Edmilson Moreira Santos, 29 anos, agricultor e atual liderança da Comunidade Quilombola Boi, que participa ativamente das atividades agrícolas e organizativas; (8) Angélica Lima Alves Santana, 29 anos, artesã que aprendeu suas técnicas desde pequena e desenvolve trabalhos em crochê e chapéus com fibra de bananeira; e (9) Marlene Neves dos Santos de Jesus, 44 anos, que se dedica à produção de flores e cestas com palha de milho, valorizando os saberes tradicionais. Assim, a comunidade se afirma como um território de resistência cultural, onde memória, trabalho e coletividade se entrelaçam, garantindo a continuidade dos saberes e o fortalecimento da identidade quilombola.</p>
+                <p>Ednalva Moreira Santos, 39 anos, moradora da comunidade desde o nascimento, que cultiva o apreço pela culinária tradicional, aprendida e transmitida entre gerações (1).</p>
+
+                <p>Nelsulino Lima Neres Santana, 78 anos, participante ativo do reisado, tocando e cantando, contribuindo para manter vivas as manifestações culturais e musicais da comunidade (2).</p>
+
+                <p>Lindauva Moraes Rodrigues, 53 anos, agricultora familiar que vive há mais de três décadas na comunidade, colaborando para a preservação do modo de vida tradicional (3).</p>
+
+                <p>Alessandra Pereira de Souza Moreira, 38 anos, moradora nativa, mulher preta e católica, que atua na agricultura e no artesanato, contribuindo para a preservação da cultura local (4).</p>
+
+                <p>Lidinalva Rodrigues dos Santos Souza, 42 anos, residente na comunidade há cerca de cinco anos, cuja principal atividade é a agricultura, fortalecendo a conexão com a terra e a subsistência das famílias (5).</p>
+
+                <p>Jorge Souza Carvalho, 40 anos, agricultor familiar que aprendeu desde a infância o trabalho com a terra ao lado dos pais, mantendo vivas as práticas agrícolas tradicionais (6).</p>
+
+                <p>Edmilson Moreira Santos, 29 anos, agricultor e atual liderança da Comunidade Quilombola Boi, que participa ativamente das atividades agrícolas e organizativas (7).</p>
+
+                <p>Angélica Lima Alves Santana, 29 anos, artesã que aprendeu suas técnicas desde pequena e desenvolve trabalhos em crochê e chapéus confeccionados com fibra de bananeira (8).</p>
+
+                <p>Marlene Neves dos Santos de Jesus, 44 anos, que se dedica à produção de flores e cestas utilizando palha de milho, valorizando os saberes tradicionais (9).</p>
+
+                <p>Assim, a comunidade se fortalece como um território de continuidade, onde memória, trabalho e coletividade se entrelaçam, mantendo vivos os saberes e sustentando os modos de vida construídos ao longo das gerações.</p>
 
             </div>
         </div>

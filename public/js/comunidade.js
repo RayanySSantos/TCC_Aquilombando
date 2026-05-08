@@ -28,6 +28,18 @@ document.addEventListener("DOMContentLoaded", () => {
             fonteCompleta = "Fonte: Quilombo Vargem Comprida (2025).";
         }
 
+        if (nomeQuilombo === "Quilombo Boi" && secao && secao.id === "agricultura") {
+            fonteCompleta = "Fonte: Quilombo Boi (2025);";
+        }
+
+        if (nomeQuilombo === "Quilombo Lagoa dos Anjos" && secao && secao.id === "reisado") {
+            fonteCompleta = "Fonte: Quilombo Lagoa dos Anjos (2025);";
+        }
+
+        if (nomeQuilombo === "Quilombo Lagoa dos Anjos" && secao && secao.id === "culinaria") {
+            fonteCompleta = "Fonte: Culinária Ancestral (2025).";
+        }
+
         const fontes = document.createElement("div");
         fontes.className = "carrossel-fontes";
         fontes.innerHTML = `

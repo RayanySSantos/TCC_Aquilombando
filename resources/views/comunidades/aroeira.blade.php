@@ -273,11 +273,26 @@
         <div class="linha-principal">
             <div class="texto">
                 <h2>👵 Guardiões da Memória</h2>
-                <p>A Comunidade Quilombola de Aroeira carrega em suas raízes a força da ancestralidade e o orgulho de uma história marcada pela resistência e pela liberdade. Seus moradores mantêm viva a memória dos antepassados por meio dos costumes, da fé e dos saberes transmitidos entre gerações, reafirmando diariamente a identidade quilombola e o compromisso com a continuidade da história coletiva. Entre esses guardiões da memória destacam-se (1) Rosalina Montalvão dos Santos, 44 anos, que sempre viveu na comunidade e mantém viva a tradição culinária aprendida com sua mãe e sua tia; (2) Lizenir Brito dos Santos Oliveira, 29 anos, que chegou à comunidade há dois anos trazendo saberes culinários herdados de sua mãe e avó; e (3) Maria da Conceição dos Santos, 72 anos, moradora há cerca de cinco décadas, que atua como lavradora e guardiã dos saberes culinários tradicionais.</p>
 
-                <p>Também se destacam (4) Júlio dos Santos, 68 anos, morador da comunidade há aproximadamente 50 anos, participante ativo do reisado e conhecedor de plantas medicinais, saberes que aprendeu com sua avó; (5) Osvaldina Lima Pereira, 51 anos, que vive há mais de 30 anos em Aroeira e é reconhecida pelo preparo da feijoada e pela participação nas festas comunitárias; e (6) Cleidmar Brito dos Santos, 32 anos, descendente de quilombolas, que desde a infância cultiva o amor pela culinária tradicional, participando ativamente das festividades locais.</p>
+                <p>O Quilombo Aroeira carrega em suas raízes a força da ancestralidade e o orgulho de uma trajetória marcada pela resistência e pela busca por liberdade. Os moradores preservam a memória de seus antepassados por meio dos costumes, da fé e dos saberes compartilhados entre gerações, reafirmando diariamente a identidade quilombola e o compromisso com a continuidade da história coletiva. Entre esses guardiões da memória destacam-se:</p>
 
-                <p>Somando-se a esses guardiões da memória, (7) Nelci Conceição dos Santos, 46 anos, nascida na Comunidade Quilombola de Vargem Alta e atual líder e representante comunitária em Aroeira, atua como professora e defensora dos direitos quilombolas, contribuindo para o fortalecimento da identidade coletiva e da luta por reconhecimento. Assim, Aroeira se consolida como um território de resistência cultural, onde memória, tradição e coletividade se entrelaçam, garantindo que os saberes e práticas ancestrais continuem sendo transmitidos às futuras gerações.</p>
+                <p>Maria da Conceição dos Santos, 72 anos, moradora da comunidade há cerca de cinco décadas, que atua como lavradora e guardiã dos saberes culinários tradicionais (1).</p>
+
+                <p>Júlio dos Santos, 68 anos, residente na comunidade há aproximadamente 50 anos, participante ativo do reisado e conhecedor de plantas medicinais, conhecimentos aprendidos com sua avó (2).</p>
+
+                <p>Nelci Conceição dos Santos, 46 anos, nascida na Comunidade Quilombola de Vargem Alta e atual líder e representante comunitária em Aroeira, atua como professora na rede municipal e defensora dos direitos quilombolas, contribuindo para o fortalecimento da identidade coletiva e da luta por reconhecimento (3).</p>
+
+                <p>Rosalina Montalvão dos Santos, 44 anos, que sempre viveu na comunidade e mantém viva a tradição culinária aprendida com sua mãe e sua tia (4).</p>
+
+                <p>Vanilton Magalhães Neves, 44 anos, residente na comunidade há mais de 30 anos. Atua na agricultura, dedicando-se ao cultivo da terra e à preservação dos saberes ancestrais transmitidos entre gerações. Seu trabalho contribui para a manutenção das práticas tradicionais e para o fortalecimento da identidade e do modo de vida da comunidade (5).</p>
+
+                <p>Lizenir Brito dos Santos Oliveira, 29 anos, que chegou à comunidade há dois anos trazendo conhecimentos culinários herdados de sua mãe e de sua avó (6).</p>
+
+                <p>Osvaldina Lima Pereira, 51 anos, que vive há mais de 30 anos em Aroeira e é reconhecida pelo preparo da feijoada e pela participação nas festividades comunitárias (7).</p>
+
+                <p>Cleidmar Brito dos Santos, 32 anos, descendente de quilombolas, que desde a infância cultiva o interesse pela culinária tradicional, participando ativamente das celebrações locais (8).</p>
+
+                <p>Assim, Aroeira se consolida como um território de resistência cultural, onde memória, tradição e coletividade se entrelaçam, garantindo que os saberes e práticas ancestrais continuem sendo transmitidos às futuras gerações.</p>
 
             </div>
         </div>
@@ -287,61 +302,69 @@
 
                 <figure class="guardiao-item">
                     <span class="guardiao-numero">1</span>
-                    <img src="{{ asset('images/Aroeira/guardia/g1.JPG') }}" alt="Guardiões da memória - imagem 1">
+                    <img src="{{ asset('images/Aroeira/guardia/g3.jpg') }}" alt="Guardiões da memória - imagem 1">
                 </figure>
                 <figure class="guardiao-item">
                     <span class="guardiao-numero">2</span>
-                    <img src="{{ asset('images/Aroeira/guardia/g2.jpg') }}" alt="Guardiões da memória - imagem 2">
+                    <img src="{{ asset('images/Aroeira/guardia/g4.jpeg') }}" alt="Guardiões da memória - imagem 2">
                 </figure>
                 <figure class="guardiao-item">
                     <span class="guardiao-numero">3</span>
-                    <img src="{{ asset('images/Aroeira/guardia/g3.jpg') }}" alt="Guardiões da memória - imagem 3">
+                    <img src="{{ asset('images/Aroeira/guardia/nelci.jpeg') }}" alt="Guardiões da memória - imagem 3">
                 </figure>
                 <figure class="guardiao-item">
                     <span class="guardiao-numero">4</span>
-                    <img src="{{ asset('images/Aroeira/guardia/g4.jpeg') }}" alt="Guardiões da memória - imagem 4">
+                    <img src="{{ asset('images/Aroeira/guardia/g1.JPG') }}" alt="Guardiões da memória - imagem 4">
                 </figure>
                 <figure class="guardiao-item">
                     <span class="guardiao-numero">5</span>
-                    <img src="{{ asset('images/Aroeira/guardia/g5.jpeg') }}" alt="Guardiões da memória - imagem 5">
+                    <img src="{{ asset('images/Aroeira/guardia/Vanilton.jpeg') }}" alt="Guardiões da memória - imagem 5">
                 </figure>
                 <figure class="guardiao-item">
                     <span class="guardiao-numero">6</span>
-                    <img src="{{ asset('images/Aroeira/guardia/g6.jpg') }}" alt="Guardiões da memória - imagem 6">
+                    <img src="{{ asset('images/Aroeira/guardia/g7.jpeg') }}" alt="Guardiões da memória - imagem 6">
                 </figure>
                 <figure class="guardiao-item">
                     <span class="guardiao-numero">7</span>
-                    <img src="{{ asset('images/Aroeira/guardia/g8.jpeg') }}" alt="Guardiões da memória - imagem 7">
+                    <img src="{{ asset('images/Aroeira/guardia/g5.jpeg') }}" alt="Guardiões da memória - imagem 7">
+                </figure>
+                <figure class="guardiao-item">
+                    <span class="guardiao-numero">8</span>
+                    <img src="{{ asset('images/Aroeira/guardia/g6.jpg') }}" alt="Guardiões da memória - imagem 7">
                 </figure>
 
                 <!-- loop -->
                 <figure class="guardiao-item">
                     <span class="guardiao-numero">1</span>
-                    <img src="{{ asset('images/Aroeira/guardia/g1.JPG') }}" alt="Guardiões da memória - imagem 1">
+                    <img src="{{ asset('images/Aroeira/guardia/g3.jpg') }}" alt="Guardiões da memória - imagem 1">
                 </figure>
                 <figure class="guardiao-item">
                     <span class="guardiao-numero">2</span>
-                    <img src="{{ asset('images/Aroeira/guardia/g2.jpg') }}" alt="Guardiões da memória - imagem 2">
+                    <img src="{{ asset('images/Aroeira/guardia/g4.jpeg') }}" alt="Guardiões da memória - imagem 2">
                 </figure>
                 <figure class="guardiao-item">
                     <span class="guardiao-numero">3</span>
-                    <img src="{{ asset('images/Aroeira/guardia/g3.jpg') }}" alt="Guardiões da memória - imagem 3">
+                    <img src="{{ asset('images/Aroeira/guardia/nelci.jpeg') }}" alt="Guardiões da memória - imagem 3">
                 </figure>
                 <figure class="guardiao-item">
                     <span class="guardiao-numero">4</span>
-                    <img src="{{ asset('images/Aroeira/guardia/g4.jpeg') }}" alt="Guardiões da memória - imagem 4">
+                    <img src="{{ asset('images/Aroeira/guardia/g1.JPG') }}" alt="Guardiões da memória - imagem 4">
                 </figure>
                 <figure class="guardiao-item">
                     <span class="guardiao-numero">5</span>
-                    <img src="{{ asset('images/Aroeira/guardia/g5.jpeg') }}" alt="Guardiões da memória - imagem 5">
+                    <img src="{{ asset('images/Aroeira/guardia/Vanilton.jpeg') }}" alt="Guardiões da memória - imagem 5">
                 </figure>
                 <figure class="guardiao-item">
                     <span class="guardiao-numero">6</span>
-                    <img src="{{ asset('images/Aroeira/guardia/g6.jpg') }}" alt="Guardiões da memória - imagem 6">
+                    <img src="{{ asset('images/Aroeira/guardia/g7.jpeg') }}" alt="Guardiões da memória - imagem 6">
                 </figure>
                 <figure class="guardiao-item">
                     <span class="guardiao-numero">7</span>
-                    <img src="{{ asset('images/Aroeira/guardia/g8.jpeg') }}" alt="Guardiões da memória - imagem 7">
+                    <img src="{{ asset('images/Aroeira/guardia/g5.jpeg') }}" alt="Guardiões da memória - imagem 7">
+                </figure>
+                <figure class="guardiao-item">
+                    <span class="guardiao-numero">8</span>
+                    <img src="{{ asset('images/Aroeira/guardia/g6.jpg') }}" alt="Guardiões da memória - imagem 7">
                 </figure>
 
             </div>
