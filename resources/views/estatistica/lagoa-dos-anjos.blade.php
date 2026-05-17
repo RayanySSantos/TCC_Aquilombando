@@ -3,7 +3,10 @@
 @section('content')
 <section class="estatistica-hero">
     <div class="estatistica-hero-container">
-        <h1>Perfil dos participantes da comunidade Lagoa dos Anjos do projeto Mapeamento Gastronômico: o resgate dos saberes culinários quilombolas no Território Sertão Produtivo</h1>
+        <div class="estatistica-contexto">
+            <p>O questionário foi aplicado no contexto do projeto Mapeamento Gastronômico: o resgate dos saberes culinários quilombolas no Território Sertão Produtivo, desenvolvido junto à Comunidade Quilombola de Lagoa dos Anjos. A coleta de dados integrou as ações da pesquisa, com o objetivo de compreender o perfil dos(as) participantes e sua relação com os saberes e práticas do cotidiano. Ao todo, participaram do estudo XX moradores da comunidade, que contribuíram diretamente com as atividades do projeto. As informações obtidas permitem traçar um panorama do perfil dos participantes e fundamentam as análises apresentadas a seguir.</p>
+        </div>
+        <h1>Perfil dos(as) participantes – Quilombo Lagoa dos Anjos</h1>
     </div>
 </section>
 
@@ -31,14 +34,12 @@
                 <li>Outros: 5%</li>
             </ul>
         </div>
-        <div class="estatistica-card-grafico">
-            <img src="{{ asset('images/Lagoa dos Anjos/estatistica/escolaridade.jpeg') }}" alt="Atividades econômicas em Lagoa dos Anjos">
-        </div>
+        
     </section>
 
     <section class="estatistica-card estatistica-card--duo">
         <div class="estatistica-card-grafico">
-            <img src="{{ asset('images/Vargem Alta/estatistica/') }}" alt="Escolaridade em Lagoa dos Anjos">
+            <img src="{{ asset('images/Lagoa dos Anjos/estatistica/escolaridade.jpeg') }}" alt="Escolaridade em Lagoa dos Anjos">
         </div>
         <div class="estatistica-card-info estatistica-card-info--verde">
             <h2>Níveis de Escolaridade</h2>
@@ -52,7 +53,7 @@
 
     <section class="estatistica-card estatistica-card--duo">
         <div class="estatistica-card-info estatistica-card-info--amarelo">
-            <h2>Raça</h2>
+            <h2>Autodeclaração étnico-racial</h2>
             <ul>
                 <p>
                 A análise da auto declaração de raça/cor dos(as) quilombolas da Comunidade de Lagoa dos Anjos revela a predominância de indivíduos que se autodeclaram pretos(as), correspondendo a 60% da amostra, enquanto 40% se identificam como pardos(as). Esses dados evidenciam a forte presença de identidades étnico-raciais historicamente associadas às comunidades quilombolas, reforçando o vínculo com a ancestralidade afro-brasileira. A distribuição observada demonstra a diversidade interna da comunidade, ao mesmo tempo em que reafirma sua identidade coletiva e pertencimento étnico, aspectos fundamentais para a valorização cultural e para o fortalecimento das políticas de reconhecimento e inclusão social.

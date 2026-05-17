@@ -16,21 +16,13 @@
             
             <div class="texto">
                 <h2>📜 História</h2>
-                <p>A Comunidade Quilombola de Lagoa dos Anjos, localizada no município de Candiba, Bahia, possui uma trajetória marcada pela união e pela luta
-                    coletiva de seus moradores. A origem de sua história remonta aos primeiros habitantes que, movidos pelo espírito solidário, doaram terrenos
-                    para a construção dos salões comunitários. Esses espaços tornaram-se fundamentais para encontros, celebrações e momentos de fortalecimento social,
-                    garantindo que a vida comunitária fosse pautada pela coletividade, pelo respeito mútuo e pela preservação das tradições.
-                </p>
+                <p>A Comunidade Quilombola de Lagoa dos Anjos, situada no município de Candiba, Bahia, possui uma trajetória marcada pela união e pela luta coletiva de seus moradores. Sua história teve início com os primeiros habitantes que, guiados pelo espírito de solidariedade, doaram terrenos para a construção da igreja e do salão comunitário. Esses espaços passaram a desempenhar papel essencial nos encontros, celebrações e momentos de fortalecimento social, garantindo que a vida comunitária fosse construída com base na coletividade, no respeito mútuo e na preservação das tradições.</p>
 
-                <p>O reconhecimento oficial da comunidade como quilombo foi resultado de intensa mobilização interna. Dois sobrinhos desempenharam papel essencial
-                    nesse processo, estimulando a participação dos moradores e a busca pelos direitos coletivos. Esse esforço culminou, em 2011, na certificação
-                    concedida pela Fundação Palmares, marco histórico que consolidou a identidade quilombola de Lagoa dos Anjos e ampliou o acesso
-                    a políticas públicas e projetos voltados ao fortalecimento da comunidade.
-                </p>
+                <p>O reconhecimento oficial de Lagoa dos Anjos como comunidade quilombola foi resultado de uma intensa mobilização coletiva. Nesse processo, o quilombola <strong>João Alves dos Santos(1)</strong> desempenhou papel fundamental ao incentivar a união dos moradores e a busca pelos direitos coletivos. Como fruto desse empenho, a comunidade recebeu, <strong>em 2011</strong>, a certificação da Fundação Cultural Palmares, marco importante que representou uma conquista histórica para os moradores e fortaleceu a identidade quilombola local.</p>
 
-                <p>Nesse contexto, a liderança comunitária teve papel decisivo, destacando-se a atuação de Luciene Alves Santos Silva, que por anos esteve à
+                <p>Nesse contexto, a liderança comunitária teve papel decisivo, destacando-se a atuação de <strong>Luciene Alves dos Santos Silva(2)</strong>, que por anos esteve à
                     frente das iniciativas locais, articulando apoios e buscando recursos que resultaram em melhorias na infraestrutura e na valorização cultural.
-                    Atualmente, a liderança é exercida por Jorge Alto dos Santos, que dá continuidade a esse legado, trabalhando para manter vivas as tradições e
+                    Atualmente, a liderança é exercida por <strong>Jorge Alto dos Santos(3)</strong>, que dá continuidade a esse legado, trabalhando para manter vivas as tradições e
                     assegurar que as novas gerações compreendam a importância da história, da resistência e da identidade quilombola de Lagoa dos Anjos.
                 </p>
 
@@ -38,14 +30,34 @@
         </div>
 
         <div class="carrossel-pequeno">
-            <div class="tres-imagens">
-        
-                <img src="{{ asset('images/Lagoa dos Anjos/historia/hi1.jpeg') }}">
-                <img src="{{ asset('images/Lagoa dos Anjos/historia/hi2.jpeg') }}">
+            <div class="tres-imagens guardioes-enumeradas">
+                
+                <figure class="guardiao-item">
+                    <span class="guardiao-numero">1</span>
+                    <img src="{{ asset('images/Lagoa dos Anjos/guardia/g4.jpeg') }}" alt="História - imagem 1">
+                </figure>
+                <figure class="guardiao-item">
+                    <span class="guardiao-numero">2</span>
+                    <img src="{{ asset('images/Lagoa dos Anjos/historia/hi1.jpeg') }}" alt="História - imagem 2">
+                </figure>
+                <figure class="guardiao-item">
+                    <span class="guardiao-numero">3</span>
+                    <img src="{{ asset('images/Lagoa dos Anjos/historia/hi2.jpeg') }}" alt="História - imagem 3">
+                </figure>
         
                 <!-- loop -->
-                <img src="{{ asset('images/Lagoa dos Anjos/historia/hi1.jpeg') }}">
-                <img src="{{ asset('images/Lagoa dos Anjos/historia/hi2.jpeg') }}">
+                <figure class="guardiao-item">
+                    <span class="guardiao-numero">1</span>
+                    <img src="{{ asset('images/Lagoa dos Anjos/guardia/g4.jpeg') }}" alt="História - imagem 1">
+                </figure>
+                <figure class="guardiao-item">
+                    <span class="guardiao-numero">2</span>
+                    <img src="{{ asset('images/Lagoa dos Anjos/historia/hi1.jpeg') }}" alt="História - imagem 2">
+                </figure>
+                <figure class="guardiao-item">
+                    <span class="guardiao-numero">3</span>
+                    <img src="{{ asset('images/Lagoa dos Anjos/historia/hi2.jpeg') }}" alt="História - imagem 3">
+                </figure>
         
             </div>
         </div>
@@ -66,12 +78,11 @@
         <div class="linha-principal">
             <div class="texto">
                 <h2>🎶 Festejos</h2>
-                <p>No Quilombo Lagoa dos Anjos, as práticas coletivas ocupam um papel essencial na vida cotidiana, fortalecendo os vínculos entre os moradores e mantendo vivas as memórias compartilhadas. Entre esses momentos, destaca-se o Reisado, uma das manifestações mais importantes da comunidade, que reúne pessoas de diferentes gerações em cortejos marcados por cantos, danças e pelo som de instrumentos musicais.</p>
+                <p>No Quilombo Lagoa dos Anjos, as práticas coletivas desempenham papel essencial no cotidiano da comunidade, fortalecendo os vínculos entre os moradores e preservando as memórias compartilhadas. Entre esses momentos, destaca-se o Reisado, uma das manifestações mais importantes da comunidade, que reúne pessoas de diferentes gerações em cortejos marcados por cantos, danças e pelo som de instrumentos musicais.</p>
 
-                <p>Vivenciado como um momento de devoção, alegria e encontro, o Reisado vai além do sentido religioso, tornando-se um espaço de convivência e fortalecimento dos laços comunitários. Nele, histórias, crenças e modos de vida se entrelaçam, sendo renovados por meio da música, da dança e da participação coletiva.</p>
+                <p>Vivenciado como um momento de devoção, alegria e encontro, o Reisado vai além do sentido religioso, tornando-se um espaço de convivência e fortalecimento dos laços comunitários. Nele, histórias, crenças e modos de viver se entrelaçam, sendo renovados por meio da música, da dança e da participação coletiva.</p>
 
-                <p>Transmitido entre gerações, o Reisado mantém vivos saberes e ensinamentos herdados dos antepassados, reforçando as relações sociais e a ligação da comunidade com o território e a espiritualidade. Dessa forma, consolida-se como um elemento essencial para a continuidade das memórias e dos modos de vida de Lagoa dos Anjos.</p>
-
+                <p>Partilhado entre gerações, o Reisado mantém vivos saberes e ensinamentos herdados, fortalecendo as relações sociais e a ligação da comunidade com o território e a espiritualidade. Dessa forma, consolida-se como um elemento fundamental para a continuidade das memórias e dos modos de vida de Lagoa dos Anjos.</p>
             </div>
         </div>
 
@@ -225,22 +236,58 @@
         </div>
 
         <div class="carrossel-pequeno">
-            <div class="tres-imagens">
+            <div class="tres-imagens guardioes-enumeradas">
         
-                <img src="{{ asset('images/Lagoa dos Anjos/comida/p1.jpeg') }}">
-                <img src="{{ asset('images/Lagoa dos Anjos/comida/p2.jpeg') }}">
-                <img src="{{ asset('images/Lagoa dos Anjos/comida/p3.jpeg') }}">
-                <img src="{{ asset('images/Lagoa dos Anjos/comida/p4.jpeg') }}">
-                <img src="{{ asset('images/Lagoa dos Anjos/comida/p5.jpeg') }}">
-                <img src="{{ asset('images/Lagoa dos Anjos/comida/p6.jpeg') }}">
+                <figure class="guardiao-item">
+                    <span class="guardiao-numero">1</span>
+                    <img src="{{ asset('images/Lagoa dos Anjos/comida/p1.jpeg') }}" alt="Culinária - prato 1">
+                </figure>
+                <figure class="guardiao-item">
+                    <span class="guardiao-numero">2</span>
+                    <img src="{{ asset('images/Lagoa dos Anjos/comida/p2.jpeg') }}" alt="Culinária - prato 2">
+                </figure>
+                <figure class="guardiao-item">
+                    <span class="guardiao-numero">3</span>
+                    <img src="{{ asset('images/Lagoa dos Anjos/comida/p3.jpeg') }}" alt="Culinária - prato 3">
+                </figure>
+                <figure class="guardiao-item">
+                    <span class="guardiao-numero">4</span>
+                    <img src="{{ asset('images/Lagoa dos Anjos/comida/p4.jpeg') }}" alt="Culinária - prato 4">
+                </figure>
+                <figure class="guardiao-item">
+                    <span class="guardiao-numero">5</span>
+                    <img src="{{ asset('images/Lagoa dos Anjos/comida/p5.jpeg') }}" alt="Culinária - prato 5">
+                </figure>
+                <figure class="guardiao-item">
+                    <span class="guardiao-numero">6</span>
+                    <img src="{{ asset('images/Lagoa dos Anjos/comida/p6.jpeg') }}" alt="Culinária - prato 6">
+                </figure>
         
                 <!-- loop -->
-                <img src="{{ asset('images/Lagoa dos Anjos/comida/p1.jpeg') }}">
-                <img src="{{ asset('images/Lagoa dos Anjos/comida/p2.jpeg') }}">
-                <img src="{{ asset('images/Lagoa dos Anjos/comida/p3.jpeg') }}">
-                <img src="{{ asset('images/Lagoa dos Anjos/comida/p4.jpeg') }}">
-                <img src="{{ asset('images/Lagoa dos Anjos/comida/p5.jpeg') }}">
-                <img src="{{ asset('images/Lagoa dos Anjos/comida/p6.jpeg') }}">
+                <figure class="guardiao-item">
+                    <span class="guardiao-numero">1</span>
+                    <img src="{{ asset('images/Lagoa dos Anjos/comida/p1.jpeg') }}" alt="Culinária - prato 1">
+                </figure>
+                <figure class="guardiao-item">
+                    <span class="guardiao-numero">2</span>
+                    <img src="{{ asset('images/Lagoa dos Anjos/comida/p2.jpeg') }}" alt="Culinária - prato 2">
+                </figure>
+                <figure class="guardiao-item">
+                    <span class="guardiao-numero">3</span>
+                    <img src="{{ asset('images/Lagoa dos Anjos/comida/p3.jpeg') }}" alt="Culinária - prato 3">
+                </figure>
+                <figure class="guardiao-item">
+                    <span class="guardiao-numero">4</span>
+                    <img src="{{ asset('images/Lagoa dos Anjos/comida/p4.jpeg') }}" alt="Culinária - prato 4">
+                </figure>
+                <figure class="guardiao-item">
+                    <span class="guardiao-numero">5</span>
+                    <img src="{{ asset('images/Lagoa dos Anjos/comida/p5.jpeg') }}" alt="Culinária - prato 5">
+                </figure>
+                <figure class="guardiao-item">
+                    <span class="guardiao-numero">6</span>
+                    <img src="{{ asset('images/Lagoa dos Anjos/comida/p6.jpeg') }}" alt="Culinária - prato 6">
+                </figure>
         
             </div>
         </div>

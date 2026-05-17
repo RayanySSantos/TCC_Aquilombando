@@ -21,17 +21,13 @@
             </p>
 
             <p>
-                Na Comunidade Quilombola de Aroeira, a preservação dessa memória ancestral é reforçada pela atuação de Dona Maria da
-                Conceição dos Santos, tataraneta de Vitor Brito e reconhecida como matriarca da comunidade. Aos 72 anos de idade e com
-                aproximadamente cinco décadas de vivência no quilombo, Dona Maria mantém vivos os saberes transmitidos por sua avó e
-                por sua mãe, especialmente aqueles ligados à culinária tradicional. Além disso, dedica-se ao trabalho com a terra e ao
-                artesanato, transformando em prática cotidiana os conhecimentos que foram passados entre as mulheres de sua família.
+                Na Comunidade Quilombola de Aroeira, a preservação dessa memória ancestral é reforçada pela atuação de <strong>Dona Maria da Conceição dos Santos (3)</strong>, tataraneta de Vitor Brito e reconhecida como matriarca da comunidade. Aos 72 anos de idade e com aproximadamente cinco décadas de vivência no quilombo, Dona Maria mantém vivos os saberes transmitidos por sua avó e por sua mãe, especialmente aqueles ligados à culinária tradicional. Além disso, dedica-se ao trabalho com a terra e ao artesanato, transformando em prática cotidiana os conhecimentos que foram passados entre as mulheres de sua família. Ao seu lado, <strong>Júlio dos Santos (1)</strong>, 68 anos, esposo de Dona Maria e morador da comunidade há cerca de 50 anos, também contribui para a continuidade das tradições locais, participando das celebrações comunitárias e fortalecendo os vínculos familiares e coletivos que mantêm viva a memória da Comunidade Quilombola de Aroeira.
             </p>
 
             <p>
                 Essa continuidade histórica e cultural foi essencial para que, em 02 de abril de 2016, a Comunidade Quilombola de Aroeira
                 obtivesse a certificação oficial da Fundação Cultural Palmares, consolidando seu reconhecimento como território quilombola.
-                Atualmente, a liderança da comunidade é exercida por Nelci Conceição dos Santos, nascida no próprio quilombo, que atua na
+                Atualmente, a liderança da comunidade é exercida por <strong>Nelci Conceição dos Santos (2)</strong>, nascida no próprio quilombo, que atua na
                 defesa dos direitos da população local e na articulação de iniciativas voltadas à valorização cultural. Sua atuação reforça
                 o protagonismo feminino e o compromisso coletivo com a preservação da história, dos valores e da identidade do Quilombo Aroeira.
             </p>
@@ -40,11 +36,11 @@
 
         <div class="historia-midia">
             <div class="historia-hero-galeria">
-                <div class="historia-foto"><img src="{{ asset('images/Aroeira/guardia/g4.jpeg') }}" alt="Aroeira 1"></div>
+                <div class="historia-foto"><span class="historia-numero">1</span><img src="{{ asset('images/Aroeira/guardia/g4.jpeg') }}" alt="Aroeira 1"></div>
                 <div class="historia-foto"><img src="{{ asset('images/Aroeira/festejos/f3.png') }}" alt="Aroeira 2"></div>
                 <div class="historia-foto"><img src="{{ asset('images/Aroeira/Agricultura/h4.jpeg') }}" alt="Aroeira 3"></div>
-                <div class="historia-foto"><img src="{{ asset('images/Aroeira/historia/hi1.jpeg') }}" alt="Aroeira 4"></div>
-                <div class="historia-foto"><img src="{{ asset('images/Aroeira/artesanato/a3.jpeg') }}" alt="Aroeira 5"></div>
+                <div class="historia-foto"><span class="historia-numero">2</span><img src="{{ asset('images/Aroeira/historia/hi1.jpeg') }}" alt="Aroeira 4"></div>
+                <div class="historia-foto"><span class="historia-numero">3</span><img src="{{ asset('images/Aroeira/artesanato/a3.jpeg') }}" alt="Aroeira 5"></div>
                 <div class="historia-foto"><img src="{{ asset('images/Aroeira/comida/p7.jpg') }}" alt="Aroeira 6"></div>
             </div>
             <div class="historia-galeria-fontes">

@@ -24,11 +24,11 @@
 
                 <p>O processo de certificação como comunidade quilombola representou um marco histórico para Boi, resultado de pouco mais de um ano de intensa
                     mobilização dos moradores. A comunidade se dedicou à reunião de documentos, registros históricos e relatos orais que comprovassem sua
-                    ancestralidade e formação territorial. Esse processo foi conduzido com o apoio da liderança local, exercida por Edmilson Moreira Santos,
+                    ancestralidade e formação territorial. Esse processo foi conduzido com o apoio da liderança local, exercida por <strong>Edmilson Moreira Santos</strong>,
                     cuja atuação foi fundamental na organização interna, na mediação com instituições públicas e no fortalecimento da identidade quilombola.
                 </p>
 
-                <p>A certificação oficial concedida pela Fundação Palmares, em 03 de fevereiro de 2017, consolidou o reconhecimento institucional
+                <p>A certificação oficial concedida pela Fundação Palmares, em <strong>03 de fevereiro de 2017</strong>, consolidou o reconhecimento institucional
                     da comunidade e ampliou o acesso a políticas públicas e programas de desenvolvimento rural e social. A partir desse reconhecimento, a
                     comunidade Boi fortaleceu iniciativas voltadas à valorização cultural, à agricultura familiar e à preservação dos saberes tradicionais.
                 </p>
@@ -75,12 +75,13 @@
         <div class="linha-principal">
             <div class="texto">
                 <h2>🎶 Festejos</h2>
+
                 <p>No Quilombo Boi, os festejos ocupam um papel importante no cotidiano da comunidade, reunindo moradores em momentos de celebração das memórias, dos vínculos e das formas de vida compartilhadas. O Festival Quilombola destaca-se como um desses encontros, no qual diferentes gerações se reúnem para fortalecer práticas, valores e lembranças que contribuem para a continuidade da vida comunitária.</p>
 
                 <p>Além do festival, outras celebrações fazem parte do calendário da comunidade, como a Festa de Reis, as festas juninas e os encontros religiosos, que aproximam famílias e reforçam os laços com o território. Esses momentos funcionam como espaços de convivência e partilha, nos quais saberes e experiências são compartilhados coletivamente.</p>
 
                 <p>Entre as práticas presentes nessas celebrações, a dança de roda se destaca por integrar música, canto e movimento, promovendo interação e continuidade entre as gerações. Dessa forma, os festejos em Boi configuram-se como espaços de convivência e troca, mantendo vivos os saberes e fortalecendo os vínculos que sustentam o cotidiano da comunidade.</p>
-
+                            
             </div>
         </div>
 
@@ -121,10 +122,10 @@
         <div class="linha-principal">
             <div class="texto">
                 <h2>🧶 Artesanato</h2>
-                <p>As técnicas artesanais são transmitidas entre gerações, fortalecendo os vínculos familiares e comunitários e garantindo a continuidade dos saberes tradicionais. O aprendizado ocorre de maneira coletiva, permitindo que crianças e jovens conheçam e valorizem os modos tradicionais de produção. Dessa forma, o artesanato integra diferentes dimensões do cotidiano, mantendo vivas memórias e práticas construídas ao longo do tempo.</p>
+                
+                <p>As técnicas artesanais são transmitidas entre gerações, fortalecendo os vínculos familiares e comunitários e garantindo a continuidade dos saberes tradicionais. O aprendizado ocorre de maneira coletiva, permitindo que crianças e jovens conheçam e valorizem os modos tradicionais de produção. Dessa forma, o artesanato integra diferentes aspectos do cotidiano, mantendo vivas memórias e práticas construídas ao longo do tempo.</p>
 
-                <p>Além de seu valor simbólico, o artesanato também desempenha papel importante na economia local, sendo comercializado em feiras e eventos, o que contribui para a geração de renda e para a sustentabilidade da comunidade. Mais do que objetos, os trabalhos manuais expressam pertencimento e continuidade, preservando a história e fortalecendo os vínculos que sustentam a vida na Comunidade Boi.</p>
-
+                <p>Além de seu valor simbólico, o artesanato também desempenha um papel importante na economia local, sendo comercializado em feiras e eventos, o que contribui para a geração de renda e para a sustentabilidade da comunidade. Mais do que objetos, os trabalhos manuais representam pertencimento e continuidade, preservando a história e fortalecendo os vínculos que sustentam a vida na Comunidade Boi.</p>
             </div>
         </div>
 

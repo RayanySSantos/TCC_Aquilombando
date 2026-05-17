@@ -55,6 +55,19 @@ body.estatistica .submenu a:hover {
     text-align: center;
 }
 
+.estatistica-contexto {
+    max-width: 980px;
+    margin: 0 auto 18px;
+    text-align: justify;
+}
+
+.estatistica-contexto p {
+    margin: 0 0 10px;
+    font-size: 18px;
+    line-height: 1.6;
+    color: #6b4a33;
+}
+
 .estatistica-hero-container h1 {
     font-size: 34px;
     color: #8b5e3c;

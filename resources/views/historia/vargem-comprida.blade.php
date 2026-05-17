@@ -43,7 +43,7 @@
         <div class="historia-midia">
             <div class="historia-hero-galeria historia-hero-galeria--vargem-comprida">
                 <div class="historia-foto"><img src="{{ asset('images/Vargem Comprida/festejos/f1.jpeg') }}" alt="Vargem Comprida 1"></div>
-                <div class="historia-foto"><img src="{{ asset('images/Vargem Comprida/guardia/g1.jpeg') }}" alt="Vargem Comprida 2"></div>
+                <div class="historia-foto"><img src="{{ asset('images/Vargem Comprida/historia/hi2.jpeg') }}" alt="Vargem Comprida 2"></div>
                 <div class="historia-foto"><img src="{{ asset('images/Vargem Comprida/Agricultura/h1.jpeg') }}" alt="Vargem Comprida 3"></div>
                 <div class="historia-foto"><img src="{{ asset('images/Vargem Comprida/historia/hi3.jpeg') }}" alt="Vargem Comprida 4"></div>
                 <div class="historia-foto"><img src="{{ asset('images/Vargem Comprida/Artesanato/a3.jpeg') }}" alt="Vargem Comprida 5"></div>

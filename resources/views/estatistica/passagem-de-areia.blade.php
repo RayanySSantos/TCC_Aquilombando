@@ -3,7 +3,10 @@
 @section('content')
 <section class="estatistica-hero">
     <div class="estatistica-hero-container">
-        <h1>Perfil dos participantes da comunidade Passagem de Areia do projeto Mapeamento Gastronômico: o resgate dos saberes culinários quilombolas no Território Sertão Produtivo</h1>
+        <div class="estatistica-contexto">
+            <p>O questionário foi aplicado no contexto do projeto Mapeamento Gastronômico: o resgate dos saberes culinários quilombolas no Território Sertão Produtivo, desenvolvido junto à Comunidade Quilombola de Passagem de Areia. A coleta de dados integrou as ações da pesquisa, com o objetivo de compreender o perfil dos(as) participantes e sua relação com os saberes e práticas do cotidiano. Ao todo, participaram do estudo 6 moradores da comunidade, que contribuíram diretamente com as atividades do projeto. As informações obtidas permitem traçar um panorama do perfil dos participantes e fundamentam as análises apresentadas a seguir.</p>
+        </div>
+        <h1>Perfil dos(as) participantes – Quilombo Passagem de Areia</h1>
     </div>
 </section>
 
@@ -43,7 +46,7 @@
 
     <section class="estatistica-card estatistica-card--duo">
         <div class="estatistica-card-info estatistica-card-info--amarelo">
-            <h2>Raça</h2>
+            <h2>Autodeclaração étnico-racial</h2>
             <p>Todos os(as) participantes se autodeclararam pretos(as), representando 100% da amostra. Esse resultado reafirma a identidade negra da Comunidade Quilombola de Passagem de Areia e reforça o pertencimento étnico-racial que caracteriza historicamente os territórios quilombolas..</p>
         </div>
         <div class="estatistica-card-grafico">

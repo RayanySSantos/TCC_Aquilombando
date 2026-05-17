@@ -16,21 +16,20 @@
             
             <div class="texto">
                 <h2>📜 História</h2>
-                <p>O processo de certificação quilombola da Comunidade Quilombola de Passagem de Areia, concluído em 2011, representou um marco significativo
+                <p>O processo de certificação quilombola da Comunidade Quilombola de Passagem de Areia, concluído <strong>em 2011</strong>, representou um marco significativo
                     em sua trajetória histórica. Conduzido pela Fundação Palmares, o reconhecimento envolveu levantamento documental,
                     relatos orais e intensa mobilização interna dos moradores. Embora fundamental para a consolidação da identidade quilombola, esse processo
                     também evidenciou divergências e tensões relacionadas ao pertencimento, às expectativas e às responsabilidades coletivas dentro da comunidade.
                 </p>
 
                 <p>Apesar dos desafios enfrentados durante a certificação, o reconhecimento oficial ampliou o acesso da comunidade a políticas públicas e contribuiu
-                    para o fortalecimento da identidade quilombola no território. A certificação possibilitou maior visibilidade às demandas locais e reforçou a
-                    importância da organização coletiva como estratégia de resistência, preservação cultural e garantia de direitos históricos.
+                    para o fortalecimento da identidade quilombola no território. A certificação possibilitou maior visibilidade às demandas locais e reforçou a importância da organização coletiva como estratégia de resistência, preservação dos modos de vida e garantia de direitos históricos.
                 </p>
 
-                <p>Atualmente, a liderança comunitária é exercida por Rosângela, mulher negra, católica, de 41 anos, nativa do território e com ensino médio completo,
+                <p>Atualmente, a liderança comunitária é exercida por <strong>Rosângela Maria da Silva</strong>, mulher negra, católica, de 41 anos, nativa do território e com ensino médio completo,
                     que atua na função há cerca de dois anos. Sua gestão é marcada pelo compromisso com a valorização da identidade quilombola, a defesa dos direitos
-                    coletivos e a preservação das tradições culturais. Sob sua liderança, são articuladas ações voltadas à participação comunitária, à proteção do
-                    território e à continuidade dos saberes ancestrais, buscando conciliar desenvolvimento social e fortalecimento cultural.
+                    coletivos e a preservação das tradições. Sob sua liderança, são articuladas ações voltadas à participação comunitária, à proteção do
+                    território e à continuidade dos saberes ancestrais, buscando conciliar desenvolvimento social e fortalecimento comunitário.
                 </p>
 
             </div>
@@ -71,21 +70,11 @@
         <div class="linha-principal">
             <div class="texto">
                 <h2>🎶 Festejos</h2>
-                <p>A cultura local da Comunidade Quilombola de Passagem de Areia se expressa de forma intensa nos festejos comunitários, considerados momentos
-                    essenciais para reafirmar a memória coletiva e o sentimento de pertencimento. Entre as celebrações mais importantes estão a missa do padroeiro,
-                    que reúne os moradores em torno da fé e da vida espiritual, e a cavalgada, festividade que mobiliza famílias, cavaleiros e visitantes,
-                    fortalecendo os laços sociais e as tradições do meio rural.
-                </p>
+                <p>No Quilombo Passagem de Areia, os festejos comunitários desempenham papel importante no cotidiano, reunindo moradores em momentos que fortalecem os vínculos e mantêm vivas as memórias compartilhadas. Entre as celebrações mais significativas estão a missa do padroeiro, que reúne a comunidade em torno da fé, e a cavalgada, que mobiliza famílias, cavaleiros e visitantes, reforçando as relações e os modos de vida do meio rural.</p>
 
-                <p>Entre as manifestações culturais, o reisado ocupa lugar de destaque, integrando música, canto e representações simbólicas que atravessam gerações.
-                    Vivenciado como expressão de devoção, alegria e identidade quilombola, o reisado marca o ciclo festivo da comunidade e promove momentos de
-                    convivência coletiva, nos quais os saberes são transmitidos por meio da oralidade e da participação comunitária.
-                </p>
+                <p>Entre essas práticas, o reisado destaca-se como um momento de encontro que integra música, canto e representações simbólicas. Vivenciado com devoção e alegria, reúne diferentes gerações em experiências coletivas nas quais os saberes são compartilhados por meio da oralidade e da participação ativa.</p>
 
-                <p>Além dos festejos, a atuação das parteiras também compõe o repertório cultural de Passagem de Areia, sendo reconhecida pelo cuidado, pelo
-                    conhecimento tradicional e pelo papel histórico exercido na comunidade. Essas práticas revelam a força das tradições que sustentam a vida
-                    comunitária e asseguram a continuidade dos valores culturais, reforçando a identidade quilombola e a preservação da memória coletiva.
-                </p>
+                <p>Outro elemento importante na vida da comunidade é a atuação das parteiras, reconhecida pelo cuidado, pelo conhecimento acumulado e pelo papel histórico que desempenham. Essas práticas evidenciam a força dos saberes que sustentam o cotidiano, garantindo sua continuidade e fortalecendo os vínculos que constituem a comunidade.</p>
 
             </div>
         </div>
@@ -125,15 +114,9 @@
                     gerações e reflete a relação entre natureza, memória e identidade quilombola, mesmo sem a presença de capacitações formais estruturadas.
                 </p>
 
-                <p>As técnicas artesanais são ensinadas de geração em geração, garantindo que crianças e jovens aprendam e valorizem os modos tradicionais de produção.
-                    Esse processo fortalece os laços familiares e comunitários, preserva a memória cultural do território e reafirma o artesanato como prática
-                    cotidiana ligada à resistência cultural e à valorização dos saberes ancestrais.
-                </p>
+                <p>As técnicas artesanais são transmitidas entre gerações, permitindo que crianças e jovens aprendam e valorizem os modos tradicionais de produção. Esse processo fortalece os vínculos familiares e comunitários, mantém vivas as memórias do território e garante a continuidade desses saberes no cotidiano.</p>
 
-                <p>Além de seu valor cultural, o artesanato também desempenha papel importante na economia local, pois as peças produzidas são comercializadas
-                    em feiras e eventos, contribuindo para a geração de renda e a autonomia das famílias. Mais do que simples objetos, os trabalhos manuais
-                    representam orgulho, pertencimento e resistência, mantendo viva a história da comunidade e reforçando a importância de preservar essas práticas
-                    para as futuras gerações.
+                <p>Além de seu valor simbólico, o artesanato também contribui para a economia local, sendo comercializado em feiras e eventos, o que possibilita a geração de renda e amplia a autonomia das famílias. Mais do que objetos, os trabalhos manuais expressam pertencimento e continuidade, mantendo viva a história da comunidade e reforçando a importância de preservar esses modos de fazer entre as gerações.</p>
                 </p>
 
             </div>
@@ -179,11 +162,7 @@
                     como um espaço de educação cultural e valorização do conhecimento ancestral.
                 </p>
 
-                <p>Desde a formação da comunidade, a agricultura familiar molda as formas de trabalho coletivo e fortalece os vínculos de parentesco, articulando
-                    território, subsistência e identidade quilombola. A partir dos alimentos cultivados, os moradores produzem doces, geleias, sorvetes de mandioca
-                    e outros produtos artesanais, mantendo vivas técnicas tradicionais de preparo. Dessa forma, a agricultura familiar em Passagem de Areia se
-                    consolida como prática de sustento, cultura e resistência.
-                </p>
+                <p>Desde a formação da comunidade, a agricultura familiar organiza o trabalho coletivo e fortalece os vínculos de parentesco, articulando território, subsistência e modos de vida. A partir dos alimentos cultivados, os moradores produzem doces, geleias, sorvetes de mandioca e outros produtos artesanais, mantendo vivas técnicas tradicionais de preparo. Dessa maneira, a agricultura familiar em Passagem de Areia ultrapassa a função de sustento, constituindo-se como uma prática que fortalece relações, saberes e a continuidade da vida comunitária.</p>
 
             </div>
         </div>
@@ -276,12 +255,20 @@
         <div class="linha-principal">
             <div class="texto">
                 <h2>👵 Guardiões da Memória</h2>
-                <p>A Comunidade Quilombola de Passagem de Areia é formada por mulheres que atuam como verdadeiras guardiãs da memória, mantendo vivas as tradições, os saberes e o orgulho de pertencer ao território quilombola. Por meio do artesanato, da agricultura familiar e da culinária tradicional, essas mulheres transformam o cotidiano em resistência cultural, garantindo a continuidade de práticas construídas coletivamente ao longo das gerações. Entre essas guardiãs, destacam-se (1) Zelinda Maria da Silva, 59 anos, mulher preta e moradora desde sempre da comunidade, que se dedica à agricultura familiar e à culinária tradicional; (2) Fátima Maria da Silva, 34 anos, nascida e criada na comunidade, que atua no artesanato, nos cuidados com o lar e na agricultura familiar; e (3) Izabel Maria da Silva, 65 anos, moradora desde o nascimento, cuja principal ocupação é a agricultura familiar.</p>
+                    <p>O Quilombo Passagem de Areia é formado por mulheres que atuam como verdadeiras guardiãs da memória, preservando as tradições, os saberes e o orgulho de pertencer ao território quilombola. Por meio do artesanato, da agricultura familiar e da culinária tradicional, essas mulheres transformam o cotidiano em expressão de resistência cultural, garantindo a continuidade de práticas construídas coletivamente ao longo das gerações. Entre essas guardiãs, destacam-se:</p>
 
-                <p>Também se destaca (4) Maria Francisca da Silva, 68 anos, nascida e criada na comunidade, que desde a infância vivenciou práticas tradicionais marcadas pela criatividade e simplicidade do viver quilombola, como a confecção de bonecas de sabugo de milho. Atualmente, atua como artesã, produzindo cestos e balaios, perpetuando saberes aprendidos ao longo da vida e transmitidos entre gerações. Sua trajetória evidencia a importância do conhecimento tradicional na construção da identidade cultural da comunidade.</p>
+                    <p>Zelinda Maria da Silva, 59 anos, mulher preta e moradora da comunidade desde o nascimento, que se dedica à agricultura familiar e à culinária tradicional (1).</p>
 
-                <p>Somando-se a essas guardiãs da memória, (5) Rosângela Maria da Silva, 41 anos, mulher negra, católica e nativa da Comunidade Quilombola de Passagem de Areia, exerce a liderança comunitária há cerca de dois anos. Com ensino médio completo, atua de forma comprometida na defesa dos direitos da comunidade e no fortalecimento da identidade quilombola, incentivando a valorização da cultura, da memória e do território. Assim, Passagem de Areia se afirma como um espaço de resistência cultural, onde memória, coletividade e tradição se entrelaçam, garantindo a continuidade dos saberes e o fortalecimento da identidade quilombola.</p>
+                    <p>Fátima Maria da Silva, 34 anos, nascida e criada na comunidade, que atua no artesanato, nos cuidados com o lar e na agricultura familiar (2).</p>
 
+                    <p>Izabel Maria da Silva, 65 anos, moradora desde o nascimento, cuja principal atividade é a agricultura familiar (3).</p>
+
+                    <p>Maria Francisca da Silva, 68 anos, nascida e criada na comunidade, que desde a infância vivenciou práticas tradicionais marcadas pela criatividade e simplicidade do viver quilombola, como a confecção de bonecas de sabugo de milho. Atualmente, atua como artesã, produzindo cestos e balaios, perpetuando saberes aprendidos ao longo da vida e transmitidos entre gerações. Sua trajetória evidencia a importância do conhecimento tradicional na construção da identidade cultural da comunidade (4).</p>
+
+                    <p>Rosângela Maria da Silva, 41 anos, mulher negra, católica e nativa da Comunidade Quilombola de Passagem de Areia, exerce a liderança comunitária há cerca de dois anos. Com ensino médio completo, atua de forma comprometida na defesa dos direitos da comunidade e no fortalecimento da identidade quilombola, incentivando a valorização da cultura, da memória e do território (5).</p>
+
+                    <p>Assim, Passagem de Areia fortalece-se como um espaço de continuidade, onde memórias, vínculos e modos de viver se entrelaçam, mantendo vivos os saberes e reafirmando as formas próprias de existência da comunidade.</p>
+                                
             </div>
         </div>
 

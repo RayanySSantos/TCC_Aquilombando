@@ -40,6 +40,14 @@ document.addEventListener("DOMContentLoaded", () => {
             fonteCompleta = "Fonte: Culinária Ancestral (2025).";
         }
 
+        if (nomeQuilombo === "Quilombo Lagoa dos Anjos" && secao && secao.id === "historia") {
+            fonteCompleta = "Fonte: Vozes do Sertão (2025).";
+        }
+
+        if (nomeQuilombo === "Quilombo Passagem de Areia" && secao && secao.id === "reisado") {
+            fonteCompleta = "Fonte: Quilombo Passagem de Areia (2025);";
+        }
+
         const fontes = document.createElement("div");
         fontes.className = "carrossel-fontes";
         fontes.innerHTML = `

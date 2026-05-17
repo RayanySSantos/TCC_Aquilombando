@@ -31,7 +31,7 @@
             </p>
 
             <p>
-                Atualmente, a liderança da comunidade é exercida por Rosângela, mulher negra, católica, de 41 anos, nascida no próprio
+                Atualmente, a liderança da comunidade é exercida por <strong>Rosângela Maria da Silva</strong>, mulher negra, católica, de 41 anos, nascida no próprio
                 território e com ensino médio completo, que desempenha essa função há aproximadamente dois anos. Sua atuação é pautada no
                 compromisso com a valorização da identidade quilombola, a defesa dos direitos coletivos e a preservação das tradições culturais.
                 Durante sua gestão, são desenvolvidas ações voltadas ao fortalecimento da participação comunitária, à proteção do território e
