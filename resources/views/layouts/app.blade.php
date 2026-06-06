@@ -2,7 +2,7 @@
 <html lang="pt-BR">
     <head>
         <meta charset="UTF-8">
-        <title>Comunidades Quilombolas do Sertão Produtivo Baiano</title>
+        <title>Comunidades Quilombolas do Sertão Produtivo</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
     
         {{-- CSS GLOBAL --}}
@@ -138,7 +138,7 @@
             <div class="rodape-col">
                 <a href="/"><img src="{{ asset('images/Logo.png') }}" class="rodape-logo" alt="Logo Quilombola"></a>
                 <p class="rodape-descricao">
-                    Projeto de valorização e documentação das Comunidades Quilombolas do Sertão Produtivo Baiano.
+                    Projeto de valorização e documentação das Comunidades Quilombolas do Sertão Produtivo.
                 </p>
             </div>
     
@@ -158,15 +158,15 @@
             <!-- CONTATO -->
             <div class="rodape-col">
                 <h4>Contato</h4>
-                <p>E-mail: <a href="mailto:projeto@quilombos.com">projeto@quilombos.com</a></p>
+                <p>E-mail: <a href="mailto:rayanysantos877@gmail.com">rayanysantos877@gmail.com</a></p>
                 <p>Instituição: IF Baiano – Campus Guanambi</p>
-                <p>Projeto orientado por: [Nome da Professora]</p>
+                <p>TCC orientado por: Prof. Dra. Daniele de Brito Trindade<br>Prof. Me. George Gabriel Mendes Dourado</p>
             </div>
     
         </div>
     
         <div class="rodape-final">
-            © 2025 Comunidades Quilombolas do Sertão Produtivo Baiano. Todos os direitos reservados.
+            © 2025 Comunidades Quilombolas do Sertão Produtivo. Todos os direitos reservados.
         </div>
     </footer>
     

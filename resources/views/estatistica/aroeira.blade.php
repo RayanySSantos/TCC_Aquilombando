@@ -21,7 +21,7 @@
             <h2>Idade dos quilombolas</h2>
             <ul>
                 <p>A análise da idade dos(as) participantes da Comunidade Quilombola de Aroeira revela um perfil predominantemente composto por adultos em idade produtiva, o que reforça sua participação ativa nas dinâmicas sociais e no cotidiano da comunidade. As idades variam entre 29 e 71 anos, com média de 45,5 anos e mediana de 45 anos, indicando uma distribuição equilibrada em torno desses valores.
-Metade dos(as) participantes (50%) concentra-se na faixa entre 32 e 51 anos, evidenciando maior presença na fase intermediária da vida adulta. A ausência de valores discrepantes sugere uma distribuição homogênea, enquanto a amplitude dos dados aponta para a presença de diferentes gerações, o que contribui para a continuidade dos saberes e para a troca de experiências no interior da comunidade.</p>
+                etade dos(as) participantes (50%) concentra-se na faixa entre 32 e 51 anos, evidenciando maior presença na fase intermediária da vida adulta. A ausência de valores discrepantes sugere uma distribuição homogênea, enquanto a amplitude dos dados aponta para a presença de diferentes gerações, o que contribui para a continuidade dos saberes e para a troca de experiências no interior da comunidade.</p>
             </ul>
         </div>
     </section>
